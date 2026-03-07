@@ -1,0 +1,1971 @@
+gene_id,symbol,all_symbols,source_group,go_ids,go_names
+10010,TANK,TANK,GO10,GO:0006974,DNA damage response
+100101267,POM121C,POM121C,GO10,GO:0005635;GO:0005643;GO:0017056;GO:0031965,nuclear envelope;nuclear membrane;nuclear pore;structural constituent of nuclear pore
+100130958,SYCE1L,SYCE1L,GO10,GO:0000795,synaptonemal complex
+100131211,NEMP2,NEMP2,GO10,GO:0005635;GO:0005637,nuclear envelope;nuclear inner membrane
+10017,BCL2L10,BCL2L10,GO10,GO:0008630;GO:0031965,intrinsic apoptotic signaling pathway in response to DNA damage;nuclear membrane
+10018,BCL2L11,BCL2L11,GO10,GO:0008630,intrinsic apoptotic signaling pathway in response to DNA damage
+10036,CHAF1A,CHAF1A,GO10,GO:0006281;GO:0006974,DNA damage response;DNA repair
+10038,PARP2,PARP2,GO10,GO:0006281;GO:0006284;GO:0006302;GO:0006974;GO:0140861,base-excision repair;DNA damage response;DNA repair;DNA repair-dependent chromatin remodeling;double-strand break repair
+10039,PARP3,PARP3,GO10,GO:0006281;GO:0006302;GO:0006303;GO:0006974,DNA damage response;DNA repair;double-strand break repair;double-strand break repair via nonhomologous end joining
+100507436,MICA,MICA,GO10,GO:0006974,DNA damage response
+100507650,RNF212B,RNF212B,GO10,GO:0000795,synaptonemal complex
+10051,SMC4,SMC4,GO10,GO:0000794,condensed nuclear chromosome
+10073,SNUPN,SNUPN,GO10,GO:0005643,nuclear pore
+10075,HUWE1,HUWE1,GO10,GO:0006281;GO:0006284;GO:0006974,base-excision repair;DNA damage response;DNA repair
+10111,RAD50,RAD50,GO10,GO:0000724;GO:0000729;GO:0000794;GO:0006281;GO:0006302;GO:0006974,condensed nuclear chromosome;DNA damage response;DNA double-strand break processing;DNA repair;double-strand break repair;double-strand break repair via homologous recombination
+10128,LRPPRC,LRPPRC,GO10,GO:0000794;GO:0005637;GO:0005640,condensed nuclear chromosome;nuclear inner membrane;nuclear outer membrane
+10155,TRIM28,TRIM28,GO10,GO:0006281,DNA repair
+1017,CDK2,CDK2,GO10,GO:0005635;GO:0006281;GO:0006974;GO:0031571;GO:0043247,DNA damage response;DNA repair;mitotic G1 DNA damage checkpoint signaling;nuclear envelope;telomere maintenance in response to DNA damage
+1018,CDK3,CDK3,GO10,GO:0006974,DNA damage response
+1019,CDK4,CDK4,GO10,GO:0031965,nuclear membrane
+101928601,MEI4,MEI4,GO10,GO:0000794;GO:0000800,condensed nuclear chromosome;lateral element
+1020,CDK5,CDK5,GO10,GO:0046826,negative regulation of protein export from nucleus
+10202,DHRS2,DHRS2,GO10,GO:0005635,nuclear envelope
+10204,NUTF2,NUTF2,GO10,GO:0005637;GO:0005640;GO:0005643;GO:0017056;GO:0031965;GO:0044613,nuclear inner membrane;nuclear membrane;nuclear outer membrane;nuclear pore;nuclear pore central transport channel;structural constituent of nuclear pore
+1021,CDK6,CDK6,GO10,GO:0006974,DNA damage response
+10210,TOPORS,TOPORS,GO10,GO:0006974;GO:0008630;GO:0042771;GO:0051457,DNA damage response;intrinsic apoptotic signaling pathway in response to DNA damage;intrinsic apoptotic signaling pathway in response to DNA damage by p53 class mediator;maintenance of protein location in nucleus
+10213,PSMD14,PSMD14,GO10,GO:0000724;GO:0006281;GO:0006303;GO:0006974,DNA damage response;DNA repair;double-strand break repair via homologous recombination;double-strand break repair via nonhomologous end joining
+1022,CDK7,CDK7,GO10,GO:0006281;GO:0006289;GO:0006974,DNA damage response;DNA repair;nucleotide-excision repair
+10227,MFSD10,MFSD10,GO10,GO:0005637,nuclear inner membrane
+1025,CDK9,CDK9,GO10,GO:0006281;GO:0006974,DNA damage response;DNA repair
+1026,CDKN1A,CDKN1A,GO10,GO:0006974;GO:0007095;GO:0030330;GO:0031571;GO:0042771,"DNA damage response;DNA damage response, signal transduction by p53 class mediator;intrinsic apoptotic signaling pathway in response to DNA damage by p53 class mediator;mitotic G1 DNA damage checkpoint signaling;mitotic G2 DNA damage checkpoint signaling"
+10269,ZMPSTE24,ZMPSTE24,GO10,GO:0005635;GO:0005637;GO:0006281;GO:0006974,DNA damage response;DNA repair;nuclear envelope;nuclear inner membrane
+1027,CDKN1B,CDKN1B,GO10,GO:0030330,"DNA damage response, signal transduction by p53 class mediator"
+10273,STUB1,STUB1,GO10,GO:0006281;GO:0006974,DNA damage response;DNA repair
+10280,SIGMAR1,SIGMAR1,GO10,GO:0005635;GO:0005637;GO:0005640,nuclear envelope;nuclear inner membrane;nuclear outer membrane
+10286,BCAS2,BCAS2,GO10,GO:0005662,DNA replication factor A complex
+10293,TRAIP,TRAIP,GO10,GO:0006281;GO:0006974;GO:0106300,DNA damage response;DNA repair;protein-DNA covalent cross-linking repair
+1032,CDKN2D,CDKN2D,GO10,GO:0000731,DNA synthesis involved in DNA repair
+10388,SYCP2,SYCP2,GO10,GO:0000794;GO:0000795;GO:0000800,condensed nuclear chromosome;lateral element;synaptonemal complex
+10390,CEPT1,CEPT1,GO10,GO:0031965,nuclear membrane
+10397,NDRG1,NDRG1,GO10,GO:0030330,"DNA damage response, signal transduction by p53 class mediator"
+10413,YAP1,YAP1,GO10,GO:0006974,DNA damage response
+10424,PGRMC2,PGRMC2,GO10,GO:0005635,nuclear envelope
+10428,CFDP1,CFDP1,GO10,GO:0000812,Swr1 complex
+10430,TMEM147,TMEM147,GO10,GO:0031965,nuclear membrane
+10434,LYPLA1,LYPLA1,GO10,GO:0031965,nuclear membrane
+10445,MCRS1,MCRS1,GO10,GO:0006281;GO:0006974;GO:0031011,DNA damage response;DNA repair;Ino80 complex
+1045,CDX2,CDX2,GO10,GO:0000794,condensed nuclear chromosome
+10451,VAV3,VAV3,GO10,GO:0006974,DNA damage response
+10456,HAX1,HAX1,GO10,GO:0005635;GO:0031965,nuclear envelope;nuclear membrane
+10459,MAD2L2,MAD2L2,GO10,GO:0006281;GO:0006302;GO:0006974;GO:0019985;GO:0042276;GO:0042772;GO:0043247,"DNA damage response;DNA damage response, signal transduction resulting in transcription;DNA repair;double-strand break repair;error-prone translesion synthesis;telomere maintenance in response to DNA damage;translesion synthesis"
+10463,SLC30A9,SLC30A9,GO10,GO:0006289,nucleotide-excision repair
+10467,ZNHIT1,ZNHIT1,GO10,GO:0000812,Swr1 complex
+1047,CLGN,CLGN,GO10,GO:0005635,nuclear envelope
+10482,NXF1,NXF1,GO10,GO:0005635;GO:0005643,nuclear envelope;nuclear pore
+10498,CARM1,CARM1,GO10,GO:0043596,nuclear replication fork
+10519,CIB1,CIB1,GO10,GO:0006302;GO:0006974,DNA damage response;double-strand break repair
+10524,KAT5,KAT5,GO10,GO:0000724;GO:0000812;GO:0006281;GO:0006289;GO:0006302;GO:0006974;GO:0030330;GO:0140861,"DNA damage response;DNA damage response, signal transduction by p53 class mediator;DNA repair;DNA repair-dependent chromatin remodeling;double-strand break repair;double-strand break repair via homologous recombination;nucleotide-excision repair;Swr1 complex"
+10526,IPO8,IPO8,GO10,GO:0005635,nuclear envelope
+10527,IPO7,IPO7,GO10,GO:0005635;GO:0005643,nuclear envelope;nuclear pore
+10535,RNASEH2A,RNASEH2A,GO10,GO:0006298,mismatch repair
+10538,BATF,BATF,GO10,GO:0006974;GO:0030330,"DNA damage response;DNA damage response, signal transduction by p53 class mediator"
+10592,SMC2,SMC2,GO10,GO:0000228;GO:0000794,condensed nuclear chromosome;nuclear chromosome
+10600,USP16,USP16,GO10,GO:0006974,DNA damage response
+10609,P3H4,P3H4,GO10,GO:0000794;GO:0000795,condensed nuclear chromosome;synaptonemal complex
+1063,CENPF,CENPF,GO10,GO:0005635,nuclear envelope
+10635,RAD51AP1,RAD51AP1,GO10,GO:0000724;GO:0006281;GO:0006974;GO:0036297,DNA damage response;DNA repair;double-strand break repair via homologous recombination;interstrand cross-link repair
+10682,EBP,EBP,GO10,GO:0005635;GO:0031965,nuclear envelope;nuclear membrane
+1069,CETN2,CETN2,GO10,GO:0005635;GO:0005643;GO:0006281;GO:0006289;GO:0006974;GO:0044615,DNA damage response;DNA repair;nuclear envelope;nuclear pore;nuclear pore nuclear basket;nucleotide-excision repair
+1070,CETN3,CETN3,GO10,GO:0005635;GO:0005643;GO:0044615,nuclear envelope;nuclear pore;nuclear pore nuclear basket
+10714,POLD3,POLD3,GO10,GO:0000731;GO:0006281;GO:0006297;GO:0006298;GO:0006974;GO:0042276;GO:0043625;GO:1904161,"delta DNA polymerase complex;DNA damage response;DNA repair;DNA synthesis involved in DNA repair;DNA synthesis involved in UV-damage excision repair;error-prone translesion synthesis;mismatch repair;nucleotide-excision repair, DNA gap filling"
+10721,POLQ,POLQ,GO10,GO:0006281;GO:0006284;GO:0006302;GO:0006974;GO:0042276;GO:0097681,base-excision repair;DNA damage response;DNA repair;double-strand break repair;double-strand break repair via alternative nonhomologous end joining;error-prone translesion synthesis
+10725,NFAT5,NFAT5,GO10,GO:0006974,DNA damage response
+10734,STAG3,STAG3,GO10,GO:0000795,synaptonemal complex
+10762,NUP50,NUP50,GO10,GO:0005635;GO:0005643;GO:0031965,nuclear envelope;nuclear membrane;nuclear pore
+10769,PLK2,PLK2,GO10,GO:0030330,"DNA damage response, signal transduction by p53 class mediator"
+10785,WDR4,WDR4,GO10,GO:0006974,DNA damage response
+10847,SRCAP,SRCAP,GO10,GO:0000812,Swr1 complex
+10856,RUVBL2,RUVBL2,GO10,GO:0000812;GO:0006281;GO:0006974;GO:0031011,DNA damage response;DNA repair;Ino80 complex;Swr1 complex
+10902,BRD8,BRD8,GO10,GO:0000812,Swr1 complex
+10926,DBF4,DBF4,GO10,GO:0031573,mitotic intra-S DNA damage checkpoint signaling
+10933,MORF4L1,MORF4L1,GO10,GO:0000724;GO:0006281;GO:0006974;GO:0070822,DNA damage response;DNA repair;double-strand break repair via homologous recombination;Sin3-type complex
+10951,CBX1,CBX1,GO10,GO:0006974,DNA damage response
+10966,RAB40B,RAB40B,GO10,GO:0005635,nuclear envelope
+10973,ASCC3,ASCC3,GO10,GO:0006281;GO:0006307;GO:0006974,DNA alkylation repair;DNA damage response;DNA repair
+10983,CCNI,CCNI,GO10,GO:0031965,nuclear membrane
+11011,TLK2,TLK2,GO10,GO:0006974,DNA damage response
+1104,RCC1,RCC1,GO10,GO:0000794,condensed nuclear chromosome
+11044,TENT4A,TENT4A,GO10,GO:0006302,double-strand break repair
+1105,CHD1,CHD1,GO10,GO:0000228,nuclear chromosome
+11052,CPSF6,CPSF6,GO10,GO:0005726,perichromatin fibrils
+1106,CHD2,CHD2,GO10,GO:0006974,DNA damage response
+11073,TOPBP1,TOPBP1,GO10,GO:0000077;GO:0000724;GO:0000794;GO:0006281;GO:0006974;GO:0007095;GO:0097680;GO:0097681;GO:0141112,broken chromosome clustering;condensed nuclear chromosome;DNA damage checkpoint signaling;DNA damage response;DNA repair;double-strand break repair via alternative nonhomologous end joining;double-strand break repair via classical nonhomologous end joining;double-strand break repair via homologous recombination;mitotic G2 DNA damage checkpoint signaling
+11077,HSF2BP,HSF2BP,GO10,GO:1990918,double-strand break repair involved in meiotic recombination
+1108,CHD4,CHD4,GO10,GO:0000724,double-strand break repair via homologous recombination
+11097,NUP42,NUP42,GO10,GO:0005635;GO:0005643;GO:0031965,nuclear envelope;nuclear membrane;nuclear pore
+1111,CHEK1,CHEK1,GO10,GO:0000077;GO:0000794;GO:0006281;GO:0006974;GO:0007095;GO:0042770,condensed nuclear chromosome;DNA damage checkpoint signaling;DNA damage response;DNA repair;mitotic G2 DNA damage checkpoint signaling;signal transduction in response to DNA damage
+1112,FOXN3,FOXN3,GO10,GO:0007095,mitotic G2 DNA damage checkpoint signaling
+11124,FAF1,FAF1,GO10,GO:0005635,nuclear envelope
+11143,KAT7,KAT7,GO10,GO:0006281;GO:0006974,DNA damage response;DNA repair
+11144,DMC1,DMC1,GO10,GO:0000724;GO:0000730;GO:0000794;GO:0000800;GO:0006281;GO:1990918,condensed nuclear chromosome;DNA recombinase assembly;DNA repair;double-strand break repair involved in meiotic recombination;double-strand break repair via homologous recombination;lateral element
+11145,PLAAT3,PLAAT3,GO10,GO:0005635,nuclear envelope
+11169,WDHD1,WDHD1,GO10,GO:0006281;GO:0043596,DNA repair;nuclear replication fork
+11177,BAZ1A,BAZ1A,GO10,GO:0000228,nuclear chromosome
+11198,SUPT16H,SUPT16H,GO10,GO:0006281;GO:0006974,DNA damage response;DNA repair
+11200,CHEK2,CHEK2,GO10,GO:0000077;GO:0006281;GO:0006302;GO:0006974;GO:0008630;GO:0030330;GO:0031573;GO:0042770;GO:0042771;GO:0044773,"DNA damage checkpoint signaling;DNA damage response;DNA damage response, signal transduction by p53 class mediator;DNA repair;double-strand break repair;intrinsic apoptotic signaling pathway in response to DNA damage;intrinsic apoptotic signaling pathway in response to DNA damage by p53 class mediator;mitotic DNA damage checkpoint signaling;mitotic intra-S DNA damage checkpoint signaling;signal transduction in response to DNA damage"
+11201,POLI,POLI,GO10,GO:0006281;GO:0006974;GO:0019985;GO:0042276,DNA damage response;DNA repair;error-prone translesion synthesis;translesion synthesis
+11219,TREX2,TREX2,GO10,GO:0006281;GO:0006974,DNA damage response;DNA repair
+112399,EGLN3,EGLN3,GO10,GO:0006974,DNA damage response
+11260,XPOT,XPOT,GO10,GO:0005643,nuclear pore
+11269,DDX19B,DDX19B,GO10,GO:0005643,nuclear pore
+11270,NRM,NRM,GO10,GO:0005635;GO:0005637;GO:0031965,nuclear envelope;nuclear inner membrane;nuclear membrane
+11277,TREX1,TREX1,GO10,GO:0000077;GO:0005635;GO:0006281;GO:0006298;GO:0006974;GO:0031571;GO:0043596;GO:1904161,DNA damage checkpoint signaling;DNA damage response;DNA repair;DNA synthesis involved in UV-damage excision repair;mismatch repair;mitotic G1 DNA damage checkpoint signaling;nuclear envelope;nuclear replication fork
+11284,PNKP,PNKP,GO10,GO:0006281;GO:0006287;GO:0006289;GO:0006303;GO:0006974,"base-excision repair, gap-filling;DNA damage response;DNA repair;double-strand break repair via nonhomologous end joining;nucleotide-excision repair"
+113130,CDCA5,CDCA5,GO10,GO:0006302,double-strand break repair
+11315,PARK7,PARK7,GO10,GO:0006281;GO:0006974;GO:0046826,DNA damage response;DNA repair;negative regulation of protein export from nucleus
+11322,TMC6,TMC6,GO10,GO:0031965,nuclear membrane
+113278,SLC52A3,SLC52A3,GO10,GO:0031965,nuclear membrane
+11329,STK38,STK38,GO10,GO:0000077;GO:0006974,DNA damage checkpoint signaling;DNA damage response
+11335,CBX3,CBX3,GO10,GO:0005635;GO:0005637;GO:0006974,DNA damage response;nuclear envelope;nuclear inner membrane
+11342,RNF13,RNF13,GO10,GO:0005637,nuclear inner membrane
+113510,HELQ,HELQ,GO10,GO:0000724;GO:0006281;GO:0006974;GO:0010792;GO:0045003;GO:0097681,DNA damage response;DNA double-strand break processing involved in repair via single-strand annealing;DNA repair;double-strand break repair via alternative nonhomologous end joining;double-strand break repair via homologous recombination;double-strand break repair via synthesis-dependent strand annealing
+1137,CHRNA4,CHRNA4,GO10,GO:0006281,DNA repair
+113878,DTX2,DTX2,GO10,GO:0031965,nuclear membrane
+114880,OSBPL6,OSBPL6,GO10,GO:0005635;GO:0031965,nuclear envelope;nuclear membrane
+114881,OSBPL7,OSBPL7,GO10,GO:0031965,nuclear membrane
+114882,OSBPL8,OSBPL8,GO10,GO:0031965,nuclear membrane
+115004,CGAS,CGAS,GO10,GO:0006281;GO:0006974,DNA damage response;DNA repair
+116028,RMI2,RMI2,GO10,GO:0000724;GO:0006281,DNA repair;double-strand break repair via homologous recombination
+1161,ERCC8,ERCC8,GO10,GO:0000012;GO:0006281;GO:0006283;GO:0006289;GO:0006974;GO:0097680,DNA damage response;DNA repair;double-strand break repair via classical nonhomologous end joining;nucleotide-excision repair;single strand break repair;transcription-coupled nucleotide-excision repair
+118471,PRAP1,PRAP1,GO10,GO:0006974;GO:0030330,"DNA damage response;DNA damage response, signal transduction by p53 class mediator"
+1192,CLIC1,CLIC1,GO10,GO:0005635;GO:0031965,nuclear envelope;nuclear membrane
+119392,SFR1,SFR1,GO10,GO:0000228;GO:0000707;GO:0000724;GO:0006281;GO:0006974;GO:0032798,DNA damage response;DNA repair;double-strand break repair via homologous recombination;meiotic DNA recombinase assembly;nuclear chromosome;Swi5-Sfr1 complex
+1195,CLK1,CLK1,GO10,GO:0031965,nuclear membrane
+120,ADD3,ADD3,GO10,GO:0000794,condensed nuclear chromosome
+121642,ALKBH2,ALKBH2,GO10,GO:0006281;GO:0006307;GO:0006974,DNA alkylation repair;DNA damage response;DNA repair
+123920,CMTM3,CMTM3,GO10,GO:0031965,nuclear membrane
+124491,TMEM170A,TMEM170A,GO10,GO:0005635,nuclear envelope
+124739,USP43,USP43,GO10,GO:0019985,translesion synthesis
+125150,ZSWIM7,ZSWIM7,GO10,GO:0000724;GO:0006281;GO:0006974,DNA damage response;DNA repair;double-strand break repair via homologous recombination
+125476,INO80C,INO80C,GO10,GO:0006281;GO:0006974;GO:0031011,DNA damage response;DNA repair;Ino80 complex
+125972,CALR3,CALR3,GO10,GO:0005635,nuclear envelope
+126074,SWSAP1,SWSAP1,GO10,GO:0000724;GO:0006281;GO:0006974,DNA damage response;DNA repair;double-strand break repair via homologous recombination
+1263,PLK3,PLK3,GO10,GO:0006974;GO:0030330,"DNA damage response;DNA damage response, signal transduction by p53 class mediator"
+126520,PLK5,PLK5,GO10,GO:0006974,DNA damage response
+126549,ANKLE1,ANKLE1,GO10,GO:0000724;GO:0006281;GO:0006974,DNA damage response;DNA repair;double-strand break repair via homologous recombination
+127845,GOLT1A,GOLT1A,GO10,GO:0005635,nuclear envelope
+128637,TBC1D20,TBC1D20,GO10,GO:0031965,nuclear membrane
+128866,CHMP4B,CHMP4B,GO10,GO:0005635;GO:0005643,nuclear envelope;nuclear pore
+129401,NUP35,NUP35,GO10,GO:0005635;GO:0005643;GO:0017056;GO:0031965;GO:0044613;GO:0044615,nuclear envelope;nuclear membrane;nuclear pore;nuclear pore central transport channel;nuclear pore nuclear basket;structural constituent of nuclear pore
+129685,TAF8,TAF8,GO10,GO:0051457,maintenance of protein location in nucleus
+129787,TMEM18,TMEM18,GO10,GO:0031965,nuclear membrane
+133746,JMY,JMY,GO10,GO:0006281;GO:0006974,DNA damage response;DNA repair
+135458,HUS1B,HUS1B,GO10,GO:0000077;GO:0000724;GO:0006289;GO:0030896;GO:0031573,checkpoint clamp complex;DNA damage checkpoint signaling;double-strand break repair via homologous recombination;mitotic intra-S DNA damage checkpoint signaling;nucleotide-excision repair
+138162,PIERCE1,PIERCE1,GO10,GO:0006974,DNA damage response
+1386,ATF2,ATF2,GO10,GO:0006974;GO:0031573,DNA damage response;mitotic intra-S DNA damage checkpoint signaling
+1396,CRIP1,CRIP1,GO10,GO:0008630,intrinsic apoptotic signaling pathway in response to DNA damage
+1407,CRY1,CRY1,GO10,GO:0042770,signal transduction in response to DNA damage
+140732,SUN5,SUN5,GO10,GO:0005635;GO:0005637;GO:0034993,meiotic nuclear membrane microtubule tethering complex;nuclear envelope;nuclear inner membrane
+140733,MACROD2,MACROD2,GO10,GO:0006974,DNA damage response
+1408,CRY2,CRY2,GO10,GO:0000719,photoreactive repair
+142,PARP1,PARP1,GO10,GO:0005635;GO:0006281;GO:0006302;GO:0006974;GO:0043504;GO:0043596,DNA damage response;DNA repair;double-strand break repair;mitochondrial DNA repair;nuclear envelope;nuclear replication fork
+143,PARP4,PARP4,GO10,GO:0006281;GO:0006974,DNA damage response;DNA repair
+1432,MAPK14,MAPK14,GO10,GO:0000077;GO:0006974;GO:0042770,DNA damage checkpoint signaling;DNA damage response;signal transduction in response to DNA damage
+1434,CSE1L,CSE1L,GO10,GO:0005635,nuclear envelope
+143684,FAM76B,FAM76B,GO10,GO:0046826,negative regulation of protein export from nucleus
+144097,SPINDOC,SPINDOC,GO10,GO:0006974,DNA damage response
+144165,PRICKLE1,PRICKLE1,GO10,GO:0031965,nuclear membrane
+144404,TMEM120B,TMEM120B,GO10,GO:0005637,nuclear inner membrane
+144455,E2F7,E2F7,GO10,GO:0006974;GO:0030330,"DNA damage response;DNA damage response, signal transduction by p53 class mediator"
+144715,RAD9B,RAD9B,GO10,GO:0000077;GO:0006281;GO:0030896;GO:0031573,checkpoint clamp complex;DNA damage checkpoint signaling;DNA repair;mitotic intra-S DNA damage checkpoint signaling
+1454,CSNK1E,CSNK1E,GO10,GO:0006281,DNA repair
+145645,TERB2,TERB2,GO10,GO:0005635;GO:0005637;GO:0031965;GO:1990918,double-strand break repair involved in meiotic recombination;nuclear envelope;nuclear inner membrane;nuclear membrane
+1457,CSNK2A1,CSNK2A1,GO10,GO:0006302;GO:0006974;GO:0070822,DNA damage response;double-strand break repair;Sin3-type complex
+1459,CSNK2A2,CSNK2A2,GO10,GO:0006302;GO:0006974,DNA damage response;double-strand break repair
+145942,TMCO5A,TMCO5A,GO10,GO:0031965,nuclear membrane
+146956,EME1,EME1,GO10,GO:0000228;GO:0006281;GO:0006302;GO:0006974;GO:0031573;GO:0043596,DNA damage response;DNA repair;double-strand break repair;mitotic intra-S DNA damage checkpoint signaling;nuclear chromosome;nuclear replication fork
+147,ADRA1B,ADRA1B,GO10,GO:0031965,nuclear membrane
+147138,TMC8,TMC8,GO10,GO:0031965,nuclear membrane
+147872,KASH5,KASH5,GO10,GO:0000724;GO:0000800;GO:0005635;GO:0005640;GO:0034993,double-strand break repair via homologous recombination;lateral element;meiotic nuclear membrane microtubule tethering complex;nuclear envelope;nuclear outer membrane
+148,ADRA1A,ADRA1A,GO10,GO:0031965,nuclear membrane
+148362,BROX,BROX,GO10,GO:0005635;GO:0031965,nuclear envelope;nuclear membrane
+148479,PHF13,PHF13,GO10,GO:0006974,DNA damage response
+148581,UBE2U,UBE2U,GO10,GO:0006281,DNA repair
+1493,CTLA4,CTLA4,GO10,GO:0006974,DNA damage response
+149840,SHLD1,SHLD1,GO10,GO:0006281;GO:0006974;GO:0043247,DNA damage response;DNA repair;telomere maintenance in response to DNA damage
+150280,HORMAD2,HORMAD2,GO10,GO:0000795,synaptonemal complex
+1503,CTPS1,CTPS1,GO10,GO:0140861,DNA repair-dependent chromatin remodeling
+150684,COMMD1,COMMD1,GO10,GO:0006289,nucleotide-excision repair
+151188,ARL6IP6,ARL6IP6,GO10,GO:0005637,nuclear inner membrane
+151636,DTX3L,DTX3L,GO10,GO:0000077;GO:0006281;GO:0006302;GO:0006974;GO:0140861,DNA damage checkpoint signaling;DNA damage response;DNA repair;DNA repair-dependent chromatin remodeling;double-strand break repair
+152206,CCDC13,CCDC13,GO10,GO:0006974,DNA damage response
+1536,CYBB,CYBB,GO10,GO:0005635,nuclear envelope
+157570,ESCO2,ESCO2,GO10,GO:0006302,double-strand break repair
+157777,MCMDC2,MCMDC2,GO10,GO:0000727;GO:0006281;GO:0006974;GO:0007146;GO:0042140;GO:1990918,DNA damage response;DNA repair;double-strand break repair involved in meiotic recombination;double-strand break repair via break-induced replication;late meiotic recombination nodule assembly;meiotic recombination nodule assembly
+158401,SHOC1,SHOC1,GO10,GO:0000794,condensed nuclear chromosome
+158880,USP51,USP51,GO10,GO:0006281;GO:0006974;GO:0140861,DNA damage response;DNA repair;DNA repair-dependent chromatin remodeling
+158983,H2BW1,H2BW1,GO10,GO:0031965,nuclear membrane
+160492,LMNTD1,LMNTD1,GO10,GO:0005635,nuclear envelope
+160728,SLC5A8,SLC5A8,GO10,GO:0000811,GINS complex
+161176,SYNE3,SYNE3,GO10,GO:0005635;GO:0005640;GO:0031965;GO:0034993,meiotic nuclear membrane microtubule tethering complex;nuclear envelope;nuclear membrane;nuclear outer membrane
+163087,ZNF383,ZNF383,GO10,GO:0031965,nuclear membrane
+163183,SYNE4,SYNE4,GO10,GO:0005635;GO:0005640;GO:0034993,meiotic nuclear membrane microtubule tethering complex;nuclear envelope;nuclear outer membrane
+163590,TOR1AIP2,TOR1AIP2,GO10,GO:0031965,nuclear membrane
+163859,SDE2,SDE2,GO10,GO:0031571,mitotic G1 DNA damage checkpoint signaling
+1639,DCTN1,DCTN1,GO10,GO:0005635,nuclear envelope
+1642,DDB1,DDB1,GO10,GO:0006281;GO:0006289;GO:0006974;GO:0070914,DNA damage response;DNA repair;nucleotide-excision repair;UV-damage excision repair
+1643,DDB2,DDB2,GO10,GO:0006281;GO:0006289;GO:0006290;GO:0006974;GO:0070914,DNA damage response;DNA repair;nucleotide-excision repair;pyrimidine dimer repair;UV-damage excision repair
+1647,GADD45A,GADD45A,GO10,GO:0006281;GO:0006974;GO:0042770,DNA damage response;DNA repair;signal transduction in response to DNA damage
+1649,DDIT3,DDIT3,GO10,GO:0006974,DNA damage response
+1653,DDX1,DDX1,GO10,GO:0006302,double-strand break repair
+165918,RNF168,RNF168,GO10,GO:0006281;GO:0006302;GO:0006303;GO:0006974;GO:0036297;GO:0097680;GO:0140861,DNA damage response;DNA repair;DNA repair-dependent chromatin remodeling;double-strand break repair;double-strand break repair via classical nonhomologous end joining;double-strand break repair via nonhomologous end joining;interstrand cross-link repair
+1660,DHX9,DHX9,GO10,GO:0005726,perichromatin fibrils
+1663,DDX11,DDX11,GO10,GO:0006281;GO:0006974,DNA damage response;DNA repair
+166336,PRICKLE2,PRICKLE2,GO10,GO:0031965,nuclear membrane
+1674,DES,DES,GO10,GO:0005635,nuclear envelope
+169714,QSOX2,QSOX2,GO10,GO:0031965,nuclear membrane
+170392,OIT3,OIT3,GO10,GO:0005635,nuclear envelope
+171389,NLRP6,NLRP6,GO10,GO:0031965,nuclear membrane
+171482,FAM9A,FAM9A,GO10,GO:0000795,synaptonemal complex
+171483,FAM9B,FAM9B,GO10,GO:0000795,synaptonemal complex
+171484,FAM9C,FAM9C,GO10,GO:0000795,synaptonemal complex
+1717,DHCR7,DHCR7,GO10,GO:0005640,nuclear outer membrane
+1760,DMPK,DMPK,GO10,GO:0005640;GO:0031965,nuclear membrane;nuclear outer membrane
+177,AGER,AGER,GO10,GO:0006281;GO:0006974,DNA damage response;DNA repair
+1773,DNASE1,DNASE1,GO10,GO:0005635,nuclear envelope
+1791,DNTT,DNTT,GO10,GO:0006281;GO:0006303,DNA repair;double-strand break repair via nonhomologous end joining
+1844,DUSP2,DUSP2,GO10,GO:0031965,nuclear membrane
+1861,TOR1A,TOR1A,GO10,GO:0005635;GO:0031965,nuclear envelope;nuclear membrane
+1869,E2F1,E2F1,GO10,GO:0000077;GO:0000228;GO:0008630,DNA damage checkpoint signaling;intrinsic apoptotic signaling pathway in response to DNA damage;nuclear chromosome
+1910,EDNRB,EDNRB,GO10,GO:0031965,nuclear membrane
+192669,AGO3,AGO3,GO10,GO:0000794,condensed nuclear chromosome
+1956,EGFR,EGFR,GO10,GO:0031965,nuclear membrane
+1969,EPHA2,EPHA2,GO10,GO:0008630,intrinsic apoptotic signaling pathway in response to DNA damage
+197342,EME2,EME2,GO10,GO:0006281;GO:0006302;GO:0006974;GO:0031573;GO:0043596,DNA damage response;DNA repair;double-strand break repair;mitotic intra-S DNA damage checkpoint signaling;nuclear replication fork
+197370,NSMCE1,NSMCE1,GO10,GO:0000724;GO:0006281;GO:0006974,DNA damage response;DNA repair;double-strand break repair via homologous recombination
+1984,EIF5A,EIF5A,GO10,GO:0005643,nuclear pore
+199720,GGN,GGN,GO10,GO:0006302,double-strand break repair
+199953,TMEM201,TMEM201,GO10,GO:0005637;GO:0031965,nuclear inner membrane;nuclear membrane
+199990,FAAP20,FAAP20,GO10,GO:0006281;GO:0006974;GO:0019985;GO:0036297,DNA damage response;DNA repair;interstrand cross-link repair;translesion synthesis
+200014,CC2D1B,CC2D1B,GO10,GO:0005635,nuclear envelope
+200232,FAM209A,FAM209A,GO10,GO:0005637,nuclear inner membrane
+200558,APLF,APLF,GO10,GO:0000012;GO:0006281;GO:0006302;GO:0006303;GO:0006974;GO:0140861,DNA damage response;DNA repair;DNA repair-dependent chromatin remodeling;double-strand break repair;double-strand break repair via nonhomologous end joining;single strand break repair
+200933,FBXO45,FBXO45,GO10,GO:0006974,DNA damage response
+2010,EMD,EMD,GO10,GO:0005635;GO:0005637;GO:0005640;GO:0031965,nuclear envelope;nuclear inner membrane;nuclear membrane;nuclear outer membrane
+201973,PRIMPOL,PRIMPOL,GO10,GO:0006281;GO:0006974;GO:0019985;GO:0042276;GO:0043504,DNA damage response;DNA repair;error-prone translesion synthesis;mitochondrial DNA repair;translesion synthesis
+2021,ENDOG,ENDOG,GO10,GO:0006974,DNA damage response
+202151,RANBP3L,RANBP3L,GO10,GO:0005643,nuclear pore
+2023,ENO1,ENO1,GO10,GO:0005640,nuclear outer membrane
+203068,TUBB,TUBB,GO10,GO:0005641,nuclear envelope lumen
+203228,C9orf72,C9orf72,GO10,GO:0031965,nuclear membrane
+2033,EP300,EP300,GO10,GO:0042771;GO:0140861,DNA repair-dependent chromatin remodeling;intrinsic apoptotic signaling pathway in response to DNA damage by p53 class mediator
+204851,HIPK1,HIPK1,GO10,GO:0042771,intrinsic apoptotic signaling pathway in response to DNA damage by p53 class mediator
+2067,ERCC1,ERCC1,GO10,GO:0000720;GO:0006281;GO:0006289;GO:0006302;GO:0006303;GO:0006974;GO:0036297;GO:0070914,DNA damage response;DNA repair;double-strand break repair;double-strand break repair via nonhomologous end joining;interstrand cross-link repair;nucleotide-excision repair;pyrimidine dimer repair by nucleotide-excision repair;UV-damage excision repair
+2068,ERCC2,ERCC2,GO10,GO:0006281;GO:0006283;GO:0006289;GO:0006974,DNA damage response;DNA repair;nucleotide-excision repair;transcription-coupled nucleotide-excision repair
+2070,EYA4,EYA4,GO10,GO:0006281;GO:0006974,DNA damage response;DNA repair
+2071,ERCC3,ERCC3,GO10,GO:0006281;GO:0006283;GO:0006289;GO:0006974,DNA damage response;DNA repair;nucleotide-excision repair;transcription-coupled nucleotide-excision repair
+2072,ERCC4,ERCC4,GO10,GO:0000724;GO:0006281;GO:0006289;GO:0006303;GO:0006974;GO:1901255,DNA damage response;DNA repair;double-strand break repair via homologous recombination;double-strand break repair via nonhomologous end joining;nucleotide-excision repair;nucleotide-excision repair involved in interstrand cross-link repair
+2073,ERCC5,ERCC5,GO10,GO:0000724;GO:0005662;GO:0006281;GO:0006283;GO:0006285;GO:0006289;GO:0006974,"base-excision repair, AP site formation;DNA damage response;DNA repair;DNA replication factor A complex;double-strand break repair via homologous recombination;nucleotide-excision repair;transcription-coupled nucleotide-excision repair"
+2074,ERCC6,ERCC6,GO10,GO:0000012;GO:0000077;GO:0006281;GO:0006283;GO:0006284;GO:0006290;GO:0006974;GO:0008630;GO:0097680,base-excision repair;DNA damage checkpoint signaling;DNA damage response;DNA repair;double-strand break repair via classical nonhomologous end joining;intrinsic apoptotic signaling pathway in response to DNA damage;pyrimidine dimer repair;single strand break repair;transcription-coupled nucleotide-excision repair
+2081,ERN1,ERN1,GO10,GO:0005637,nuclear inner membrane
+2138,EYA1,EYA1,GO10,GO:0006281;GO:0006302;GO:0006974,DNA damage response;DNA repair;double-strand break repair
+2139,EYA2,EYA2,GO10,GO:0006281;GO:0006974,DNA damage response;DNA repair
+2140,EYA3,EYA3,GO10,GO:0006281;GO:0006302;GO:0006974,DNA damage response;DNA repair;double-strand break repair
+2175,FANCA,FANCA,GO10,GO:0006281;GO:0006974;GO:0036297,DNA damage response;DNA repair;interstrand cross-link repair
+2176,FANCC,FANCC,GO10,GO:0006281;GO:0006289;GO:0006974;GO:0036297,DNA damage response;DNA repair;interstrand cross-link repair;nucleotide-excision repair
+2177,FANCD2,FANCD2,GO10,GO:0006281;GO:0006974;GO:0031573;GO:0036297;GO:1990918,DNA damage response;DNA repair;double-strand break repair involved in meiotic recombination;interstrand cross-link repair;mitotic intra-S DNA damage checkpoint signaling
+2178,FANCE,FANCE,GO10,GO:0006281;GO:0006974;GO:0036297,DNA damage response;DNA repair;interstrand cross-link repair
+2187,FANCB,FANCB,GO10,GO:0006281;GO:0006974;GO:0036297;GO:1990414,DNA damage response;DNA repair;interstrand cross-link repair;replication-born double-strand break repair via sister chromatid exchange
+2188,FANCF,FANCF,GO10,GO:0006281;GO:0006974;GO:0036297,DNA damage response;DNA repair;interstrand cross-link repair
+2189,FANCG,FANCG,GO10,GO:0006281;GO:0006974;GO:0036297,DNA damage response;DNA repair;interstrand cross-link repair
+221120,ALKBH3,ALKBH3,GO10,GO:0006281;GO:0006307;GO:0006974,DNA alkylation repair;DNA damage response;DNA repair
+221264,AK9,AK9,GO10,GO:0031965,nuclear membrane
+221443,OARD1,OARD1,GO10,GO:0006974,DNA damage response
+221496,LEMD2,LEMD2,GO10,GO:0005635;GO:0005637;GO:0031965,nuclear envelope;nuclear inner membrane;nuclear membrane
+221662,RBM24,RBM24,GO10,GO:0006974,DNA damage response
+221711,SYCP2L,SYCP2L,GO10,GO:0000800,lateral element
+221927,BRAT1,BRAT1,GO10,GO:0006974,DNA damage response
+222229,LRWD1,LRWD1,GO10,GO:0005664,nuclear origin of replication recognition complex
+222236,NAPEPLD,NAPEPLD,GO10,GO:0005635,nuclear envelope
+2237,FEN1,FEN1,GO10,GO:0000724;GO:0006281;GO:0006284;GO:0006287;GO:0006302;GO:0006974,"base-excision repair;base-excision repair, gap-filling;DNA damage response;DNA repair;double-strand break repair;double-strand break repair via homologous recombination"
+225689,MAPK15,MAPK15,GO10,GO:0006974,DNA damage response
+2271,FH,FH,GO10,GO:0006281;GO:0006974,DNA damage response;DNA repair
+22794,CASC3,CASC3,GO10,GO:0031965,nuclear membrane
+22880,MORC2,MORC2,GO10,GO:0006974,DNA damage response
+22890,ZBTB1,ZBTB1,GO10,GO:0006281;GO:0006974;GO:0019985;GO:0031965,DNA damage response;DNA repair;nuclear membrane;translesion synthesis
+22897,CEP164,CEP164,GO10,GO:0006281;GO:0006974,DNA damage response;DNA repair
+22909,FAN1,FAN1,GO10,GO:0000724;GO:0006281;GO:0006289;GO:0006974;GO:0036297,DNA damage response;DNA repair;double-strand break repair via homologous recombination;interstrand cross-link repair;nucleotide-excision repair
+22920,KIFAP3,KIFAP3,GO10,GO:0000794,condensed nuclear chromosome
+22926,ATF6,ATF6,GO10,GO:0005635,nuclear envelope
+22927,HABP4,HABP4,GO10,GO:0031965,nuclear membrane
+22929,SEPHS1,SEPHS1,GO10,GO:0031965,nuclear membrane
+22938,SNW1,SNW1,GO10,GO:0042771,intrinsic apoptotic signaling pathway in response to DNA damage by p53 class mediator
+22944,KIN,KIN,GO10,GO:0006281;GO:0006974,DNA damage response;DNA repair
+22976,PAXIP1,PAXIP1,GO10,GO:0006281;GO:0006974;GO:0030330,"DNA damage response;DNA damage response, signal transduction by p53 class mediator;DNA repair"
+22992,KDM2A,KDM2A,GO10,GO:0006303,double-strand break repair via nonhomologous end joining
+23,ABCF1,ABCF1,GO10,GO:0005635,nuclear envelope
+23001,WDFY3,WDFY3,GO10,GO:0005635;GO:0031965,nuclear envelope;nuclear membrane
+23028,KDM1A,KDM1A,GO10,GO:0140861,DNA repair-dependent chromatin remodeling
+23039,XPO7,XPO7,GO10,GO:0005643,nuclear pore
+23047,PDS5B,PDS5B,GO10,GO:0000724,double-strand break repair via homologous recombination
+23049,SMG1,SMG1,GO10,GO:0006281;GO:0006974,DNA damage response;DNA repair
+2305,FOXM1,FOXM1,GO10,GO:0006281;GO:0006974;GO:0030330,"DNA damage response;DNA damage response, signal transduction by p53 class mediator;DNA repair"
+23054,NCOA6,NCOA6,GO10,GO:0006974,DNA damage response
+23063,WAPL,WAPL,GO10,GO:0000795,synaptonemal complex
+23064,SETX,SETX,GO10,GO:0000228;GO:0006281;GO:0006302;GO:0006974,DNA damage response;DNA repair;double-strand break repair;nuclear chromosome
+2308,FOXO1,FOXO1,GO10,GO:0006974,DNA damage response
+2309,FOXO3,FOXO3,GO10,GO:0030330,"DNA damage response, signal transduction by p53 class mediator"
+23117,NPIPB3,NPIPB3,GO10,GO:0005635,nuclear envelope
+23126,POGZ,POGZ,GO10,GO:0000724;GO:0006281;GO:0006974,DNA damage response;DNA repair;double-strand break repair via homologous recombination
+23137,SMC5,SMC5,GO10,GO:0000724;GO:0006281;GO:0006302;GO:0006303;GO:0006974,DNA damage response;DNA repair;double-strand break repair;double-strand break repair via homologous recombination;double-strand break repair via nonhomologous end joining
+23165,NUP205,NUP205,GO10,GO:0005635;GO:0005643;GO:0017056;GO:0031965;GO:0044611,nuclear envelope;nuclear membrane;nuclear pore;nuclear pore inner ring;structural constituent of nuclear pore
+23175,LPIN1,LPIN1,GO10,GO:0005635;GO:0031965,nuclear envelope;nuclear membrane
+23190,UBXN4,UBXN4,GO10,GO:0005635,nuclear envelope
+23198,PSME4,PSME4,GO10,GO:0006281;GO:0006974,DNA damage response;DNA repair
+23200,ATP11B,ATP11B,GO10,GO:0005637,nuclear inner membrane
+23212,RRS1,RRS1,GO10,GO:0000794,condensed nuclear chromosome
+23223,RRP12,RRP12,GO10,GO:0031965,nuclear membrane
+23224,SYNE2,SYNE2,GO10,GO:0005635;GO:0005640;GO:0031965;GO:0034993,meiotic nuclear membrane microtubule tethering complex;nuclear envelope;nuclear membrane;nuclear outer membrane
+23225,NUP210,NUP210,GO10,GO:0005635;GO:0005643;GO:0031965,nuclear envelope;nuclear membrane;nuclear pore
+23236,PLCB1,PLCB1,GO10,GO:0031965,nuclear membrane
+23279,NUP160,NUP160,GO10,GO:0005635;GO:0005643;GO:0017056;GO:0031080,nuclear envelope;nuclear pore;nuclear pore outer ring;structural constituent of nuclear pore
+23291,FBXW11,FBXW11,GO10,GO:0005635,nuclear envelope
+23299,BICD2,BICD2,GO10,GO:0005635;GO:0005643,nuclear envelope;nuclear pore
+23300,ATMIN,ATMIN,GO10,GO:0006974,DNA damage response
+23306,NEMP1,NEMP1,GO10,GO:0005635;GO:0005637,nuclear envelope;nuclear inner membrane
+23309,SIN3B,SIN3B,GO10,GO:0070822,Sin3-type complex
+23310,NCAPD3,NCAPD3,GO10,GO:0000794,condensed nuclear chromosome
+2332,FMR1,FMR1,GO10,GO:0006281;GO:0006974,DNA damage response;DNA repair
+23345,SYNE1,SYNE1,GO10,GO:0005635;GO:0005640;GO:0031965;GO:0034993;GO:0090292,meiotic nuclear membrane microtubule tethering complex;nuclear envelope;nuclear matrix anchoring at nuclear membrane;nuclear membrane;nuclear outer membrane
+23347,SMCHD1,SMCHD1,GO10,GO:0001740;GO:0006281;GO:0006302;GO:0006974,Barr body;DNA damage response;DNA repair;double-strand break repair
+23353,SUN1,SUN1,GO10,GO:0005635;GO:0005637;GO:0031965;GO:0034993;GO:0090292,meiotic nuclear membrane microtubule tethering complex;nuclear envelope;nuclear inner membrane;nuclear matrix anchoring at nuclear membrane;nuclear membrane
+23376,UFL1,UFL1,GO10,GO:0000077;GO:0006281;GO:0006974,DNA damage checkpoint signaling;DNA damage response;DNA repair
+23397,NCAPH,NCAPH,GO10,GO:0000794,condensed nuclear chromosome
+23399,CTDNEP1,CTDNEP1,GO10,GO:0005635;GO:0031965,nuclear envelope;nuclear membrane
+23409,SIRT4,SIRT4,GO10,GO:0006974,DNA damage response
+23411,SIRT1,SIRT1,GO10,GO:0000012;GO:0000720;GO:0000731;GO:0005635;GO:0005637;GO:0006974;GO:0008630;GO:0042771;GO:0070914;GO:0140861,DNA damage response;DNA repair-dependent chromatin remodeling;DNA synthesis involved in DNA repair;intrinsic apoptotic signaling pathway in response to DNA damage;intrinsic apoptotic signaling pathway in response to DNA damage by p53 class mediator;nuclear envelope;nuclear inner membrane;pyrimidine dimer repair by nucleotide-excision repair;single strand break repair;UV-damage excision repair
+23435,TARDBP,TARDBP,GO10,GO:0005726,perichromatin fibrils
+23439,ATP1B4,ATP1B4,GO10,GO:0005635;GO:0005637,nuclear envelope;nuclear inner membrane
+23468,CBX5,CBX5,GO10,GO:0005635;GO:0006974,DNA damage response;nuclear envelope
+23476,BRD4,BRD4,GO10,GO:0000794;GO:0006974,condensed nuclear chromosome;DNA damage response
+23503,ZFYVE26,ZFYVE26,GO10,GO:0000724;GO:0006281;GO:0006974,DNA damage response;DNA repair;double-strand break repair via homologous recombination
+23511,NUP188,NUP188,GO10,GO:0005635;GO:0005643;GO:0017056;GO:0044611,nuclear envelope;nuclear pore;nuclear pore inner ring;structural constituent of nuclear pore
+23514,SPIDR,SPIDR,GO10,GO:0000228;GO:0000724;GO:0006281;GO:0006974,DNA damage response;DNA repair;double-strand break repair via homologous recombination;nuclear chromosome
+23515,MORC3,MORC3,GO10,GO:0051457,maintenance of protein location in nucleus
+23517,MTREX,MTREX,GO10,GO:0006974,DNA damage response
+23534,TNPO3,TNPO3,GO10,GO:0005635,nuclear envelope
+23568,ARL2BP,ARL2BP,GO10,GO:0051457,maintenance of protein location in nucleus
+23583,SMUG1,SMUG1,GO10,GO:0006281;GO:0006284;GO:0006974;GO:0045008,base-excision repair;depyrimidination;DNA damage response;DNA repair
+23588,KLHDC2,KLHDC2,GO10,GO:0031965,nuclear membrane
+23592,LEMD3,LEMD3,GO10,GO:0005635;GO:0005637;GO:0031965,nuclear envelope;nuclear inner membrane;nuclear membrane
+23594,ORC6,ORC6,GO10,GO:0005664,nuclear origin of replication recognition complex
+23595,ORC3,ORC3,GO10,GO:0005664,nuclear origin of replication recognition complex
+23607,CD2AP,CD2AP,GO10,GO:0005641,nuclear envelope lumen
+23612,PHLDA3,PHLDA3,GO10,GO:0042771,intrinsic apoptotic signaling pathway in response to DNA damage by p53 class mediator
+23613,ZMYND8,ZMYND8,GO10,GO:0000724,double-strand break repair via homologous recombination
+23626,SPO11,SPO11,GO10,GO:0000228;GO:0000706;GO:1990918,double-strand break repair involved in meiotic recombination;meiotic DNA double-strand break processing;nuclear chromosome
+23636,NUP62,NUP62,GO10,GO:0005635;GO:0005643;GO:0017056;GO:0031965;GO:0044613,nuclear envelope;nuclear membrane;nuclear pore;nuclear pore central transport channel;structural constituent of nuclear pore
+23645,PPP1R15A,PPP1R15A,GO10,GO:0006974,DNA damage response
+23649,POLA2,POLA2,GO10,GO:0005658,alpha DNA polymerase:primase complex
+23742,NPAP1,NPAP1,GO10,GO:0005637;GO:0005643;GO:0017056,nuclear inner membrane;nuclear pore;structural constituent of nuclear pore
+240,ALOX5,ALOX5,GO10,GO:0005635;GO:0005641;GO:0031965,nuclear envelope;nuclear envelope lumen;nuclear membrane
+241,ALOX5AP,ALOX5AP,GO10,GO:0005635;GO:0031965,nuclear envelope;nuclear membrane
+24144,TFIP11,TFIP11,GO10,GO:0031848,protection from non-homologous end joining at telomere
+245711,SPDYA,SPDYA,GO10,GO:0005635;GO:0006974,DNA damage response;nuclear envelope
+2475,MTOR,MTOR,GO10,GO:0005635;GO:0006974,DNA damage response;nuclear envelope
+25,ABL1,ABL1,GO10,GO:0006281;GO:0006298;GO:0006974;GO:0008630;GO:0031965;GO:0042770,DNA damage response;DNA repair;intrinsic apoptotic signaling pathway in response to DNA damage;mismatch repair;nuclear membrane;signal transduction in response to DNA damage
+2516,NR5A1,NR5A1,GO10,GO:0051457,maintenance of protein location in nucleus
+252969,NEIL2,NEIL2,GO10,GO:0006281;GO:0006284;GO:0006974;GO:0045008,base-excision repair;depyrimidination;DNA damage response;DNA repair
+252983,STXBP4,STXBP4,GO10,GO:0006974,DNA damage response
+253461,ZBTB38,ZBTB38,GO10,GO:0006974,DNA damage response
+253714,MMS22L,MMS22L,GO10,GO:0000724;GO:0006281;GO:0006974;GO:0043596,DNA damage response;DNA repair;double-strand break repair via homologous recombination;nuclear replication fork
+254225,RNF169,RNF169,GO10,GO:0000724;GO:0006281;GO:0006302;GO:0006974,DNA damage response;DNA repair;double-strand break repair;double-strand break repair via homologous recombination
+254394,MCM9,MCM9,GO10,GO:0000724;GO:0006281;GO:0006974;GO:0036298;GO:0070716,DNA damage response;DNA repair;double-strand break repair via homologous recombination;mismatch repair involved in maintenance of fidelity involved in DNA-dependent DNA replication;recombinational interstrand cross-link repair
+254528,MEIOB,MEIOB,GO10,GO:0000724,double-strand break repair via homologous recombination
+2547,XRCC6,XRCC6,GO10,GO:0000725;GO:0006281;GO:0006303;GO:0006974;GO:0097680,DNA damage response;DNA repair;double-strand break repair via classical nonhomologous end joining;double-strand break repair via nonhomologous end joining;recombinational repair
+255919,CNEP1R1,CNEP1R1,GO10,GO:0005635;GO:0031965,nuclear envelope;nuclear membrane
+2560,GABRB1,GABRB1,GO10,GO:0005635,nuclear envelope
+256126,SYCE2,SYCE2,GO10,GO:0000794;GO:0000795;GO:0000801,central element;condensed nuclear chromosome;synaptonemal complex
+256329,LMNTD2,LMNTD2,GO10,GO:0005638,lamin filament
+256979,SUN3,SUN3,GO10,GO:0005635;GO:0005637;GO:0034993,meiotic nuclear membrane microtubule tethering complex;nuclear envelope;nuclear inner membrane
+257218,SHPRH,SHPRH,GO10,GO:0006281;GO:0006974,DNA damage response;DNA repair
+25777,SUN2,SUN2,GO10,GO:0000794;GO:0005635;GO:0005637;GO:0031965;GO:0034993;GO:0090292,condensed nuclear chromosome;meiotic nuclear membrane microtubule tethering complex;nuclear envelope;nuclear inner membrane;nuclear matrix anchoring at nuclear membrane;nuclear membrane
+25788,RAD54B,RAD54B,GO10,GO:0000724;GO:0006281;GO:0006974,DNA damage response;DNA repair;double-strand break repair via homologous recombination
+25792,CIZ1,CIZ1,GO10,GO:0051457,maintenance of protein location in nucleus
+25836,NIPBL,NIPBL,GO10,GO:0006974;GO:1990414,DNA damage response;replication-born double-strand break repair via sister chromatid exchange
+25842,ASF1A,ASF1A,GO10,GO:0006281;GO:0006974;GO:0140861,DNA damage response;DNA repair;DNA repair-dependent chromatin remodeling
+25855,BRMS1,BRMS1,GO10,GO:0070822,Sin3-type complex
+25896,INTS7,INTS7,GO10,GO:0000077;GO:0006974,DNA damage checkpoint signaling;DNA damage response
+25898,RCHY1,RCHY1,GO10,GO:0070987,error-free translesion synthesis
+259,AMBP,AMBP,GO10,GO:0031965,nuclear membrane
+25900,IFFO1,IFFO1,GO10,GO:0005637;GO:0006303,double-strand break repair via nonhomologous end joining;nuclear inner membrane
+25909,AHCTF1,AHCTF1,GO10,GO:0005635;GO:0005643;GO:0031080;GO:0031965,nuclear envelope;nuclear membrane;nuclear pore;nuclear pore outer ring
+259282,BOD1L1,BOD1L1,GO10,GO:0006281;GO:0006974,DNA damage response;DNA repair
+25939,SAMHD1,SAMHD1,GO10,GO:0000724;GO:0006281;GO:0006974,DNA damage response;DNA repair;double-strand break repair via homologous recombination
+25942,SIN3A,SIN3A,GO10,GO:0070822,Sin3-type complex
+25946,ZNF385A,ZNF385A,GO10,GO:0006974,DNA damage response
+25949,SYF2,SYF2,GO10,GO:0007095,mitotic G2 DNA damage checkpoint signaling
+25972,UNC50,UNC50,GO10,GO:0005637,nuclear inner membrane
+25978,CHMP2B,CHMP2B,GO10,GO:0005643,nuclear pore
+25988,HINFP,HINFP,GO10,GO:0000077;GO:0006281,DNA damage checkpoint signaling;DNA repair
+26012,NSMF,NSMF,GO10,GO:0005635;GO:0031965,nuclear envelope;nuclear membrane
+26031,OSBPL3,OSBPL3,GO10,GO:0031965,nuclear membrane
+26049,FAM169A,FAM169A,GO10,GO:0005635;GO:0005637;GO:0031965,nuclear envelope;nuclear inner membrane;nuclear membrane
+26058,GIGYF2,GIGYF2,GO10,GO:0031571,mitotic G1 DNA damage checkpoint signaling
+26073,POLDIP2,POLDIP2,GO10,GO:0006281;GO:0006974;GO:0070987,DNA damage response;DNA repair;error-free translesion synthesis
+26092,TOR1AIP1,TOR1AIP1,GO10,GO:0005635;GO:0005637;GO:0031965,nuclear envelope;nuclear inner membrane;nuclear membrane
+26122,EPC2,EPC2,GO10,GO:0006281;GO:0006974,DNA damage response;DNA repair
+261726,TIPRL,TIPRL,GO10,GO:0000077,DNA damage checkpoint signaling
+26173,INTS1,INTS1,GO10,GO:0031965,nuclear membrane
+26270,FBXO6,FBXO6,GO10,GO:0000077;GO:0006281;GO:0006974,DNA damage checkpoint signaling;DNA damage response;DNA repair
+26271,FBXO5,FBXO5,GO10,GO:0006974,DNA damage response
+2643,GCH1,GCH1,GO10,GO:0031965,nuclear membrane
+2644,GCHFR,GCHFR,GO10,GO:0031965,nuclear membrane
+26471,NUPR1,NUPR1,GO10,GO:0042771,intrinsic apoptotic signaling pathway in response to DNA damage by p53 class mediator
+26502,NARF,NARF,GO10,GO:0005638;GO:0005652,lamin filament;nuclear lamina
+26509,MYOF,MYOF,GO10,GO:0005635;GO:0031965,nuclear envelope;nuclear membrane
+2672,GFI1,GFI1,GO10,GO:0006974,DNA damage response
+26747,NUFIP1,NUFIP1,GO10,GO:0005726,perichromatin fibrils
+2692,GHRHR,GHRHR,GO10,GO:0005637;GO:0005640,nuclear inner membrane;nuclear outer membrane
+27030,MLH3,MLH3,GO10,GO:0000710;GO:0000794;GO:0000795;GO:0005712;GO:0006281;GO:0006298;GO:0006974,chiasma;condensed nuclear chromosome;DNA damage response;DNA repair;meiotic mismatch repair;mismatch repair;synaptonemal complex
+27067,STAU2,STAU2,GO10,GO:0031965,nuclear membrane
+27086,FOXP1,FOXP1,GO10,GO:0006974,DNA damage response
+27101,CACYBP,CACYBP,GO10,GO:0005641,nuclear envelope lumen
+27113,BBC3,BBC3,GO10,GO:0006974;GO:0042771,DNA damage response;intrinsic apoptotic signaling pathway in response to DNA damage by p53 class mediator
+27127,SMC1B,SMC1B,GO10,GO:0000794;GO:0000795;GO:0000800,condensed nuclear chromosome;lateral element;synaptonemal complex
+27141,CIDEB,CIDEB,GO10,GO:0008630,intrinsic apoptotic signaling pathway in response to DNA damage
+27183,VPS4A,VPS4A,GO10,GO:0005643,nuclear pore
+27243,CHMP2A,CHMP2A,GO10,GO:0005635;GO:0005643,nuclear envelope;nuclear pore
+27301,APEX2,APEX2,GO10,GO:0006281;GO:0006284;GO:0006974,base-excision repair;DNA damage response;DNA repair
+2733,GLE1,GLE1,GO10,GO:0005635;GO:0005643;GO:0031965;GO:0044614,nuclear envelope;nuclear membrane;nuclear pore;nuclear pore cytoplasmic filaments
+27330,RPS6KA6,RPS6KA6,GO10,GO:0030330,"DNA damage response, signal transduction by p53 class mediator"
+27336,HTATSF1,HTATSF1,GO10,GO:0000724;GO:0006281;GO:0006974,DNA damage response;DNA repair;double-strand break repair via homologous recombination
+27339,PRPF19,PRPF19,GO10,GO:0000077;GO:0005662;GO:0006281;GO:0006303;GO:0006974,DNA damage checkpoint signaling;DNA damage response;DNA repair;DNA replication factor A complex;double-strand break repair via nonhomologous end joining
+27343,POLL,POLL,GO10,GO:0000724;GO:0006281;GO:0006287;GO:0006289;GO:0006303;GO:0006974,"base-excision repair, gap-filling;DNA damage response;DNA repair;double-strand break repair via homologous recombination;double-strand break repair via nonhomologous end joining;nucleotide-excision repair"
+27346,TMEM97,TMEM97,GO10,GO:0031965,nuclear membrane
+27348,TOR1B,TOR1B,GO10,GO:0005635;GO:0031965,nuclear envelope;nuclear membrane
+27429,HTRA2,HTRA2,GO10,GO:0008630,intrinsic apoptotic signaling pathway in response to DNA damage
+27433,TOR2A,TOR2A,GO10,GO:0005635,nuclear envelope
+27434,POLM,POLM,GO10,GO:0006281;GO:0006303;GO:0006974,DNA damage response;DNA repair;double-strand break repair via nonhomologous end joining
+2765,GML,GML,GO10,GO:0030330,"DNA damage response, signal transduction by p53 class mediator"
+2776,GNAQ,GNAQ,GO10,GO:0031965,nuclear membrane
+2781,GNAZ,GNAZ,GO10,GO:0005635,nuclear envelope
+2794,GNL1,GNL1,GO10,GO:0006974,DNA damage response
+2810,SFN,SFN,GO10,GO:0008630,intrinsic apoptotic signaling pathway in response to DNA damage
+283106,CSNK2A3,CSNK2A3,GO10,GO:0006302,double-strand break repair
+283129,MAJIN,MAJIN,GO10,GO:0005635;GO:0005637;GO:0031965;GO:1990918,double-strand break repair involved in meiotic recombination;nuclear envelope;nuclear inner membrane;nuclear membrane
+283417,DPY19L2,DPY19L2,GO10,GO:0005637,nuclear inner membrane
+283677,REC114,REC114,GO10,GO:0000794,condensed nuclear chromosome
+283847,TERB1,TERB1,GO10,GO:0005635;GO:0005637;GO:1990918,double-strand break repair involved in meiotic recombination;nuclear envelope;nuclear inner membrane
+283899,INO80E,INO80E,GO10,GO:0006281;GO:0006974;GO:0031011,DNA damage response;DNA repair;Ino80 complex
+284071,MEIOC,MEIOC,GO10,GO:0006302,double-strand break repair
+284131,ENDOV,ENDOV,GO10,GO:0006281,DNA repair
+284680,SPATA46,SPATA46,GO10,GO:0031965,nuclear membrane
+285190,RGPD4,RGPD4,GO10,GO:0005643,nuclear pore
+2852,GPER1,GPER1,GO10,GO:0005635,nuclear envelope
+285498,RNF212,RNF212,GO10,GO:0000795,synaptonemal complex
+285671,RNF180,RNF180,GO10,GO:0005635,nuclear envelope
+286053,NSMCE2,NSMCE2,GO10,GO:0000724;GO:0006281;GO:0006303;GO:0006974,DNA damage response;DNA repair;double-strand break repair via homologous recombination;double-strand break repair via nonhomologous end joining
+286257,PAXX,PAXX,GO10,GO:0006281;GO:0006303;GO:0006974,DNA damage response;DNA repair;double-strand break repair via nonhomologous end joining
+2869,GRK5,GRK5,GO10,GO:0031965,nuclear membrane
+2879,GPX4,GPX4,GO10,GO:0005635,nuclear envelope
+2885,GRB2,GRB2,GO10,GO:0042770,signal transduction in response to DNA damage
+28959,TMEM176B,TMEM176B,GO10,GO:0031965,nuclear membrane
+28970,C11orf54,C11orf54,GO10,GO:0006974,DNA damage response
+28985,MCTS1,MCTS1,GO10,GO:0006974,DNA damage response
+28990,ASTE1,ASTE1,GO10,GO:0000724;GO:0006303,double-strand break repair via homologous recombination;double-strand break repair via nonhomologous end joining
+28992,MACROD1,MACROD1,GO10,GO:0006974,DNA damage response
+28996,HIPK2,HIPK2,GO10,GO:0006974;GO:0030330;GO:0042771,"DNA damage response;DNA damage response, signal transduction by p53 class mediator;intrinsic apoptotic signaling pathway in response to DNA damage by p53 class mediator"
+29057,FAM156A,FAM156A,GO10,GO:0005635,nuclear envelope
+29072,SETD2,SETD2,GO10,GO:0006281;GO:0006298;GO:0006974,DNA damage response;DNA repair;mismatch repair
+29082,CHMP4A,CHMP4A,GO10,GO:0005635;GO:0005643,nuclear envelope;nuclear pore
+29086,BABAM1,BABAM1,GO10,GO:0006281;GO:0006302;GO:0006974;GO:0007095;GO:0140861,DNA damage response;DNA repair;DNA repair-dependent chromatin remodeling;double-strand break repair;mitotic G2 DNA damage checkpoint signaling
+29089,UBE2T,UBE2T,GO10,GO:0006281;GO:0006974,DNA damage response;DNA repair
+29107,NXT1,NXT1,GO10,GO:0005643;GO:0044613,nuclear pore;nuclear pore central transport channel
+29108,PYCARD,PYCARD,GO10,GO:0042771,intrinsic apoptotic signaling pathway in response to DNA damage by p53 class mediator
+29128,UHRF1,UHRF1,GO10,GO:0000724;GO:0006281;GO:0006974,DNA damage response;DNA repair;double-strand break repair via homologous recombination
+2915,GRM5,GRM5,GO10,GO:0005637,nuclear inner membrane
+2956,MSH6,MSH6,GO10,GO:0000710;GO:0006281;GO:0006298;GO:0006974;GO:0008630,DNA damage response;DNA repair;intrinsic apoptotic signaling pathway in response to DNA damage;meiotic mismatch repair;mismatch repair
+2965,GTF2H1,GTF2H1,GO10,GO:0006281;GO:0006289;GO:0006974,DNA damage response;DNA repair;nucleotide-excision repair
+2966,GTF2H2,GTF2H2,GO10,GO:0006281;GO:0006289;GO:0006974,DNA damage response;DNA repair;nucleotide-excision repair
+2967,GTF2H3,GTF2H3,GO10,GO:0006281;GO:0006289;GO:0006974,DNA damage response;DNA repair;nucleotide-excision repair
+2968,GTF2H4,GTF2H4,GO10,GO:0006281;GO:0006289;GO:0006974,DNA damage response;DNA repair;nucleotide-excision repair
+29781,NCAPH2,NCAPH2,GO10,GO:0000794,condensed nuclear chromosome
+29803,REPIN1,REPIN1,GO10,GO:0031965,nuclear membrane
+29844,TFPT,TFPT,GO10,GO:0006281;GO:0006974;GO:0031011,DNA damage response;DNA repair;Ino80 complex
+2986,GUCY2F,GUCY2F,GO10,GO:0005640,nuclear outer membrane
+29890,RBM15B,RBM15B,GO10,GO:0005635,nuclear envelope
+29893,PSMC3IP,PSMC3IP,GO10,GO:0000794,condensed nuclear chromosome
+29935,RPA4,RPA4,GO10,GO:0000077;GO:0000724;GO:0005662;GO:0006281;GO:0006289;GO:0006974,DNA damage checkpoint signaling;DNA damage response;DNA repair;DNA replication factor A complex;double-strand break repair via homologous recombination;nucleotide-excision repair
+29947,DNMT3L,DNMT3L,GO10,GO:0000794,condensed nuclear chromosome
+29956,CERS2,CERS2,GO10,GO:0031965,nuclear membrane
+29959,NRBP1,NRBP1,GO10,GO:0006974,DNA damage response
+29965,CDIP1,CDIP1,GO10,GO:0042771,intrinsic apoptotic signaling pathway in response to DNA damage by p53 class mediator
+29980,DONSON,DONSON,GO10,GO:0000077;GO:0007095,DNA damage checkpoint signaling;mitotic G2 DNA damage checkpoint signaling
+29997,NOP53,NOP53,GO10,GO:0006281;GO:0006974;GO:0007095,DNA damage response;DNA repair;mitotic G2 DNA damage checkpoint signaling
+3000,GUCY2D,GUCY2D,GO10,GO:0005640,nuclear outer membrane
+3014,H2AX,H2AX,GO10,GO:0000077;GO:0000724;GO:0000794;GO:0006281;GO:0006302;GO:0006974,condensed nuclear chromosome;DNA damage checkpoint signaling;DNA damage response;DNA repair;double-strand break repair;double-strand break repair via homologous recombination
+3015,H2AZ1,H2AZ1,GO10,GO:0001740,Barr body
+3065,HDAC1,HDAC1,GO10,GO:0070822,Sin3-type complex
+3066,HDAC2,HDAC2,GO10,GO:0070822,Sin3-type complex
+307,ANXA4,ANXA4,GO10,GO:0031965,nuclear membrane
+3070,HELLS,HELLS,GO10,GO:0000724;GO:0006302,double-strand break repair;double-strand break repair via homologous recombination
+30832,ZNF354C,ZNF354C,GO10,GO:0031965,nuclear membrane
+3090,HIC1,HIC1,GO10,GO:0008630,intrinsic apoptotic signaling pathway in response to DNA damage
+311,ANXA11,ANXA11,GO10,GO:0005635,nuclear envelope
+3141,HLCS,HLCS,GO10,GO:0005652,nuclear lamina
+3146,HMGB1,HMGB1,GO10,GO:0006281;GO:0006284;GO:0006302;GO:0006303;GO:0006974,base-excision repair;DNA damage response;DNA repair;double-strand break repair;double-strand break repair via nonhomologous end joining
+3148,HMGB2,HMGB2,GO10,GO:0006303,double-strand break repair via nonhomologous end joining
+3150,HMGN1,HMGN1,GO10,GO:0000720;GO:0006283,pyrimidine dimer repair by nucleotide-excision repair;transcription-coupled nucleotide-excision repair
+3159,HMGA1,HMGA1,GO10,GO:0031965,nuclear membrane
+3164,NR4A1,NR4A1,GO10,GO:0031965,nuclear membrane
+3192,HNRNPU,HNRNPU,GO10,GO:0000228;GO:0051457,maintenance of protein location in nucleus;nuclear chromosome
+322,APBB1,APBB1,GO10,GO:0006974,DNA damage response
+324,APC,APC,GO10,GO:0006974,DNA damage response
+3249,HPN,HPN,GO10,GO:0031965,nuclear membrane
+3267,AGFG1,AGFG1,GO10,GO:0005643,nuclear pore
+3276,PRMT1,PRMT1,GO10,GO:0006974,DNA damage response
+328,APEX1,APEX1,GO10,GO:0006281;GO:0006284;GO:0006287;GO:0006974;GO:0097698,"base-excision repair;base-excision repair, gap-filling;DNA damage response;DNA repair;telomere maintenance via base-excision repair"
+329,BIRC2,BIRC2,GO10,GO:0008630,intrinsic apoptotic signaling pathway in response to DNA damage
+3297,HSF1,HSF1,GO10,GO:0006281;GO:0006974,DNA damage response;DNA repair
+330,BIRC3,BIRC3,GO10,GO:0008630,intrinsic apoptotic signaling pathway in response to DNA damage
+3300,DNAJB2,DNAJB2,GO10,GO:0031965,nuclear membrane
+3306,HSPA2,HSPA2,GO10,GO:0000795,synaptonemal complex
+331,XIAP,XIAP,GO10,GO:0006974,DNA damage response
+332,BIRC5,BIRC5,GO10,GO:0000228,nuclear chromosome
+3364,HUS1,HUS1,GO10,GO:0000077;GO:0000724;GO:0006281;GO:0006289;GO:0006974;GO:0030896;GO:0031573,checkpoint clamp complex;DNA damage checkpoint signaling;DNA damage response;DNA repair;double-strand break repair via homologous recombination;mitotic intra-S DNA damage checkpoint signaling;nucleotide-excision repair
+339834,IHO1,IHO1,GO10,GO:0000794,condensed nuclear chromosome
+340371,NRBP2,NRBP2,GO10,GO:0006974,DNA damage response
+340485,ACER2,ACER2,GO10,GO:0006974;GO:0030330,"DNA damage response;DNA damage response, signal transduction by p53 class mediator"
+3428,IFI16,IFI16,GO10,GO:0042771,intrinsic apoptotic signaling pathway in response to DNA damage by p53 class mediator
+3429,IFI27,IFI27,GO10,GO:0005635;GO:0005637,nuclear envelope;nuclear inner membrane
+3482,IGF2R,IGF2R,GO10,GO:0005641,nuclear envelope lumen
+348654,GEN1,GEN1,GO10,GO:0000724;GO:0006281;GO:0006974,DNA damage response;DNA repair;double-strand break repair via homologous recombination
+348995,NUP43,NUP43,GO10,GO:0005635;GO:0005643;GO:0031080,nuclear envelope;nuclear pore;nuclear pore outer ring
+3508,IGHMBP2,IGHMBP2,GO10,GO:0006974,DNA damage response
+351,APP,APP,GO10,GO:0005641,nuclear envelope lumen
+353497,POLN,POLN,GO10,GO:0000724;GO:0006281;GO:0006302;GO:0006974;GO:0019985;GO:0036297,DNA damage response;DNA repair;double-strand break repair;double-strand break repair via homologous recombination;interstrand cross-link repair;translesion synthesis
+3550,IK,IK,GO10,GO:0000228,nuclear chromosome
+358,AQP1,AQP1,GO10,GO:0031965,nuclear membrane
+3601,IL15RA,IL15RA,GO10,GO:0031965,nuclear membrane
+3619,INCENP,INCENP,GO10,GO:0000795;GO:0000800;GO:0000801,central element;lateral element;synaptonemal complex
+3621,ING1,ING1,GO10,GO:0070822,Sin3-type complex
+3622,ING2,ING2,GO10,GO:0006974;GO:0070822,DNA damage response;Sin3-type complex
+3631,INPP4A,INPP4A,GO10,GO:0031965,nuclear membrane
+3643,INSR,INSR,GO10,GO:0005635,nuclear envelope
+3661,IRF3,IRF3,GO10,GO:0006974,DNA damage response
+3665,IRF7,IRF7,GO10,GO:0006974,DNA damage response
+3692,EIF6,EIF6,GO10,GO:0005638,lamin filament
+3708,ITPR1,ITPR1,GO10,GO:0005635;GO:0005637,nuclear envelope;nuclear inner membrane
+3710,ITPR3,ITPR3,GO10,GO:0005640,nuclear outer membrane
+3725,JUN,JUN,GO10,GO:0000228,nuclear chromosome
+374393,FAM111B,FAM111B,GO10,GO:0005652;GO:0106300,nuclear lamina;protein-DNA covalent cross-linking repair
+3756,KCNH1,KCNH1,GO10,GO:0005637,nuclear inner membrane
+375748,ERCC6L2,ERCC6L2,GO10,GO:0006281;GO:0006974;GO:0036297;GO:0097680,DNA damage response;DNA repair;double-strand break repair via classical nonhomologous end joining;interstrand cross-link repair
+375757,SWI5,SWI5,GO10,GO:0000228;GO:0000707;GO:0000724;GO:0006281;GO:0006974;GO:0032798,DNA damage response;DNA repair;double-strand break repair via homologous recombination;meiotic DNA recombinase assembly;nuclear chromosome;Swi5-Sfr1 complex
+378708,CENPS,CENPS,GO10,GO:0006281;GO:0006974;GO:0036297,DNA damage response;DNA repair;interstrand cross-link repair
+3791,KDR,KDR,GO10,GO:0031965,nuclear membrane
+3835,KIF22,KIF22,GO10,GO:0006281,DNA repair
+3836,KPNA1,KPNA1,GO10,GO:0005643,nuclear pore
+3837,KPNB1,KPNB1,GO10,GO:0005635;GO:0005643;GO:0031965,nuclear envelope;nuclear membrane;nuclear pore
+3838,KPNA2,KPNA2,GO10,GO:0031965,nuclear membrane
+3839,KPNA3,KPNA3,GO10,GO:0005643,nuclear pore
+3840,KPNA4,KPNA4,GO10,GO:0005643,nuclear pore
+3843,IPO5,IPO5,GO10,GO:0005643;GO:0031965,nuclear membrane;nuclear pore
+388799,FAM209B,FAM209B,GO10,GO:0005637,nuclear inner membrane
+389493,NUPR2,NUPR2,GO10,GO:0006974,DNA damage response
+389898,UBE2NL,UBE2NL,GO10,GO:0006301,DNA damage tolerance
+3930,LBR,LBR,GO10,GO:0005635;GO:0005637;GO:0005652;GO:0031965,nuclear envelope;nuclear inner membrane;nuclear lamina;nuclear membrane
+3978,LIG1,LIG1,GO10,GO:0006281;GO:0006284;GO:0006287;GO:0006298;GO:0006974,"base-excision repair;base-excision repair, gap-filling;DNA damage response;DNA repair;mismatch repair"
+3980,LIG3,LIG3,GO10,GO:0000724;GO:0006281;GO:0006284;GO:0006287;GO:0006302;GO:0006974;GO:0043504;GO:0097681,"base-excision repair;base-excision repair, gap-filling;DNA damage response;DNA repair;double-strand break repair;double-strand break repair via alternative nonhomologous end joining;double-strand break repair via homologous recombination;mitochondrial DNA repair"
+3981,LIG4,LIG4,GO10,GO:0000012;GO:0006281;GO:0006284;GO:0006297;GO:0006302;GO:0006303;GO:0006974;GO:0097680,"base-excision repair;DNA damage response;DNA repair;double-strand break repair;double-strand break repair via classical nonhomologous end joining;double-strand break repair via nonhomologous end joining;nucleotide-excision repair, DNA gap filling;single strand break repair"
+4000,LMNA,LMNA,GO10,GO:0005635;GO:0005638;GO:0005652;GO:0006303;GO:0031965,double-strand break repair via nonhomologous end joining;lamin filament;nuclear envelope;nuclear lamina;nuclear membrane
+4001,LMNB1,LMNB1,GO10,GO:0005635;GO:0005637;GO:0005638;GO:0005652;GO:0031965,lamin filament;nuclear envelope;nuclear inner membrane;nuclear lamina;nuclear membrane
+4008,LMO7,LMO7,GO10,GO:0005635,nuclear envelope
+400966,RGPD1,RGPD1,GO10,GO:0005643,nuclear pore
+402,ARL2,ARL2,GO10,GO:0051457,maintenance of protein location in nucleus
+4033,IRAG2,IRAG2,GO10,GO:0005635;GO:0034993,meiotic nuclear membrane microtubule tethering complex;nuclear envelope
+403313,PLPP6,PLPP6,GO10,GO:0005635;GO:0005637;GO:0031965,nuclear envelope;nuclear inner membrane;nuclear membrane
+404672,GTF2H5,GTF2H5,GO10,GO:0006281;GO:0006289;GO:0006294;GO:0006974,"DNA damage response;DNA repair;nucleotide-excision repair;nucleotide-excision repair, preincision complex assembly"
+4056,LTC4S,LTC4S,GO10,GO:0005635;GO:0005640;GO:0031965,nuclear envelope;nuclear membrane;nuclear outer membrane
+4067,LYN,LYN,GO10,GO:0000077;GO:0006974,DNA damage checkpoint signaling;DNA damage response
+4085,MAD2L1,MAD2L1,GO10,GO:0044615,nuclear pore nuclear basket
+4086,SMAD1,SMAD1,GO10,GO:0005637,nuclear inner membrane
+4088,SMAD3,SMAD3,GO10,GO:0005637,nuclear inner membrane
+4137,MAPT,MAPT,GO10,GO:0006974,DNA damage response
+4157,MC1R,MC1R,GO10,GO:0070914,UV-damage excision repair
+4170,MCL1,MCL1,GO10,GO:0006974;GO:0008630,DNA damage response;intrinsic apoptotic signaling pathway in response to DNA damage
+4171,MCM2,MCM2,GO10,GO:0000228;GO:0000727;GO:0005664;GO:0071162,CMG complex;double-strand break repair via break-induced replication;nuclear chromosome;nuclear origin of replication recognition complex
+4172,MCM3,MCM3,GO10,GO:0000727;GO:0005658;GO:0071162,alpha DNA polymerase:primase complex;CMG complex;double-strand break repair via break-induced replication
+4173,MCM4,MCM4,GO10,GO:0000727;GO:0071162,CMG complex;double-strand break repair via break-induced replication
+4174,MCM5,MCM5,GO10,GO:0000727;GO:0071162,CMG complex;double-strand break repair via break-induced replication
+4175,MCM6,MCM6,GO10,GO:0000727;GO:0071162,CMG complex;double-strand break repair via break-induced replication
+4176,MCM7,MCM7,GO10,GO:0000727;GO:0006974;GO:0071162,CMG complex;DNA damage response;double-strand break repair via break-induced replication
+4193,MDM2,MDM2,GO10,GO:0030330,"DNA damage response, signal transduction by p53 class mediator"
+4194,MDM4,MDM4,GO10,GO:0030330,"DNA damage response, signal transduction by p53 class mediator"
+4221,MEN1,MEN1,GO10,GO:0006281;GO:0006974,DNA damage response;DNA repair
+4255,MGMT,MGMT,GO10,GO:0006281;GO:0006307;GO:0006974,DNA alkylation repair;DNA damage response;DNA repair
+4258,MGST2,MGST2,GO10,GO:0005635,nuclear envelope
+4259,MGST3,MGST3,GO10,GO:0005635,nuclear envelope
+4282,MIF,MIF,GO10,GO:0030330,"DNA damage response, signal transduction by p53 class mediator"
+4287,ATXN3,ATXN3,GO10,GO:0006289,nucleotide-excision repair
+4292,MLH1,MLH1,GO10,GO:0000710;GO:0000794;GO:0000795;GO:0005712;GO:0005715;GO:0006281;GO:0006298;GO:0006303;GO:0006974;GO:0008630,chiasma;condensed nuclear chromosome;DNA damage response;DNA repair;double-strand break repair via nonhomologous end joining;intrinsic apoptotic signaling pathway in response to DNA damage;late recombination nodule;meiotic mismatch repair;mismatch repair;synaptonemal complex
+4303,FOXO4,FOXO4,GO10,GO:0007095,mitotic G2 DNA damage checkpoint signaling
+4331,MNAT1,MNAT1,GO10,GO:0006281;GO:0006289,DNA repair;nucleotide-excision repair
+4332,MNDA,MNDA,GO10,GO:0006974,DNA damage response
+4350,MPG,MPG,GO10,GO:0006281;GO:0006284;GO:0006307;GO:0006974;GO:0045007,base-excision repair;depurination;DNA alkylation repair;DNA damage response;DNA repair
+4361,MRE11,MRE11,GO10,GO:0000724;GO:0000729;GO:0006281;GO:0006302;GO:0006303;GO:0006974;GO:0007095;GO:0031573;GO:0097552,DNA damage response;DNA double-strand break processing;DNA repair;double-strand break repair;double-strand break repair via homologous recombination;double-strand break repair via nonhomologous end joining;mitochondrial double-strand break repair via homologous recombination;mitotic G2 DNA damage checkpoint signaling;mitotic intra-S DNA damage checkpoint signaling
+440275,EIF2AK4,EIF2AK4,GO10,GO:0000077,DNA damage checkpoint signaling
+4436,MSH2,MSH2,GO10,GO:0006281;GO:0006298;GO:0006301;GO:0006302;GO:0006974;GO:0008630;GO:0031573;GO:0042771,DNA damage response;DNA damage tolerance;DNA repair;double-strand break repair;intrinsic apoptotic signaling pathway in response to DNA damage;intrinsic apoptotic signaling pathway in response to DNA damage by p53 class mediator;mismatch repair;mitotic intra-S DNA damage checkpoint signaling
+4437,MSH3,MSH3,GO10,GO:0006281;GO:0006298;GO:0006974,DNA damage response;DNA repair;mismatch repair
+4438,MSH4,MSH4,GO10,GO:0000794;GO:0000795;GO:0005713;GO:0006298,condensed nuclear chromosome;mismatch repair;recombination nodule;synaptonemal complex
+4439,MSH5,MSH5,GO10,GO:0006281;GO:0006298;GO:0006974,DNA damage response;DNA repair;mismatch repair
+4521,NUDT1,NUDT1,GO10,GO:0006281,DNA repair
+4582,MUC1,MUC1,GO10,GO:0030330;GO:0031571,"DNA damage response, signal transduction by p53 class mediator;mitotic G1 DNA damage checkpoint signaling"
+4595,MUTYH,MUTYH,GO10,GO:0006281;GO:0006284;GO:0006298;GO:0006974;GO:0045007,base-excision repair;depurination;DNA damage response;DNA repair;mismatch repair
+4599,MX1,MX1,GO10,GO:0005635;GO:0031965,nuclear envelope;nuclear membrane
+4600,MX2,MX2,GO10,GO:0005635;GO:0005643,nuclear envelope;nuclear pore
+4609,MYC,MYC,GO10,GO:0006974;GO:0008630,DNA damage response;intrinsic apoptotic signaling pathway in response to DNA damage
+4646,MYO6,MYO6,GO10,GO:0030330;GO:0031965,"DNA damage response, signal transduction by p53 class mediator;nuclear membrane"
+4683,NBN,NBN,GO10,GO:0000077;GO:0000724;GO:0000729;GO:0006281;GO:0006302;GO:0006974;GO:0007095;GO:0030330;GO:0031848;GO:0043247;GO:0097681,"DNA damage checkpoint signaling;DNA damage response;DNA damage response, signal transduction by p53 class mediator;DNA double-strand break processing;DNA repair;double-strand break repair;double-strand break repair via alternative nonhomologous end joining;double-strand break repair via homologous recombination;mitotic G2 DNA damage checkpoint signaling;protection from non-homologous end joining at telomere;telomere maintenance in response to DNA damage"
+472,ATM,ATM,GO10,GO:0000077;GO:0000724;GO:0000729;GO:0006281;GO:0006302;GO:0006303;GO:0006974;GO:0007095;GO:0008630;GO:0030330;GO:0042770,"DNA damage checkpoint signaling;DNA damage response;DNA damage response, signal transduction by p53 class mediator;DNA double-strand break processing;DNA repair;double-strand break repair;double-strand break repair via homologous recombination;double-strand break repair via nonhomologous end joining;intrinsic apoptotic signaling pathway in response to DNA damage;mitotic G2 DNA damage checkpoint signaling;signal transduction in response to DNA damage"
+4726,NDUFS6,NDUFS6,GO10,GO:0030330,"DNA damage response, signal transduction by p53 class mediator"
+4734,NEDD4,NEDD4,GO10,GO:0006974,DNA damage response
+4745,NELL1,NELL1,GO10,GO:0005635,nuclear envelope
+4751,NEK2,NEK2,GO10,GO:0000794,condensed nuclear chromosome
+4773,NFATC2,NFATC2,GO10,GO:0006974,DNA damage response
+4776,NFATC4,NFATC4,GO10,GO:0008630,intrinsic apoptotic signaling pathway in response to DNA damage
+4796,TONSL,TONSL,GO10,GO:0000724;GO:0005662;GO:0006281;GO:0006974;GO:0043596,DNA damage response;DNA repair;DNA replication factor A complex;double-strand break repair via homologous recombination;nuclear replication fork
+4798,NFRKB,NFRKB,GO10,GO:0006281;GO:0006974;GO:0031011,DNA damage response;DNA repair;Ino80 complex
+4824,NKX3-1,NKX3-1,GO10,GO:0006974,DNA damage response
+4832,NME3,NME3,GO10,GO:0006281,DNA repair
+4841,NONO,NONO,GO10,GO:0006281;GO:0006974,DNA damage response;DNA repair
+4862,NPAS2,NPAS2,GO10,GO:0006974,DNA damage response
+4864,NPC1,NPC1,GO10,GO:0005635,nuclear envelope
+4869,NPM1,NPM1,GO10,GO:0006281,DNA repair
+4881,NPR1,NPR1,GO10,GO:0031965,nuclear membrane
+489,ATP2A3,ATP2A3,GO10,GO:0031965,nuclear membrane
+4913,NTHL1,NTHL1,GO10,GO:0006281;GO:0006284;GO:0006285;GO:0006289;GO:0006974;GO:0045008,"base-excision repair;base-excision repair, AP site formation;depyrimidination;DNA damage response;DNA repair;nucleotide-excision repair"
+4925,NUCB2,NUCB2,GO10,GO:0005635;GO:0005640,nuclear envelope;nuclear outer membrane
+4927,NUP88,NUP88,GO10,GO:0005635;GO:0005643;GO:0017056,nuclear envelope;nuclear pore;structural constituent of nuclear pore
+4928,NUP98,NUP98,GO10,GO:0005635;GO:0005643;GO:0017056;GO:0031080;GO:0031965;GO:0044614;GO:0044615,nuclear envelope;nuclear membrane;nuclear pore;nuclear pore cytoplasmic filaments;nuclear pore nuclear basket;nuclear pore outer ring;structural constituent of nuclear pore
+493861,EID3,EID3,GO10,GO:0000724;GO:0006281;GO:0006974,DNA damage response;DNA repair;double-strand break repair via homologous recombination
+4968,OGG1,OGG1,GO10,GO:0006281;GO:0006284;GO:0006285;GO:0006289;GO:0006974;GO:0045007;GO:0045008,"base-excision repair;base-excision repair, AP site formation;depurination;depyrimidination;DNA damage response;DNA repair;nucleotide-excision repair"
+4998,ORC1,ORC1,GO10,GO:0005664,nuclear origin of replication recognition complex
+4999,ORC2,ORC2,GO10,GO:0005664,nuclear origin of replication recognition complex
+5000,ORC4,ORC4,GO10,GO:0005664,nuclear origin of replication recognition complex
+5001,ORC5,ORC5,GO10,GO:0005664,nuclear origin of replication recognition complex
+5002,SLC67A1,SLC67A1,GO10,GO:0005635,nuclear envelope
+5048,PAFAH1B1,PAFAH1B1,GO10,GO:0005635;GO:0031965,nuclear envelope;nuclear membrane
+50484,RRM2B,RRM2B,GO10,GO:0000731;GO:0006281;GO:0006974,DNA damage response;DNA repair;DNA synthesis involved in DNA repair
+50485,SMARCAL1,SMARCAL1,GO10,GO:0005662;GO:0006281;GO:0006303;GO:0006974;GO:0043596,DNA damage response;DNA repair;DNA replication factor A complex;double-strand break repair via nonhomologous end joining;nuclear replication fork
+50511,SYCP3,SYCP3,GO10,GO:0000794;GO:0000795;GO:0000800,condensed nuclear chromosome;lateral element;synaptonemal complex
+5058,PAK1,PAK1,GO10,GO:0006974;GO:0031965,DNA damage response;nuclear membrane
+50626,ZFTRAF1,ZFTRAF1,GO10,GO:0005635,nuclear envelope
+51008,ASCC1,ASCC1,GO10,GO:0006281;GO:0006307;GO:0006974,DNA alkylation repair;DNA damage response;DNA repair
+51065,RPS27L,RPS27L,GO10,GO:0030330;GO:0031571;GO:0042771,"DNA damage response, signal transduction by p53 class mediator;intrinsic apoptotic signaling pathway in response to DNA damage by p53 class mediator;mitotic G1 DNA damage checkpoint signaling"
+5111,PCNA,PCNA,GO10,GO:0005652;GO:0006281;GO:0006287;GO:0006298;GO:0006974;GO:0019985;GO:0043596,"base-excision repair, gap-filling;DNA damage response;DNA repair;mismatch repair;nuclear lamina;nuclear replication fork;translesion synthesis"
+51111,KMT5B,KMT5B,GO10,GO:0006281,DNA repair
+51131,PHF11,PHF11,GO10,GO:0031965,nuclear membrane
+51149,MRNIP,MRNIP,GO10,GO:0006281;GO:0006974;GO:0007095,DNA damage response;DNA repair;mitotic G2 DNA damage checkpoint signaling
+5119,CHMP1A,CHMP1A,GO10,GO:0000794;GO:0005643,condensed nuclear chromosome;nuclear pore
+51194,IPO11,IPO11,GO10,GO:0005635,nuclear envelope
+51230,PHF20,PHF20,GO10,GO:0031965,nuclear membrane
+51231,VRK3,VRK3,GO10,GO:0006974,DNA damage response
+51246,SHISA5,SHISA5,GO10,GO:0005635;GO:0031965;GO:0042771,intrinsic apoptotic signaling pathway in response to DNA damage by p53 class mediator;nuclear envelope;nuclear membrane
+51270,TFDP3,TFDP3,GO10,GO:0006974;GO:0031965,DNA damage response;nuclear membrane
+5130,PCYT1A,PCYT1A,GO10,GO:0005635,nuclear envelope
+51322,WAC,WAC,GO10,GO:0006974;GO:0031571,DNA damage response;mitotic G1 DNA damage checkpoint signaling
+51341,ZBTB7A,ZBTB7A,GO10,GO:0097680,double-strand break repair via classical nonhomologous end joining
+51343,FZR1,FZR1,GO10,GO:0006281;GO:0006974;GO:0007095;GO:0031965,DNA damage response;DNA repair;mitotic G2 DNA damage checkpoint signaling;nuclear membrane
+51347,TAOK3,TAOK3,GO10,GO:0006281;GO:0006974;GO:0007095,DNA damage response;DNA repair;mitotic G2 DNA damage checkpoint signaling
+51360,MBTPS2,MBTPS2,GO10,GO:0007095,mitotic G2 DNA damage checkpoint signaling
+51366,UBR5,UBR5,GO10,GO:0006281;GO:0006974;GO:0140861,DNA damage response;DNA repair;DNA repair-dependent chromatin remodeling
+51368,TEX264,TEX264,GO10,GO:0006281;GO:0006974;GO:0106300,DNA damage response;DNA repair;protein-DNA covalent cross-linking repair
+51374,ATRAID,ATRAID,GO10,GO:0005635,nuclear envelope
+51377,UCHL5,UCHL5,GO10,GO:0006281;GO:0006974;GO:0031011,DNA damage response;DNA repair;Ino80 complex
+51426,POLK,POLK,GO10,GO:0006281;GO:0006297;GO:0006974;GO:0019985;GO:0042276,"DNA damage response;DNA repair;error-prone translesion synthesis;nucleotide-excision repair, DNA gap filling;translesion synthesis"
+51444,RNF138,RNF138,GO10,GO:0000724;GO:0006281;GO:0006974;GO:0010792,DNA damage response;DNA double-strand break processing involved in repair via single-strand annealing;DNA repair;double-strand break repair via homologous recombination
+51455,REV1,REV1,GO10,GO:0006281;GO:0006974;GO:0019985;GO:0042276;GO:0043596;GO:0070987,DNA damage response;DNA repair;error-free translesion synthesis;error-prone translesion synthesis;nuclear replication fork;translesion synthesis
+51493,RTCB,RTCB,GO10,GO:0005635,nuclear envelope
+51499,TRIAP1,TRIAP1,GO10,GO:0030330;GO:0031571,"DNA damage response, signal transduction by p53 class mediator;mitotic G1 DNA damage checkpoint signaling"
+51510,CHMP5,CHMP5,GO10,GO:0005635;GO:0005643,nuclear envelope;nuclear pore
+51512,GTSE1,GTSE1,GO10,GO:0030330,"DNA damage response, signal transduction by p53 class mediator"
+51514,DTL,DTL,GO10,GO:0006974;GO:0007095;GO:0019985;GO:0031965,DNA damage response;mitotic G2 DNA damage checkpoint signaling;nuclear membrane;translesion synthesis
+51530,ZC3HC1,ZC3HC1,GO10,GO:0005635;GO:0031965;GO:0044615,nuclear envelope;nuclear membrane;nuclear pore nuclear basket
+51547,SIRT7,SIRT7,GO10,GO:0005731;GO:0006281;GO:0006974;GO:0140861,DNA damage response;DNA repair;DNA repair-dependent chromatin remodeling;nucleolus organizer region
+51548,SIRT6,SIRT6,GO10,GO:0006281;GO:0006284;GO:0006302;GO:0006974;GO:0140861,base-excision repair;DNA damage response;DNA repair;DNA repair-dependent chromatin remodeling;double-strand break repair
+51550,CINP,CINP,GO10,GO:0006281;GO:0006974,DNA damage response;DNA repair
+51567,TDP2,TDP2,GO10,GO:0006281;GO:0006302;GO:0006974,DNA damage response;DNA repair;double-strand break repair
+51588,PIAS4,PIAS4,GO10,GO:0006302,double-strand break repair
+51634,RBMX2,RBMX2,GO10,GO:0031965,nuclear membrane
+51652,CHMP3,CHMP3,GO10,GO:0005643,nuclear pore
+51659,GINS2,GINS2,GO10,GO:0000727;GO:0000811;GO:0071162,CMG complex;double-strand break repair via break-induced replication;GINS complex
+51720,UIMC1,UIMC1,GO10,GO:0006281;GO:0006302;GO:0006974;GO:0007095;GO:0140861,DNA damage response;DNA repair;DNA repair-dependent chromatin remodeling;double-strand break repair;mitotic G2 DNA damage checkpoint signaling
+51742,ARID4B,ARID4B,GO10,GO:0070822,Sin3-type complex
+51750,RTEL1,RTEL1,GO10,GO:0006281;GO:0006974;GO:0031965;GO:0043247,DNA damage response;DNA repair;nuclear membrane;telomere maintenance in response to DNA damage
+51776,MAP3K20,MAP3K20,GO10,GO:0000077,DNA damage checkpoint signaling
+5241,PGR,PGR,GO10,GO:0051457,maintenance of protein location in nucleus
+5252,PHF1,PHF1,GO10,GO:0006974;GO:0140861,DNA damage response;DNA repair-dependent chromatin remodeling
+5295,PIK3R1,PIK3R1,GO10,GO:0008630,intrinsic apoptotic signaling pathway in response to DNA damage
+5321,PLA2G4A,PLA2G4A,GO10,GO:0005635,nuclear envelope
+53371,NUP54,NUP54,GO10,GO:0005635;GO:0005643;GO:0017056;GO:0031965;GO:0044613,nuclear envelope;nuclear membrane;nuclear pore;nuclear pore central transport channel;structural constituent of nuclear pore
+5347,PLK1,PLK1,GO10,GO:0000795;GO:0006302;GO:0007095;GO:0097681,double-strand break repair;double-strand break repair via alternative nonhomologous end joining;mitotic G2 DNA damage checkpoint signaling;synaptonemal complex
+5356,PLRG1,PLRG1,GO10,GO:0005662;GO:0031965,DNA replication factor A complex;nuclear membrane
+5366,PMAIP1,PMAIP1,GO10,GO:0006974,DNA damage response
+5371,PML,PML,GO10,GO:0008630;GO:0030330;GO:0042771;GO:0051457,"DNA damage response, signal transduction by p53 class mediator;intrinsic apoptotic signaling pathway in response to DNA damage;intrinsic apoptotic signaling pathway in response to DNA damage by p53 class mediator;maintenance of protein location in nucleus"
+5378,PMS1,PMS1,GO10,GO:0000710;GO:0006281;GO:0006298;GO:0006974,DNA damage response;DNA repair;meiotic mismatch repair;mismatch repair
+5393,EXOSC9,EXOSC9,GO10,GO:0000228,nuclear chromosome
+5394,EXOSC10,EXOSC10,GO10,GO:0006281;GO:0006974,DNA damage response;DNA repair
+5395,PMS2,PMS2,GO10,GO:0000710;GO:0006281;GO:0006298;GO:0006974,DNA damage response;DNA repair;meiotic mismatch repair;mismatch repair
+54107,POLE3,POLE3,GO10,GO:0006974;GO:0008622,DNA damage response;epsilon DNA polymerase complex
+54108,CHRAC1,CHRAC1,GO10,GO:0008622,epsilon DNA polymerase complex
+5422,POLA1,POLA1,GO10,GO:0000731;GO:0005635;GO:0005658;GO:0006281;GO:0006289;GO:0006303;GO:1904161,alpha DNA polymerase:primase complex;DNA repair;DNA synthesis involved in DNA repair;DNA synthesis involved in UV-damage excision repair;double-strand break repair via nonhomologous end joining;nuclear envelope;nucleotide-excision repair
+5423,POLB,POLB,GO10,GO:0006281;GO:0006284;GO:0006287;GO:0006290;GO:0006297;GO:0006303;GO:0006974;GO:0008630,"base-excision repair;base-excision repair, gap-filling;DNA damage response;DNA repair;double-strand break repair via nonhomologous end joining;intrinsic apoptotic signaling pathway in response to DNA damage;nucleotide-excision repair, DNA gap filling;pyrimidine dimer repair"
+5424,POLD1,POLD1,GO10,GO:0000731;GO:0006281;GO:0006287;GO:0006297;GO:0006974;GO:0043625;GO:0045004;GO:0070987,"base-excision repair, gap-filling;delta DNA polymerase complex;DNA damage response;DNA repair;DNA replication proofreading;DNA synthesis involved in DNA repair;error-free translesion synthesis;nucleotide-excision repair, DNA gap filling"
+5425,POLD2,POLD2,GO10,GO:0006281;GO:0006974;GO:0042276;GO:0043625,delta DNA polymerase complex;DNA damage response;DNA repair;error-prone translesion synthesis
+5426,POLE,POLE,GO10,GO:0000731;GO:0006281;GO:0006287;GO:0006297;GO:0006974;GO:0008622;GO:0045004,"base-excision repair, gap-filling;DNA damage response;DNA repair;DNA replication proofreading;DNA synthesis involved in DNA repair;epsilon DNA polymerase complex;nucleotide-excision repair, DNA gap filling"
+5427,POLE2,POLE2,GO10,GO:0006281;GO:0008622;GO:0042276,DNA repair;epsilon DNA polymerase complex;error-prone translesion synthesis
+5428,POLG,POLG,GO10,GO:0006284;GO:0006287;GO:0045004,"base-excision repair;base-excision repair, gap-filling;DNA replication proofreading"
+5429,POLH,POLH,GO10,GO:0000731;GO:0006281;GO:0006290;GO:0006301;GO:0006974;GO:0019985;GO:0042276;GO:0070987,DNA damage response;DNA damage tolerance;DNA repair;DNA synthesis involved in DNA repair;error-free translesion synthesis;error-prone translesion synthesis;pyrimidine dimer repair;translesion synthesis
+5438,POLR2I,POLR2I,GO10,GO:0006283,transcription-coupled nucleotide-excision repair
+54386,TERF2IP,TERF2IP,GO10,GO:0000228;GO:0031848,nuclear chromosome;protection from non-homologous end joining at telomere
+54465,ETAA1,ETAA1,GO10,GO:0006281;GO:0006974;GO:0043596,DNA damage response;DNA repair;nuclear replication fork
+54487,DGCR8,DGCR8,GO10,GO:0006974,DNA damage response
+54490,UGT2B28,UGT2B28,GO10,GO:0005640,nuclear outer membrane
+54491,OTULINL,OTULINL,GO10,GO:0005635,nuclear envelope
+54498,SMOX,SMOX,GO10,GO:0031965,nuclear membrane
+545,ATR,ATR,GO10,GO:0000077;GO:0005635;GO:0006281;GO:0006302;GO:0006974;GO:0036297,DNA damage checkpoint signaling;DNA damage response;DNA repair;double-strand break repair;interstrand cross-link repair;nuclear envelope
+54537,SHLD2,SHLD2,GO10,GO:0006281;GO:0006974;GO:0043247,DNA damage response;DNA repair;telomere maintenance in response to DNA damage
+54541,DDIT4,DDIT4,GO10,GO:0042771,intrinsic apoptotic signaling pathway in response to DNA damage by p53 class mediator
+54556,ING3,ING3,GO10,GO:0000812,Swr1 complex
+54584,GNB1L,GNB1L,GO10,GO:0000077;GO:0006974,DNA damage checkpoint signaling;DNA damage response
+546,ATRX,ATRX,GO10,GO:0000228;GO:0006281;GO:0006974;GO:0030330,"DNA damage response;DNA damage response, signal transduction by p53 class mediator;DNA repair;nuclear chromosome"
+54617,INO80,INO80,GO10,GO:0000724;GO:0006281;GO:0006302;GO:0006974;GO:0031011;GO:0070914,DNA damage response;DNA repair;double-strand break repair;double-strand break repair via homologous recombination;Ino80 complex;UV-damage excision repair
+54658,UGT1A1,UGT1A1,GO10,GO:0006974,DNA damage response
+54726,OTUD4,OTUD4,GO10,GO:0006307,DNA alkylation repair
+54778,RNF111,RNF111,GO10,GO:0006281;GO:0006974;GO:0070911,DNA damage response;DNA repair;global genome nucleotide-excision repair
+54780,NSMCE4A,NSMCE4A,GO10,GO:0000724;GO:0006281;GO:0006974,DNA damage response;DNA repair;double-strand break repair via homologous recombination
+54788,DNAJB12,DNAJB12,GO10,GO:0031965,nuclear membrane
+54799,MBTD1,MBTD1,GO10,GO:0000724,double-strand break repair via homologous recombination
+54821,ERCC6L,ERCC6L,GO10,GO:0006281,DNA repair
+54830,NUP62CL,NUP62CL,GO10,GO:0005635;GO:0005643;GO:0017056,nuclear envelope;nuclear pore;structural constituent of nuclear pore
+54840,APTX,APTX,GO10,GO:0000012;GO:0006281;GO:0006974,DNA damage response;DNA repair;single strand break repair
+548593,SLX1A,SLX1A,GO10,GO:0000228;GO:0000724;GO:0006281;GO:0006974;GO:0010792;GO:0033557,DNA damage response;DNA double-strand break processing involved in repair via single-strand annealing;DNA repair;double-strand break repair via homologous recombination;nuclear chromosome;Slx1-Slx4 complex
+54863,TOR4A,TOR4A,GO10,GO:0005635,nuclear envelope
+54884,RETSAT,RETSAT,GO10,GO:0005640;GO:0031965,nuclear membrane;nuclear outer membrane
+54891,INO80D,INO80D,GO10,GO:0006281;GO:0006974;GO:0031011,DNA damage response;DNA repair;Ino80 complex
+54892,NCAPG2,NCAPG2,GO10,GO:0000794,condensed nuclear chromosome
+54894,RNF43,RNF43,GO10,GO:0005635,nuclear envelope
+54936,ADPRS,ADPRS,GO10,GO:0006281;GO:0006287;GO:0006974,"base-excision repair, gap-filling;DNA damage response;DNA repair"
+54956,PARP16,PARP16,GO10,GO:0005635,nuclear envelope
+54962,TIPIN,TIPIN,GO10,GO:0000077;GO:0006974;GO:0031298;GO:0031573;GO:0043596,DNA damage checkpoint signaling;DNA damage response;mitotic intra-S DNA damage checkpoint signaling;nuclear replication fork;replication fork protection complex
+54969,HPF1,HPF1,GO10,GO:0006281;GO:0006302;GO:0006974;GO:0140861,DNA damage response;DNA repair;DNA repair-dependent chromatin remodeling;double-strand break repair
+54984,PINX1,PINX1,GO10,GO:0000228,nuclear chromosome
+5499,PPP1CA,PPP1CA,GO10,GO:0043247,telomere maintenance in response to DNA damage
+55010,PARPBP,PARPBP,GO10,GO:0006281;GO:0006974,DNA damage response;DNA repair
+55031,USP47,USP47,GO10,GO:0006281;GO:0006284;GO:0006974,base-excision repair;DNA damage response;DNA repair
+55051,NRDE2,NRDE2,GO10,GO:0006974,DNA damage response
+55075,UACA,UACA,GO10,GO:0008630,intrinsic apoptotic signaling pathway in response to DNA damage
+55120,FANCL,FANCL,GO10,GO:0005635;GO:0006281;GO:0006974;GO:0036297,DNA damage response;DNA repair;interstrand cross-link repair;nuclear envelope
+55135,WRAP53,WRAP53,GO10,GO:0006281;GO:0006974,DNA damage response;DNA repair
+55151,TMEM38B,TMEM38B,GO10,GO:0031965,nuclear membrane
+55159,RFWD3,RFWD3,GO10,GO:0000724;GO:0006281;GO:0006974;GO:0031571;GO:0036297,DNA damage response;DNA repair;double-strand break repair via homologous recombination;interstrand cross-link repair;mitotic G1 DNA damage checkpoint signaling
+55161,TMEM33,TMEM33,GO10,GO:0005635,nuclear envelope
+55167,MSL2,MSL2,GO10,GO:0006974,DNA damage response
+55170,PRMT6,PRMT6,GO10,GO:0006281;GO:0006284;GO:0006974,base-excision repair;DNA damage response;DNA repair
+55182,RNF220,RNF220,GO10,GO:0005652,nuclear lamina
+55183,RIF1,RIF1,GO10,GO:0006281;GO:0006974;GO:0031965;GO:0043247,DNA damage response;DNA repair;nuclear membrane;telomere maintenance in response to DNA damage
+55193,PBRM1,PBRM1,GO10,GO:0000228,nuclear chromosome
+55209,SETD5,SETD5,GO10,GO:0034967;GO:0070210,Rpd3L-Expanded complex;Set3 complex
+55210,ATAD3A,ATAD3A,GO10,GO:0006974,DNA damage response
+55215,FANCI,FANCI,GO10,GO:0006281;GO:0006974;GO:0036297,DNA damage response;DNA repair;interstrand cross-link repair
+55218,EXD2,EXD2,GO10,GO:0000724;GO:0000729;GO:0006281;GO:0006302;GO:0006974,DNA damage response;DNA double-strand break processing;DNA repair;double-strand break repair;double-strand break repair via homologous recombination
+55219,MACO1,MACO1,GO10,GO:0031965,nuclear membrane
+55236,UBA6,UBA6,GO10,GO:0006974,DNA damage response
+55247,NEIL3,NEIL3,GO10,GO:0000012;GO:0006281;GO:0006284;GO:0006285;GO:0006974;GO:0036297;GO:0045007,"base-excision repair;base-excision repair, AP site formation;depurination;DNA damage response;DNA repair;interstrand cross-link repair;single strand break repair"
+55249,YY1AP1,YY1AP1,GO10,GO:0031011,Ino80 complex
+55284,UBE2W,UBE2W,GO10,GO:0006281;GO:0006974,DNA damage response;DNA repair
+55294,FBXW7,FBXW7,GO10,GO:0006281;GO:0006974,DNA damage response;DNA repair
+5531,PPP4C,PPP4C,GO10,GO:0000724,double-strand break repair via homologous recombination
+55317,AP5S1,AP5S1,GO10,GO:0000724;GO:0006281;GO:0006974,DNA damage response;DNA repair;double-strand break repair via homologous recombination
+55326,AGPAT5,AGPAT5,GO10,GO:0005635,nuclear envelope
+55329,MNS1,MNS1,GO10,GO:0005635,nuclear envelope
+55339,WDR33,WDR33,GO10,GO:0006301,DNA damage tolerance
+55345,ZGRF1,ZGRF1,GO10,GO:0000725;GO:0006281;GO:0006302;GO:0006974,DNA damage response;DNA repair;double-strand break repair;recombinational repair
+5536,PPP5C,PPP5C,GO10,GO:0006281;GO:0006302;GO:0006974,DNA damage response;DNA repair;double-strand break repair
+55367,PIDD1,PIDD1,GO10,GO:0006974;GO:0030330,"DNA damage response;DNA damage response, signal transduction by p53 class mediator"
+55379,LRRC59,LRRC59,GO10,GO:0005635,nuclear envelope
+55388,MCM10,MCM10,GO10,GO:0006974;GO:0043596,DNA damage response;nuclear replication fork
+55506,MACROH2A2,MACROH2A2,GO10,GO:0001740,Barr body
+5557,PRIM1,PRIM1,GO10,GO:0005658,alpha DNA polymerase:primase complex
+5558,PRIM2,PRIM2,GO10,GO:0005658,alpha DNA polymerase:primase complex
+55602,CDKN2AIP,CDKN2AIP,GO10,GO:0006974,DNA damage response
+55611,OTUB1,OTUB1,GO10,GO:0006281;GO:0006974,DNA damage response;DNA repair
+55613,MTMR8,MTMR8,GO10,GO:0005635,nuclear envelope
+55627,SMPD4,SMPD4,GO10,GO:0005635;GO:0005640,nuclear envelope;nuclear outer membrane
+55671,PPP4R3A,PPP4R3A,GO10,GO:0006974,DNA damage response
+55693,KDM4D,KDM4D,GO10,GO:0000724;GO:0006974,DNA damage response;double-strand break repair via homologous recombination
+55705,IPO9,IPO9,GO10,GO:0005635,nuclear envelope
+55706,NDC1,NDC1,GO10,GO:0005635;GO:0005643;GO:0017056;GO:0031965;GO:0070762,nuclear envelope;nuclear membrane;nuclear pore;nuclear pore transmembrane ring;structural constituent of nuclear pore
+55719,SLF2,SLF2,GO10,GO:0000724;GO:0006281;GO:0006974,DNA damage response;DNA repair;double-strand break repair via homologous recombination
+55732,FIRRM,FIRRM,GO10,GO:0036297,interstrand cross-link repair
+55738,ARFGAP1,ARFGAP1,GO10,GO:0031965,nuclear membrane
+55746,NUP133,NUP133,GO10,GO:0005635;GO:0005643;GO:0017056;GO:0031080;GO:0031965,nuclear envelope;nuclear membrane;nuclear pore;nuclear pore outer ring;structural constituent of nuclear pore
+55749,CCAR1,CCAR1,GO10,GO:0005641,nuclear envelope lumen
+55775,TDP1,TDP1,GO10,GO:0000012;GO:0006281;GO:0006302;GO:0006974,DNA damage response;DNA repair;double-strand break repair;single strand break repair
+55787,TXLNG,TXLNG,GO10,GO:0031965,nuclear membrane
+55791,LRIF1,LRIF1,GO10,GO:0001740,Barr body
+55795,PCID2,PCID2,GO10,GO:0005643;GO:0044615,nuclear pore;nuclear pore nuclear basket
+5580,PRKCD,PRKCD,GO10,GO:0006974,DNA damage response
+55852,TEX2,TEX2,GO10,GO:0031965,nuclear membrane
+55869,HDAC8,HDAC8,GO10,GO:0000228,nuclear chromosome
+5590,PRKCZ,PRKCZ,GO10,GO:0005635,nuclear envelope
+55904,KMT2E,KMT2E,GO10,GO:0034967;GO:0070210,Rpd3L-Expanded complex;Set3 complex
+5591,PRKDC,PRKDC,GO10,GO:0006281;GO:0006302;GO:0006303;GO:0006974;GO:0008630;GO:0031571;GO:0097681,DNA damage response;DNA repair;double-strand break repair;double-strand break repair via alternative nonhomologous end joining;double-strand break repair via nonhomologous end joining;intrinsic apoptotic signaling pathway in response to DNA damage;mitotic G1 DNA damage checkpoint signaling
+55914,ERBIN,ERBIN,GO10,GO:0031965,nuclear membrane
+55916,NXT2,NXT2,GO10,GO:0044613,nuclear pore central transport channel
+55929,DMAP1,DMAP1,GO10,GO:0000812;GO:0006281,DNA repair;Swr1 complex
+5593,PRKG2,PRKG2,GO10,GO:0031965,nuclear membrane
+5594,MAPK1,MAPK1,GO10,GO:0006974,DNA damage response
+5595,MAPK3,MAPK3,GO10,GO:0005635;GO:0006974;GO:0042770,DNA damage response;nuclear envelope;signal transduction in response to DNA damage
+5608,MAP2K6,MAP2K6,GO10,GO:0042770,signal transduction in response to DNA damage
+56154,TEX15,TEX15,GO10,GO:0006281;GO:0006974,DNA damage response;DNA repair
+56158,TEX12,TEX12,GO10,GO:0000711;GO:0000794;GO:0000795;GO:0000801,central element;condensed nuclear chromosome;meiotic DNA repair synthesis;synaptonemal complex
+56159,TEX11,TEX11,GO10,GO:0000794;GO:0000795;GO:0000801,central element;condensed nuclear chromosome;synaptonemal complex
+56160,NSMCE3,NSMCE3,GO10,GO:0000724;GO:0006281;GO:0006974,DNA damage response;DNA repair;double-strand break repair via homologous recombination
+56255,TMX4,TMX4,GO10,GO:0005637,nuclear inner membrane
+56339,METTL3,METTL3,GO10,GO:0006974,DNA damage response
+5663,PSEN1,PSEN1,GO10,GO:0005640;GO:0006974;GO:0031965,DNA damage response;nuclear membrane;nuclear outer membrane
+5664,PSEN2,PSEN2,GO10,GO:0005637;GO:0031965,nuclear inner membrane;nuclear membrane
+56647,BCCIP,BCCIP,GO10,GO:0006281;GO:0006974,DNA damage response;DNA repair
+56655,POLE4,POLE4,GO10,GO:0008622,epsilon DNA polymerase complex
+56658,TRIM39,TRIM39,GO10,GO:0007095,mitotic G2 DNA damage checkpoint signaling
+56776,FMN2,FMN2,GO10,GO:0006974,DNA damage response
+5682,PSMA1,PSMA1,GO10,GO:0006281;GO:0006974,DNA damage response;DNA repair
+5683,PSMA2,PSMA2,GO10,GO:0006281;GO:0006974,DNA damage response;DNA repair
+5684,PSMA3,PSMA3,GO10,GO:0006281;GO:0006974,DNA damage response;DNA repair
+5685,PSMA4,PSMA4,GO10,GO:0006281;GO:0006974,DNA damage response;DNA repair
+56852,RAD18,RAD18,GO10,GO:0006281;GO:0006301;GO:0006974,DNA damage response;DNA damage tolerance;DNA repair
+5686,PSMA5,PSMA5,GO10,GO:0006281;GO:0006974,DNA damage response;DNA repair
+5687,PSMA6,PSMA6,GO10,GO:0006281;GO:0006974,DNA damage response;DNA repair
+5688,PSMA7,PSMA7,GO10,GO:0006281;GO:0006974,DNA damage response;DNA repair
+5689,PSMB1,PSMB1,GO10,GO:0006281;GO:0006974,DNA damage response;DNA repair
+56893,UBQLN4,UBQLN4,GO10,GO:0006281;GO:0006974,DNA damage response;DNA repair
+56894,AGPAT3,AGPAT3,GO10,GO:0005635,nuclear envelope
+56897,WRNIP1,WRNIP1,GO10,GO:0000731;GO:0006281;GO:0006974,DNA damage response;DNA repair;DNA synthesis involved in DNA repair
+5690,PSMB2,PSMB2,GO10,GO:0006281;GO:0006974,DNA damage response;DNA repair
+5691,PSMB3,PSMB3,GO10,GO:0006281;GO:0006974,DNA damage response;DNA repair
+56916,SMARCAD1,SMARCAD1,GO10,GO:0000729;GO:0006281;GO:0006974;GO:0043596,DNA damage response;DNA double-strand break processing;DNA repair;nuclear replication fork
+5692,PSMB4,PSMB4,GO10,GO:0006281;GO:0006974,DNA damage response;DNA repair
+5693,PSMB5,PSMB5,GO10,GO:0006281;GO:0006974,DNA damage response;DNA repair
+5694,PSMB6,PSMB6,GO10,GO:0006281;GO:0006974,DNA damage response;DNA repair
+56941,HMCES,HMCES,GO10,GO:0006281;GO:0006974;GO:0036297;GO:0097681;GO:0106300,DNA damage response;DNA repair;double-strand break repair via alternative nonhomologous end joining;interstrand cross-link repair;protein-DNA covalent cross-linking repair
+56943,ENY2,ENY2,GO10,GO:0005643;GO:0044615,nuclear pore;nuclear pore nuclear basket
+56946,EMSY,EMSY,GO10,GO:0006281;GO:0006974,DNA damage response;DNA repair
+56949,XAB2,XAB2,GO10,GO:0006281;GO:0006283;GO:0006974,DNA damage response;DNA repair;transcription-coupled nucleotide-excision repair
+5695,PSMB7,PSMB7,GO10,GO:0006281;GO:0006974,DNA damage response;DNA repair
+56965,PARP6,PARP6,GO10,GO:0005635,nuclear envelope
+56979,PRDM9,PRDM9,GO10,GO:1990918,double-strand break repair involved in meiotic recombination
+57097,PARP11,PARP11,GO10,GO:0005635;GO:0005643,nuclear envelope;nuclear pore
+571,BACH1,BACH1,GO10,GO:0006281,DNA repair
+57103,TIGAR,TIGAR,GO10,GO:0006974,DNA damage response
+57109,REXO4,REXO4,GO10,GO:0006281,DNA repair
+57110,PLAAT1,PLAAT1,GO10,GO:0005641,nuclear envelope lumen
+57113,TRPC7,TRPC7,GO10,GO:0005635,nuclear envelope
+57122,NUP107,NUP107,GO10,GO:0005635;GO:0005643;GO:0017056;GO:0031080;GO:0031965,nuclear envelope;nuclear membrane;nuclear pore;nuclear pore outer ring;structural constituent of nuclear pore
+57132,CHMP1B,CHMP1B,GO10,GO:0005643,nuclear pore
+57142,RTN4,RTN4,GO10,GO:0005635,nuclear envelope
+57144,PAK5,PAK5,GO10,GO:0031965,nuclear membrane
+57162,PELI1,PELI1,GO10,GO:0006281;GO:0006974,DNA damage response;DNA repair
+572,BAD,BAD,GO10,GO:0008630,intrinsic apoptotic signaling pathway in response to DNA damage
+57214,CEMIP,CEMIP,GO10,GO:0031965,nuclear membrane
+57223,PPP4R3B,PPP4R3B,GO10,GO:0006974,DNA damage response
+5730,PTGDS,PTGDS,GO10,GO:0031965,nuclear membrane
+5733,PTGER3,PTGER3,GO10,GO:0005635,nuclear envelope
+5743,PTGS2,PTGS2,GO10,GO:0005637;GO:0005640,nuclear inner membrane;nuclear outer membrane
+57462,MYORG,MYORG,GO10,GO:0031965,nuclear membrane
+57508,INTS2,INTS2,GO10,GO:0031965,nuclear membrane
+57521,RPTOR,RPTOR,GO10,GO:0006974,DNA damage response
+57540,DISP3,DISP3,GO10,GO:0031965,nuclear membrane
+57551,TAOK1,TAOK1,GO10,GO:0006281;GO:0006974;GO:0007095,DNA damage response;DNA repair;mitotic G2 DNA damage checkpoint signaling
+57599,WDR48,WDR48,GO10,GO:0000724;GO:0006281;GO:0006974,DNA damage response;DNA repair;double-strand break repair via homologous recombination
+57600,FNIP2,FNIP2,GO10,GO:0006974;GO:0008630,DNA damage response;intrinsic apoptotic signaling pathway in response to DNA damage
+57634,EP400,EP400,GO10,GO:0000812;GO:0006281,DNA repair;Swr1 complex
+57646,USP28,USP28,GO10,GO:0000077;GO:0006281;GO:0006974;GO:0042771,DNA damage checkpoint signaling;DNA damage response;DNA repair;intrinsic apoptotic signaling pathway in response to DNA damage by p53 class mediator
+57647,DHX37,DHX37,GO10,GO:0031965,nuclear membrane
+57649,PHF12,PHF12,GO10,GO:0070822,Sin3-type complex
+57650,CIP2A,CIP2A,GO10,GO:0006974;GO:0141112,broken chromosome clustering;DNA damage response
+57654,UVSSA,UVSSA,GO10,GO:0006281;GO:0006283;GO:0006974,DNA damage response;DNA repair;transcription-coupled nucleotide-excision repair
+57659,ZBTB4,ZBTB4,GO10,GO:0006974,DNA damage response
+57662,CAMSAP3,CAMSAP3,GO10,GO:0031298,replication fork protection complex
+57697,FANCM,FANCM,GO10,GO:0006281;GO:0006974;GO:0036297;GO:0045003,DNA damage response;DNA repair;double-strand break repair via synthesis-dependent strand annealing;interstrand cross-link repair
+57721,METTL14,METTL14,GO10,GO:0006974,DNA damage response
+578,BAK1,BAK1,GO10,GO:0008630,intrinsic apoptotic signaling pathway in response to DNA damage
+57804,POLD4,POLD4,GO10,GO:0000731;GO:0006281;GO:0006974;GO:0043625,delta DNA polymerase complex;DNA damage response;DNA repair;DNA synthesis involved in DNA repair
+57805,CCAR2,CCAR2,GO10,GO:0006974,DNA damage response
+5781,PTPN11,PTPN11,GO10,GO:0000077,DNA damage checkpoint signaling
+57820,CCNB1IP1,CCNB1IP1,GO10,GO:0000794;GO:0000795,condensed nuclear chromosome;synaptonemal complex
+580,BARD1,BARD1,GO10,GO:0006281;GO:0006974;GO:0046826,DNA damage response;DNA repair;negative regulation of protein export from nucleus
+581,BAX,BAX,GO10,GO:0005635;GO:0006974;GO:0008630,DNA damage response;intrinsic apoptotic signaling pathway in response to DNA damage;nuclear envelope
+5810,RAD1,RAD1,GO10,GO:0000077;GO:0006281;GO:0006974;GO:0030896,checkpoint clamp complex;DNA damage checkpoint signaling;DNA damage response;DNA repair
+58493,INIP,INIP,GO10,GO:0000724;GO:0006281;GO:0006974,DNA damage response;DNA repair;double-strand break repair via homologous recombination
+585,BBS4,BBS4,GO10,GO:0051457,maintenance of protein location in nucleus
+58516,SINHCAF,SINHCAF,GO10,GO:0070822,Sin3-type complex
+5880,RAC2,RAC2,GO10,GO:0005635,nuclear envelope
+5883,RAD9A,RAD9A,GO10,GO:0000077;GO:0006281;GO:0006974;GO:0030896;GO:0031573,checkpoint clamp complex;DNA damage checkpoint signaling;DNA damage response;DNA repair;mitotic intra-S DNA damage checkpoint signaling
+5884,RAD17,RAD17,GO10,GO:0000077;GO:0006281;GO:0006974;GO:0031573,DNA damage checkpoint signaling;DNA damage response;DNA repair;mitotic intra-S DNA damage checkpoint signaling
+5885,RAD21,RAD21,GO10,GO:0000794;GO:0006281;GO:0006302;GO:0006974;GO:1990414,condensed nuclear chromosome;DNA damage response;DNA repair;double-strand break repair;replication-born double-strand break repair via sister chromatid exchange
+5886,RAD23A,RAD23A,GO10,GO:0006281;GO:0006289;GO:0006974,DNA damage response;DNA repair;nucleotide-excision repair
+5887,RAD23B,RAD23B,GO10,GO:0006281;GO:0006289;GO:0006974,DNA damage response;DNA repair;nucleotide-excision repair
+5888,RAD51,RAD51,GO10,GO:0000228;GO:0000724;GO:0000730;GO:0000794;GO:0000800;GO:0006281;GO:0006974;GO:0036297;GO:1990414;GO:1990918,condensed nuclear chromosome;DNA damage response;DNA recombinase assembly;DNA repair;double-strand break repair involved in meiotic recombination;double-strand break repair via homologous recombination;interstrand cross-link repair;lateral element;nuclear chromosome;replication-born double-strand break repair via sister chromatid exchange
+5889,RAD51C,RAD51C,GO10,GO:0000707;GO:0000724;GO:0006281;GO:0006974;GO:0043596,DNA damage response;DNA repair;double-strand break repair via homologous recombination;meiotic DNA recombinase assembly;nuclear replication fork
+5890,RAD51B,RAD51B,GO10,GO:0000724;GO:0006281;GO:0006974,DNA damage response;DNA repair;double-strand break repair via homologous recombination
+5892,RAD51D,RAD51D,GO10,GO:0000724;GO:0006281;GO:0006974;GO:0036297,DNA damage response;DNA repair;double-strand break repair via homologous recombination;interstrand cross-link repair
+5893,RAD52,RAD52,GO10,GO:0000724;GO:0000730;GO:0006281;GO:0006302;GO:0006974;GO:0010792;GO:0045002,DNA damage response;DNA double-strand break processing involved in repair via single-strand annealing;DNA recombinase assembly;DNA repair;double-strand break repair;double-strand break repair via homologous recombination;double-strand break repair via single-strand annealing
+590,BCHE,BCHE,GO10,GO:0005641,nuclear envelope lumen
+5901,RAN,RAN,GO10,GO:0005635;GO:0005643,nuclear envelope;nuclear pore
+5902,RANBP1,RANBP1,GO10,GO:0005635;GO:0005643,nuclear envelope;nuclear pore
+5903,RANBP2,RANBP2,GO10,GO:0005635;GO:0005643;GO:0031965;GO:0044614;GO:0044615,nuclear envelope;nuclear membrane;nuclear pore;nuclear pore cytoplasmic filaments;nuclear pore nuclear basket
+5905,RANGAP1,RANGAP1,GO10,GO:0005635;GO:0005643;GO:0031965;GO:0046826,negative regulation of protein export from nucleus;nuclear envelope;nuclear membrane;nuclear pore
+5926,ARID4A,ARID4A,GO10,GO:0070822,Sin3-type complex
+5928,RBBP4,RBBP4,GO10,GO:0006281;GO:0006974;GO:0070822,DNA damage response;DNA repair;Sin3-type complex
+5929,RBBP5,RBBP5,GO10,GO:0006974,DNA damage response
+5930,RBBP6,RBBP6,GO10,GO:0006974,DNA damage response
+5931,RBBP7,RBBP7,GO10,GO:0070822,Sin3-type complex
+5932,RBBP8,RBBP8,GO10,GO:0000724;GO:0006281;GO:0006974;GO:0010792,DNA damage response;DNA double-strand break processing involved in repair via single-strand annealing;DNA repair;double-strand break repair via homologous recombination
+59343,SENP2,SENP2,GO10,GO:0005643;GO:0031965,nuclear membrane;nuclear pore
+595,CCND1,CCND1,GO10,GO:0006974;GO:0031571;GO:0031965,DNA damage response;mitotic G1 DNA damage checkpoint signaling;nuclear membrane
+596,BCL2,BCL2,GO10,GO:0006974;GO:0008630;GO:0031965,DNA damage response;intrinsic apoptotic signaling pathway in response to DNA damage;nuclear membrane
+5965,RECQL,RECQL,GO10,GO:0000724;GO:0006281,DNA repair;double-strand break repair via homologous recombination
+597,BCL2A1,BCL2A1,GO10,GO:0008630,intrinsic apoptotic signaling pathway in response to DNA damage
+5976,UPF1,UPF1,GO10,GO:0006281,DNA repair
+598,BCL2L1,BCL2L1,GO10,GO:0008630;GO:0031965,intrinsic apoptotic signaling pathway in response to DNA damage;nuclear membrane
+5980,REV3L,REV3L,GO10,GO:0000724;GO:0006281;GO:0006974;GO:0019985;GO:0042276,DNA damage response;DNA repair;double-strand break repair via homologous recombination;error-prone translesion synthesis;translesion synthesis
+5981,RFC1,RFC1,GO10,GO:0006281,DNA repair
+5982,RFC2,RFC2,GO10,GO:0006281,DNA repair
+5983,RFC3,RFC3,GO10,GO:0000731;GO:0006281,DNA repair;DNA synthesis involved in DNA repair
+5984,RFC4,RFC4,GO10,GO:0006281,DNA repair
+5985,RFC5,RFC5,GO10,GO:0006281,DNA repair
+5987,TRIM27,TRIM27,GO10,GO:0031965,nuclear membrane
+599,BCL2L2,BCL2L2,GO10,GO:0008630,intrinsic apoptotic signaling pathway in response to DNA damage
+6002,RGS12,RGS12,GO10,GO:0000794,condensed nuclear chromosome
+602,BCL3,BCL3,GO10,GO:0006974;GO:0030330;GO:0042771,"DNA damage response;DNA damage response, signal transduction by p53 class mediator;intrinsic apoptotic signaling pathway in response to DNA damage by p53 class mediator"
+604,BCL6,BCL6,GO10,GO:0006974,DNA damage response
+6049,RNF6,RNF6,GO10,GO:0031965,nuclear membrane
+60561,RINT1,RINT1,GO10,GO:0007095,mitotic G2 DNA damage checkpoint signaling
+6117,RPA1,RPA1,GO10,GO:0000228;GO:0000724;GO:0000794;GO:0000800;GO:0005662;GO:0006281;GO:0006284;GO:0006289;GO:0006298;GO:0006974,base-excision repair;condensed nuclear chromosome;DNA damage response;DNA repair;DNA replication factor A complex;double-strand break repair via homologous recombination;lateral element;mismatch repair;nuclear chromosome;nucleotide-excision repair
+6118,RPA2,RPA2,GO10,GO:0000077;GO:0000724;GO:0005662;GO:0006281;GO:0006284;GO:0006289;GO:0006298;GO:0006974;GO:0031571,base-excision repair;DNA damage checkpoint signaling;DNA damage response;DNA repair;DNA replication factor A complex;double-strand break repair via homologous recombination;mismatch repair;mitotic G1 DNA damage checkpoint signaling;nucleotide-excision repair
+6119,RPA3,RPA3,GO10,GO:0000724;GO:0005662;GO:0006281;GO:0006284;GO:0006289;GO:0006298;GO:0006974,base-excision repair;DNA damage response;DNA repair;DNA replication factor A complex;double-strand break repair via homologous recombination;mismatch repair;nucleotide-excision repair
+6154,RPL26,RPL26,GO10,GO:0030330,"DNA damage response, signal transduction by p53 class mediator"
+6188,RPS3,RPS3,GO10,GO:0006281;GO:0006284;GO:0006974,base-excision repair;DNA damage response;DNA repair
+6240,RRM1,RRM1,GO10,GO:0000731;GO:0006281,DNA repair;DNA synthesis involved in DNA repair
+6241,RRM2,RRM2,GO10,GO:0006281,DNA repair
+6272,SORT1,SORT1,GO10,GO:0031965,nuclear membrane
+6277,S100A6,S100A6,GO10,GO:0005635,nuclear envelope
+6300,MAPK12,MAPK12,GO10,GO:0042770,signal transduction in response to DNA damage
+637,BID,BID,GO10,GO:0042770,signal transduction in response to DNA damage
+6386,SDCBP,SDCBP,GO10,GO:0031965,nuclear membrane
+63901,FAM111A,FAM111A,GO10,GO:0006281;GO:0006974;GO:0106300,DNA damage response;DNA repair;protein-DNA covalent cross-linking repair
+6396,SEC13,SEC13,GO10,GO:0005635;GO:0005643;GO:0031080,nuclear envelope;nuclear pore;nuclear pore outer ring
+63967,CLSPN,CLSPN,GO10,GO:0000077;GO:0006281;GO:0006974;GO:0007095,DNA damage checkpoint signaling;DNA damage response;DNA repair;mitotic G2 DNA damage checkpoint signaling
+63979,FIGNL1,FIGNL1,GO10,GO:0000228;GO:0036297,interstrand cross-link repair;nuclear chromosome
+641,BLM,BLM,GO10,GO:0000228;GO:0000724;GO:0000729;GO:0000800;GO:0006281;GO:0006974;GO:0007095,DNA damage response;DNA double-strand break processing;DNA repair;double-strand break repair via homologous recombination;lateral element;mitotic G2 DNA damage checkpoint signaling;nuclear chromosome
+64102,TNMD,TNMD,GO10,GO:0005635,nuclear envelope
+64112,MOAP1,MOAP1,GO10,GO:0008630,intrinsic apoptotic signaling pathway in response to DNA damage
+64151,NCAPG,NCAPG,GO10,GO:0000794,condensed nuclear chromosome
+6419,SETMAR,SETMAR,GO10,GO:0000729;GO:0006281;GO:0006303;GO:0006974,DNA damage response;DNA double-strand break processing;DNA repair;double-strand break repair via nonhomologous end joining
+6421,SFPQ,SFPQ,GO10,GO:0000724;GO:0006281;GO:0006974,DNA damage response;DNA repair;double-strand break repair via homologous recombination
+64210,MMS19,MMS19,GO10,GO:0006281;GO:0006974,DNA damage response;DNA repair
+64215,DNAJC1,DNAJC1,GO10,GO:0031965,nuclear membrane
+64222,TOR3A,TOR3A,GO10,GO:0005635,nuclear envelope
+64223,MLST8,MLST8,GO10,GO:0006974,DNA damage response
+642636,RAD21L1,RAD21L1,GO10,GO:1990414,replication-born double-strand break repair via sister chromatid exchange
+64328,XPO4,XPO4,GO10,GO:0005643,nuclear pore
+6434,TRA2B,TRA2B,GO10,GO:0005637,nuclear inner membrane
+64393,ZMAT3,ZMAT3,GO10,GO:0006974,DNA damage response
+64400,AKTIP,AKTIP,GO10,GO:0006301,DNA damage tolerance
+64418,TMEM168,TMEM168,GO10,GO:0031965,nuclear membrane
+644186,SYCE3,SYCE3,GO10,GO:0000794;GO:0000795;GO:0000801,central element;condensed nuclear chromosome;synaptonemal complex
+64421,DCLRE1C,DCLRE1C,GO10,GO:0006281;GO:0006302;GO:0006303;GO:0006974;GO:0036297,DNA damage response;DNA repair;double-strand break repair;double-strand break repair via nonhomologous end joining;interstrand cross-link repair
+64426,SUDS3,SUDS3,GO10,GO:0070822,Sin3-type complex
+64431,ACTR6,ACTR6,GO10,GO:0000812,Swr1 complex
+6446,SGK1,SGK1,GO10,GO:0006974,DNA damage response
+6453,ITSN1,ITSN1,GO10,GO:0005635,nuclear envelope
+64710,NUCKS1,NUCKS1,GO10,GO:0000724;GO:0006281;GO:0006974;GO:0036297,DNA damage response;DNA repair;double-strand break repair via homologous recombination;interstrand cross-link repair
+64782,AEN,AEN,GO10,GO:0006974;GO:0031965;GO:0042771,DNA damage response;intrinsic apoptotic signaling pathway in response to DNA damage by p53 class mediator;nuclear membrane
+64783,RBM15,RBM15,GO10,GO:0005635;GO:0031965,nuclear envelope;nuclear membrane
+64785,GINS3,GINS3,GO10,GO:0000811;GO:0071162,CMG complex;GINS complex
+64789,EXO5,EXO5,GO10,GO:0006281;GO:0006974;GO:0036297,DNA damage response;DNA repair;interstrand cross-link repair
+64858,DCLRE1B,DCLRE1B,GO10,GO:0006281;GO:0006303;GO:0006974;GO:0031848;GO:0036297,DNA damage response;DNA repair;double-strand break repair via nonhomologous end joining;interstrand cross-link repair;protection from non-homologous end joining at telomere
+64859,NABP1,NABP1,GO10,GO:0000724;GO:0006281;GO:0006974,DNA damage response;DNA repair;double-strand break repair via homologous recombination
+64901,RANBP17,RANBP17,GO10,GO:0005643,nuclear pore
+6500,SKP1,SKP1,GO10,GO:0051457,maintenance of protein location in nucleus
+65057,ACD,ACD,GO10,GO:0031848,protection from non-homologous end joining at telomere
+65083,NOL6,NOL6,GO10,GO:0000794,condensed nuclear chromosome
+65123,INTS3,INTS3,GO10,GO:0000724;GO:0006281;GO:0006974,DNA damage response;DNA repair;double-strand break repair via homologous recombination
+65125,WNK1,WNK1,GO10,GO:0006974,DNA damage response
+65267,WNK3,WNK3,GO10,GO:0006974,DNA damage response
+65268,WNK2,WNK2,GO10,GO:0006974,DNA damage response
+653489,RGPD3,RGPD3,GO10,GO:0005643,nuclear pore
+6581,SLC22A3,SLC22A3,GO10,GO:0005640;GO:0031965,nuclear membrane;nuclear outer membrane
+6596,HLTF,HLTF,GO10,GO:0006281;GO:0006974;GO:0043596,DNA damage response;DNA repair;nuclear replication fork
+65975,STK33,STK33,GO10,GO:0044773,mitotic DNA damage checkpoint signaling
+6598,SMARCB1,SMARCB1,GO10,GO:0000228,nuclear chromosome
+65980,BRD9,BRD9,GO10,GO:0000724,double-strand break repair via homologous recombination
+6605,SMARCE1,SMARCE1,GO10,GO:0000228,nuclear chromosome
+662,BNIP1,BNIP1,GO10,GO:0005635,nuclear envelope
+6622,SNCA,SNCA,GO10,GO:0005640,nuclear outer membrane
+663,BNIP2,BNIP2,GO10,GO:0005635,nuclear envelope
+664,BNIP3,BNIP3,GO10,GO:0005635,nuclear envelope
+6648,SOD2,SOD2,GO10,GO:0008630,intrinsic apoptotic signaling pathway in response to DNA damage
+665,BNIP3L,BNIP3L,GO10,GO:0005635,nuclear envelope
+6653,SORL1,SORL1,GO10,GO:0005641,nuclear envelope lumen
+666,BOK,BOK,GO10,GO:0005640;GO:0008630,intrinsic apoptotic signaling pathway in response to DNA damage;nuclear outer membrane
+667,DST,DST,GO10,GO:0005635,nuclear envelope
+6672,SP100,SP100,GO10,GO:0030330;GO:0046826,"DNA damage response, signal transduction by p53 class mediator;negative regulation of protein export from nucleus"
+6676,SPAG4,SPAG4,GO10,GO:0005635;GO:0005637;GO:0034993,meiotic nuclear membrane microtubule tethering complex;nuclear envelope;nuclear inner membrane
+6683,SPAST,SPAST,GO10,GO:0031965,nuclear membrane
+672,BRCA1,BRCA1,GO10,GO:0000724;GO:0000794;GO:0000800;GO:0006281;GO:0006301;GO:0006302;GO:0006974;GO:0007095;GO:0008630,condensed nuclear chromosome;DNA damage response;DNA damage tolerance;DNA repair;double-strand break repair;double-strand break repair via homologous recombination;intrinsic apoptotic signaling pathway in response to DNA damage;lateral element;mitotic G2 DNA damage checkpoint signaling
+6720,SREBF1,SREBF1,GO10,GO:0005635,nuclear envelope
+6749,SSRP1,SSRP1,GO10,GO:0006281;GO:0006974,DNA damage response;DNA repair
+675,BRCA2,BRCA2,GO10,GO:0000724;GO:0000800;GO:0006281;GO:0006289;GO:0006302;GO:0006974;GO:0008630;GO:0030330;GO:0042771,"DNA damage response;DNA damage response, signal transduction by p53 class mediator;DNA repair;double-strand break repair;double-strand break repair via homologous recombination;intrinsic apoptotic signaling pathway in response to DNA damage;intrinsic apoptotic signaling pathway in response to DNA damage by p53 class mediator;lateral element;nucleotide-excision repair"
+6787,NEK4,NEK4,GO10,GO:0006974,DNA damage response
+6794,STK11,STK11,GO10,GO:0006974,DNA damage response
+6804,STX1A,STX1A,GO10,GO:0031965,nuclear membrane
+6839,SUV39H1,SUV39H1,GO10,GO:0000794;GO:0005652;GO:0006974,condensed nuclear chromosome;DNA damage response;nuclear lamina
+6847,SYCP1,SYCP1,GO10,GO:0000711;GO:0000794;GO:0000795;GO:0000801;GO:0000802,central element;condensed nuclear chromosome;meiotic DNA repair synthesis;synaptonemal complex;transverse filament
+6853,SYN1,SYN1,GO10,GO:0000795,synaptonemal complex
+6872,TAF1,TAF1,GO10,GO:0006974,DNA damage response
+6880,TAF9,TAF9,GO10,GO:0006974,DNA damage response
+6885,MAP3K7,MAP3K7,GO10,GO:0042770,signal transduction in response to DNA damage
+6944,VPS72,VPS72,GO10,GO:0000812,Swr1 complex
+6996,TDG,TDG,GO10,GO:0006281;GO:0006284;GO:0006285;GO:0006974;GO:0045008,"base-excision repair;base-excision repair, AP site formation;depyrimidination;DNA damage response;DNA repair"
+7014,TERF2,TERF2,GO10,GO:0031848,protection from non-homologous end joining at telomere
+7023,TFAP4,TFAP4,GO10,GO:0030330,"DNA damage response, signal transduction by p53 class mediator"
+708,C1QBP,C1QBP,GO10,GO:0006974,DNA damage response
+7108,TM7SF2,TM7SF2,GO10,GO:0005637,nuclear inner membrane
+7112,TMPO,TMPO,GO10,GO:0005635;GO:0005637;GO:0031965,nuclear envelope;nuclear inner membrane;nuclear membrane
+7124,TNF,TNF,GO10,GO:0008630,intrinsic apoptotic signaling pathway in response to DNA damage
+7132,TNFRSF1A,TNFRSF1A,GO10,GO:0008630,intrinsic apoptotic signaling pathway in response to DNA damage
+7133,TNFRSF1B,TNFRSF1B,GO10,GO:0008630,intrinsic apoptotic signaling pathway in response to DNA damage
+7141,TNP1,TNP1,GO10,GO:0000012,single strand break repair
+7150,TOP1,TOP1,GO10,GO:0000228,nuclear chromosome
+7153,TOP2A,TOP2A,GO10,GO:0000228;GO:0006974,DNA damage response;nuclear chromosome
+7156,TOP3A,TOP3A,GO10,GO:0000724;GO:0006281,DNA repair;double-strand break repair via homologous recombination
+7157,TP53,TP53,GO10,GO:0006289;GO:0006974;GO:0030330;GO:0031571;GO:0042771,"DNA damage response;DNA damage response, signal transduction by p53 class mediator;intrinsic apoptotic signaling pathway in response to DNA damage by p53 class mediator;mitotic G1 DNA damage checkpoint signaling;nucleotide-excision repair"
+7158,TP53BP1,TP53BP1,GO10,GO:0000077;GO:0006281;GO:0006303;GO:0006974;GO:0097680,DNA damage checkpoint signaling;DNA damage response;DNA repair;double-strand break repair via classical nonhomologous end joining;double-strand break repair via nonhomologous end joining
+7161,TP73,TP73,GO10,GO:0006298;GO:0006974;GO:0008630;GO:0042771,DNA damage response;intrinsic apoptotic signaling pathway in response to DNA damage;intrinsic apoptotic signaling pathway in response to DNA damage by p53 class mediator;mismatch repair
+7175,TPR,TPR,GO10,GO:0005635;GO:0005643;GO:0017056;GO:0031965;GO:0044615,nuclear envelope;nuclear membrane;nuclear pore;nuclear pore nuclear basket;structural constituent of nuclear pore
+7186,TRAF2,TRAF2,GO10,GO:0008630,intrinsic apoptotic signaling pathway in response to DNA damage
+7188,TRAF5,TRAF5,GO10,GO:0008630,intrinsic apoptotic signaling pathway in response to DNA damage
+7189,TRAF6,TRAF6,GO10,GO:0006974,DNA damage response
+7273,TTN,TTN,GO10,GO:0000794,condensed nuclear chromosome
+727851,RGPD8,RGPD8,GO10,GO:0005643,nuclear pore
+7283,TUBG1,TUBG1,GO10,GO:0000794,condensed nuclear chromosome
+728340,GTF2H2C,GTF2H2C,GO10,GO:0006281;GO:0006289;GO:0006974,DNA damage response;DNA repair;nucleotide-excision repair
+729857,RGPD2,RGPD2,GO10,GO:0005643,nuclear pore
+7301,TYRO3,TYRO3,GO10,GO:0005635,nuclear envelope
+7317,UBA1,UBA1,GO10,GO:0006974,DNA damage response
+7318,UBA7,UBA7,GO10,GO:0006974,DNA damage response
+7319,UBE2A,UBE2A,GO10,GO:0006281;GO:0006301;GO:0006974,DNA damage response;DNA damage tolerance;DNA repair
+7320,UBE2B,UBE2B,GO10,GO:0006281;GO:0006301;GO:0006974,DNA damage response;DNA damage tolerance;DNA repair
+7323,UBE2D3,UBE2D3,GO10,GO:0006281;GO:0006974,DNA damage response;DNA repair
+7325,UBE2E2,UBE2E2,GO10,GO:0006974,DNA damage response
+7329,UBE2I,UBE2I,GO10,GO:0000795;GO:0005635;GO:0005643,nuclear envelope;nuclear pore;synaptonemal complex
+7334,UBE2N,UBE2N,GO10,GO:0000724;GO:0000729;GO:0006281;GO:0006301;GO:0006974,DNA damage response;DNA damage tolerance;DNA double-strand break processing;DNA repair;double-strand break repair via homologous recombination
+7335,UBE2V1,UBE2V1,GO10,GO:0006301;GO:0042275,DNA damage tolerance;error-free postreplication DNA repair
+7336,UBE2V2,UBE2V2,GO10,GO:0000729;GO:0006301;GO:0042275,DNA damage tolerance;DNA double-strand break processing;error-free postreplication DNA repair
+7341,SUMO1,SUMO1,GO10,GO:0005643;GO:0006281;GO:0031965,DNA repair;nuclear membrane;nuclear pore
+7356,SCGB1A1,SCGB1A1,GO10,GO:0005635,nuclear envelope
+7374,UNG,UNG,GO10,GO:0000012;GO:0006281;GO:0006284;GO:0006974;GO:0045008;GO:0097510,"base-excision repair;base-excision repair, AP site formation via deaminated base removal;depyrimidination;DNA damage response;DNA repair;single strand break repair"
+7398,USP1,USP1,GO10,GO:0006281;GO:0006974,DNA damage response;DNA repair
+7405,UVRAG,UVRAG,GO10,GO:0006281;GO:0006974;GO:0097680,DNA damage response;DNA repair;double-strand break repair via classical nonhomologous end joining
+7415,VCP,VCP,GO10,GO:0006281;GO:0006302;GO:0006974;GO:0019985;GO:0036297;GO:0106300,DNA damage response;DNA repair;double-strand break repair;interstrand cross-link repair;protein-DNA covalent cross-linking repair;translesion synthesis
+7443,VRK1,VRK1,GO10,GO:0006974,DNA damage response
+7444,VRK2,VRK2,GO10,GO:0005635;GO:0006974,DNA damage response;nuclear envelope
+7468,NSD2,NSD2,GO10,GO:0006302,double-strand break repair
+7471,WNT1,WNT1,GO10,GO:0042770,signal transduction in response to DNA damage
+7486,WRN,WRN,GO10,GO:0000724;GO:0000731;GO:0006281;GO:0006284;GO:0006298;GO:0006302;GO:0006974,base-excision repair;DNA damage response;DNA repair;DNA synthesis involved in DNA repair;double-strand break repair;double-strand break repair via homologous recombination;mismatch repair
+7507,XPA,XPA,GO10,GO:0000715;GO:0005662;GO:0006281;GO:0006284;GO:0006289;GO:0006974;GO:0008630;GO:0070914;GO:1901255,"base-excision repair;DNA damage response;DNA repair;DNA replication factor A complex;intrinsic apoptotic signaling pathway in response to DNA damage;nucleotide-excision repair;nucleotide-excision repair involved in interstrand cross-link repair;nucleotide-excision repair, DNA damage recognition;UV-damage excision repair"
+7508,XPC,XPC,GO10,GO:0000720;GO:0006281;GO:0006289;GO:0006298;GO:0006974;GO:0031573;GO:0070914,DNA damage response;DNA repair;mismatch repair;mitotic intra-S DNA damage checkpoint signaling;nucleotide-excision repair;pyrimidine dimer repair by nucleotide-excision repair;UV-damage excision repair
+7514,XPO1,XPO1,GO10,GO:0005635;GO:0031965,nuclear envelope;nuclear membrane
+7515,XRCC1,XRCC1,GO10,GO:0000012;GO:0006281;GO:0006284;GO:0006302;GO:0006303;GO:0006974,base-excision repair;DNA damage response;DNA repair;double-strand break repair;double-strand break repair via nonhomologous end joining;single strand break repair
+7516,XRCC2,XRCC2,GO10,GO:0000724;GO:0006281;GO:0006974,DNA damage response;DNA repair;double-strand break repair via homologous recombination
+7517,XRCC3,XRCC3,GO10,GO:0000724;GO:0006281;GO:0006974;GO:0036297;GO:0043596;GO:0045003,DNA damage response;DNA repair;double-strand break repair via homologous recombination;double-strand break repair via synthesis-dependent strand annealing;interstrand cross-link repair;nuclear replication fork
+7518,XRCC4,XRCC4,GO10,GO:0006281;GO:0006284;GO:0006302;GO:0006303;GO:0006974,base-excision repair;DNA damage response;DNA repair;double-strand break repair;double-strand break repair via nonhomologous end joining
+7520,XRCC5,XRCC5,GO10,GO:0000725;GO:0006281;GO:0006302;GO:0006303;GO:0006974,DNA damage response;DNA repair;double-strand break repair;double-strand break repair via nonhomologous end joining;recombinational repair
+7528,YY1,YY1,GO10,GO:0000724;GO:0006281;GO:0006974;GO:0031011,DNA damage response;DNA repair;double-strand break repair via homologous recombination;Ino80 complex
+755,CFAP410,CFAP410,GO10,GO:0006974,DNA damage response
+7737,RNF113A,RNF113A,GO10,GO:0006281;GO:0006974,DNA damage response;DNA repair
+7767,ZNF224,ZNF224,GO10,GO:0031965,nuclear membrane
+7779,SLC30A1,SLC30A1,GO10,GO:0031965,nuclear membrane
+7832,BTG2,BTG2,GO10,GO:0006281;GO:0006974,DNA damage response;DNA repair
+7874,USP7,USP7,GO10,GO:0006281;GO:0006283;GO:0006307;GO:0006974,DNA alkylation repair;DNA damage response;DNA repair;transcription-coupled nucleotide-excision repair
+78994,PRR14,PRR14,GO10,GO:0005652,nuclear lamina
+78995,HROB,HROB,GO10,GO:0000725;GO:0000731;GO:0006281;GO:0006974;GO:0036297,DNA damage response;DNA repair;DNA synthesis involved in DNA repair;interstrand cross-link repair;recombinational repair
+78996,CYREN,CYREN,GO10,GO:0006281;GO:0006303;GO:0006974,DNA damage response;DNA repair;double-strand break repair via nonhomologous end joining
+79000,AUNIP,AUNIP,GO10,GO:0000724;GO:0006281;GO:0006974,DNA damage response;DNA repair;double-strand break repair via homologous recombination
+79023,NUP37,NUP37,GO10,GO:0005635;GO:0005643;GO:0031080,nuclear envelope;nuclear pore;nuclear pore outer ring
+79035,NABP2,NABP2,GO10,GO:0000724;GO:0006281;GO:0006974,DNA damage response;DNA repair;double-strand break repair via homologous recombination
+79041,TMEM38A,TMEM38A,GO10,GO:0031965,nuclear membrane
+79050,NOC4L,NOC4L,GO10,GO:0031965,nuclear membrane
+79068,FTO,FTO,GO10,GO:0006307,DNA alkylation repair
+79073,TMEM109,TMEM109,GO10,GO:0005640;GO:0042771,intrinsic apoptotic signaling pathway in response to DNA damage by p53 class mediator;nuclear outer membrane
+7917,BAG6,BAG6,GO10,GO:0042771,intrinsic apoptotic signaling pathway in response to DNA damage by p53 class mediator
+79173,BRME1,BRME1,GO10,GO:1990918,double-strand break repair involved in meiotic recombination
+79184,BRCC3,BRCC3,GO10,GO:0006281;GO:0006302;GO:0006974;GO:0007095;GO:0140861,DNA damage response;DNA repair;DNA repair-dependent chromatin remodeling;double-strand break repair;mitotic G2 DNA damage checkpoint signaling
+79188,TMEM43,TMEM43,GO10,GO:0005637,nuclear inner membrane
+79447,PAGR1,PAGR1,GO10,GO:0006281;GO:0006974,DNA damage response;DNA repair
+79595,SAP130,SAP130,GO10,GO:0070822,Sin3-type complex
+79621,RNASEH2B,RNASEH2B,GO10,GO:0006298,mismatch repair
+79624,ARMT1,ARMT1,GO10,GO:0006974,DNA damage response
+79639,TMEM53,TMEM53,GO10,GO:0005640;GO:0031965,nuclear membrane;nuclear outer membrane
+79641,ROGDI,ROGDI,GO10,GO:0005635,nuclear envelope
+79643,CHMP6,CHMP6,GO10,GO:0005635;GO:0005643,nuclear envelope;nuclear pore
+79661,NEIL1,NEIL1,GO10,GO:0006281;GO:0006284;GO:0006287;GO:0006974;GO:0045008,"base-excision repair;base-excision repair, gap-filling;depyrimidination;DNA damage response;DNA repair"
+79668,PARP8,PARP8,GO10,GO:0005635,nuclear envelope
+79677,SMC6,SMC6,GO10,GO:0000724;GO:0006281;GO:0006974,DNA damage response;DNA repair;double-strand break repair via homologous recombination
+79685,SAP30L,SAP30L,GO10,GO:0070822,Sin3-type complex
+79728,PALB2,PALB2,GO10,GO:0000724;GO:0006281;GO:0006974,DNA damage response;DNA repair;double-strand break repair via homologous recombination
+79738,BBS10,BBS10,GO10,GO:0006974,DNA damage response
+79759,ZNF668,ZNF668,GO10,GO:0006281,DNA repair
+79789,CLMN,CLMN,GO10,GO:0005640;GO:0034993,meiotic nuclear membrane microtubule tethering complex;nuclear outer membrane
+7979,SEM1,SEM1,GO10,GO:0000724,double-strand break repair via homologous recombination
+79791,FBXO31,FBXO31,GO10,GO:0006974;GO:0031571;GO:0042770,DNA damage response;mitotic G1 DNA damage checkpoint signaling;signal transduction in response to DNA damage
+79840,NHEJ1,NHEJ1,GO10,GO:0006281;GO:0006302;GO:0006303;GO:0006974,DNA damage response;DNA repair;double-strand break repair;double-strand break repair via nonhomologous end joining
+79858,NEK11,NEK11,GO10,GO:0031573,mitotic intra-S DNA damage checkpoint signaling
+79902,NUP85,NUP85,GO10,GO:0005635;GO:0005643;GO:0017056;GO:0031080;GO:0031965,nuclear envelope;nuclear membrane;nuclear pore;nuclear pore outer ring;structural constituent of nuclear pore
+79913,ACTR5,ACTR5,GO10,GO:0006281;GO:0006302;GO:0006974;GO:0031011;GO:0070914,DNA damage response;DNA repair;double-strand break repair;Ino80 complex;UV-damage excision repair
+79915,ATAD5,ATAD5,GO10,GO:0006974;GO:0008630;GO:0042770;GO:0042771,DNA damage response;intrinsic apoptotic signaling pathway in response to DNA damage;intrinsic apoptotic signaling pathway in response to DNA damage by p53 class mediator;signal transduction in response to DNA damage
+79968,WDR76,WDR76,GO10,GO:0006974,DNA damage response
+79982,DNAJB14,DNAJB14,GO10,GO:0031965,nuclear membrane
+80010,RMI1,RMI1,GO10,GO:0000724,double-strand break repair via homologous recombination
+80013,MINDY3,MINDY3,GO10,GO:0031965,nuclear membrane
+80119,PIF1,PIF1,GO10,GO:0006281;GO:0006974,DNA damage response;DNA repair
+80124,VCPIP1,VCPIP1,GO10,GO:0006281;GO:0006974;GO:0106300,DNA damage response;DNA repair;protein-DNA covalent cross-linking repair
+80149,ZC3H12A,ZC3H12A,GO10,GO:0006974,DNA damage response
+80169,CTC1,CTC1,GO10,GO:0006974,DNA damage response
+80198,MUS81,MUS81,GO10,GO:0000727;GO:0006281;GO:0006302;GO:0006974;GO:0031573;GO:0043596,DNA damage response;DNA repair;double-strand break repair;double-strand break repair via break-induced replication;mitotic intra-S DNA damage checkpoint signaling;nuclear replication fork
+8021,NUP214,NUP214,GO10,GO:0005635;GO:0005643;GO:0017056;GO:1990876,cytoplasmic side of nuclear pore;nuclear envelope;nuclear pore;structural constituent of nuclear pore
+80233,FAAP100,FAAP100,GO10,GO:0006281;GO:0006974;GO:0036297,DNA damage response;DNA repair;interstrand cross-link repair
+80254,CEP63,CEP63,GO10,GO:0000077;GO:0006974;GO:0042770,DNA damage checkpoint signaling;DNA damage response;signal transduction in response to DNA damage
+80279,CDK5RAP3,CDK5RAP3,GO10,GO:0007095,mitotic G2 DNA damage checkpoint signaling
+80312,TET1,TET1,GO10,GO:0031965;GO:0070822,nuclear membrane;Sin3-type complex
+80314,EPC1,EPC1,GO10,GO:0000724;GO:0031965,double-strand break repair via homologous recombination;nuclear membrane
+80351,TNKS2,TNKS2,GO10,GO:0005635,nuclear envelope
+80772,CPTP,CPTP,GO10,GO:0005640,nuclear outer membrane
+80789,INTS5,INTS5,GO10,GO:0031965,nuclear membrane
+80820,EEPD1,EEPD1,GO10,GO:0006281,DNA repair
+80854,SETD7,SETD7,GO10,GO:0006974,DNA damage response
+8086,AAAS,AAAS,GO10,GO:0005635;GO:0005643;GO:0031965,nuclear envelope;nuclear membrane;nuclear pore
+8087,FXR1,FXR1,GO10,GO:0005635,nuclear envelope
+8091,HMGA2,HMGA2,GO10,GO:0000228;GO:0006284,base-excision repair;nuclear chromosome
+811,CALR,CALR,GO10,GO:0005635,nuclear envelope
+81488,POLR2M,POLR2M,GO10,GO:0005635,nuclear envelope
+81611,ANP32E,ANP32E,GO10,GO:0000812,Swr1 complex
+81928,CABLES2,CABLES2,GO10,GO:0030330,"DNA damage response, signal transduction by p53 class mediator"
+81929,SEH1L,SEH1L,GO10,GO:0005635;GO:0005643;GO:0031080,nuclear envelope;nuclear pore;nuclear pore outer ring
+8208,CHAF1B,CHAF1B,GO10,GO:0006281;GO:0006974,DNA damage response;DNA repair
+821,CANX,CANX,GO10,GO:0031965,nuclear membrane
+8239,USP9X,USP9X,GO10,GO:0006307,DNA alkylation repair
+8243,SMC1A,SMC1A,GO10,GO:0000794;GO:0006281;GO:0006974,condensed nuclear chromosome;DNA damage response;DNA repair
+8290,H3-4,H3-4,GO10,GO:0000794,condensed nuclear chromosome
+8295,TRRAP,TRRAP,GO10,GO:0000812;GO:0140861,DNA repair-dependent chromatin remodeling;Swr1 complex
+8317,CDC7,CDC7,GO10,GO:0000727;GO:0031573,double-strand break repair via break-induced replication;mitotic intra-S DNA damage checkpoint signaling
+8318,CDC45,CDC45,GO10,GO:0000727;GO:0071162,CMG complex;double-strand break repair via break-induced replication
+83444,INO80B,INO80B,GO10,GO:0006281;GO:0006974;GO:0031011,DNA damage response;DNA repair;Ino80 complex
+835,CASP2,CASP2,GO10,GO:0006974;GO:0008630;GO:0030330,"DNA damage response;DNA damage response, signal transduction by p53 class mediator;intrinsic apoptotic signaling pathway in response to DNA damage"
+836,CASP3,CASP3,GO10,GO:0006974,DNA damage response
+83637,ZMIZ2,ZMIZ2,GO10,GO:0043596,nuclear replication fork
+83666,PARP9,PARP9,GO10,GO:0000077;GO:0006281;GO:0006302;GO:0006974,DNA damage checkpoint signaling;DNA damage response;DNA repair;double-strand break repair
+83667,SESN2,SESN2,GO10,GO:0030330,"DNA damage response, signal transduction by p53 class mediator"
+83695,RHNO1,RHNO1,GO10,GO:0000077;GO:0000725;GO:0006281;GO:0006974;GO:0097681,DNA damage checkpoint signaling;DNA damage response;DNA repair;double-strand break repair via alternative nonhomologous end joining;recombinational repair
+8379,MAD1L1,MAD1L1,GO10,GO:0005635;GO:0031965;GO:0044615,nuclear envelope;nuclear membrane;nuclear pore nuclear basket
+83860,TAF3,TAF3,GO10,GO:0031965;GO:0051457,maintenance of protein location in nucleus;nuclear membrane
+83862,TMEM120A,TMEM120A,GO10,GO:0005637,nuclear inner membrane
+83932,SPRTN,SPRTN,GO10,GO:0006281;GO:0006974;GO:0019985;GO:0036297;GO:0106300,DNA damage response;DNA repair;interstrand cross-link repair;protein-DNA covalent cross-linking repair;translesion synthesis
+83933,HDAC10,HDAC10,GO10,GO:0006281;GO:0006974,DNA damage response;DNA repair
+83943,IMMP2L,IMMP2L,GO10,GO:0006974,DNA damage response
+83990,BRIP1,BRIP1,GO10,GO:0000077;GO:0006281;GO:0006289;GO:0006302;GO:0006974;GO:0010705;GO:0031965;GO:0106300;GO:1990918,DNA damage checkpoint signaling;DNA damage response;DNA repair;double-strand break repair;double-strand break repair involved in meiotic recombination;meiotic DNA double-strand break processing involved in reciprocal meiotic recombination;nuclear membrane;nucleotide-excision repair;protein-DNA covalent cross-linking repair
+84072,HORMAD1,HORMAD1,GO10,GO:0000794;GO:0000795,condensed nuclear chromosome;synaptonemal complex
+84074,QRICH2,QRICH2,GO10,GO:0031965,nuclear membrane
+84083,ZRANB3,ZRANB3,GO10,GO:0006281;GO:0006974;GO:0043596,DNA damage response;DNA repair;nuclear replication fork
+84101,USP44,USP44,GO10,GO:0006289,nucleotide-excision repair
+84126,ATRIP,ATRIP,GO10,GO:0000077;GO:0006281;GO:0006974,DNA damage checkpoint signaling;DNA damage response;DNA repair
+84142,ABRAXAS1,ABRAXAS1,GO10,GO:0006281;GO:0006302;GO:0006974;GO:0007095,DNA damage response;DNA repair;double-strand break repair;mitotic G2 DNA damage checkpoint signaling
+84153,RNASEH2C,RNASEH2C,GO10,GO:0006298,mismatch repair
+84164,ASCC2,ASCC2,GO10,GO:0006281;GO:0006307;GO:0006974,DNA alkylation repair;DNA damage response;DNA repair
+842,CASP9,CASP9,GO10,GO:0006974;GO:0008630;GO:0042770,DNA damage response;intrinsic apoptotic signaling pathway in response to DNA damage;signal transduction in response to DNA damage
+84220,RGPD5,RGPD5,GO10,GO:0005643,nuclear pore
+84250,SLF1,SLF1,GO10,GO:0000724;GO:0006281;GO:0006974,DNA damage response;DNA repair;double-strand break repair via homologous recombination
+84256,FLYWCH1,FLYWCH1,GO10,GO:0006974,DNA damage response
+84259,DCUN1D5,DCUN1D5,GO10,GO:0006974,DNA damage response
+84266,ALKBH7,ALKBH7,GO10,GO:0006974,DNA damage response
+84287,ZDHHC16,ZDHHC16,GO10,GO:0006974,DNA damage response
+84296,GINS4,GINS4,GO10,GO:0000727;GO:0000811;GO:0071162,CMG complex;double-strand break repair via break-induced replication;GINS complex
+84303,CHCHD6,CHCHD6,GO10,GO:0006974,DNA damage response
+84312,BRMS1L,BRMS1L,GO10,GO:0070822,Sin3-type complex
+84337,ELOF1,ELOF1,GO10,GO:0006281;GO:0006283;GO:0006974,DNA damage response;DNA repair;transcription-coupled nucleotide-excision repair
+84365,NIFK,NIFK,GO10,GO:0000794,condensed nuclear chromosome
+8438,RAD54L,RAD54L,GO10,GO:0000724;GO:0006281;GO:0006302;GO:0006974;GO:0045003,DNA damage response;DNA repair;double-strand break repair;double-strand break repair via homologous recombination;double-strand break repair via synthesis-dependent strand annealing
+84444,DOT1L,DOT1L,GO10,GO:0000077;GO:0006281,DNA damage checkpoint signaling;DNA repair
+84446,BRSK1,BRSK1,GO10,GO:0006974;GO:0007095,DNA damage response;mitotic G2 DNA damage checkpoint signaling
+8445,DYRK2,DYRK2,GO10,GO:0006974;GO:0042771,DNA damage response;intrinsic apoptotic signaling pathway in response to DNA damage by p53 class mediator
+84461,NEURL4,NEURL4,GO10,GO:0043504,mitochondrial DNA repair
+84464,SLX4,SLX4,GO10,GO:0000228;GO:0000724;GO:0006281;GO:0006289;GO:0006974;GO:0010792;GO:0033557,DNA damage response;DNA double-strand break processing involved in repair via single-strand annealing;DNA repair;double-strand break repair via homologous recombination;nuclear chromosome;nucleotide-excision repair;Slx1-Slx4 complex
+8450,CUL4B,CUL4B,GO10,GO:0006281;GO:0006289;GO:0006974;GO:0070914,DNA damage response;DNA repair;nucleotide-excision repair;UV-damage excision repair
+8451,CUL4A,CUL4A,GO10,GO:0006281;GO:0006289;GO:0006974,DNA damage response;DNA repair;nucleotide-excision repair
+84514,GHDC,GHDC,GO10,GO:0005635,nuclear envelope
+84515,MCM8,MCM8,GO10,GO:0000724;GO:0006281;GO:0006974;GO:0036298;GO:0070716,DNA damage response;DNA repair;double-strand break repair via homologous recombination;mismatch repair involved in maintenance of fidelity involved in DNA-dependent DNA replication;recombinational interstrand cross-link repair
+8458,TTF2,TTF2,GO10,GO:0006281,DNA repair
+84629,TNRC18,TNRC18,GO10,GO:0031965,nuclear membrane
+8467,SMARCA5,SMARCA5,GO10,GO:0006281;GO:0006974;GO:0043596,DNA damage response;DNA repair;nuclear replication fork
+8468,FKBP6,FKBP6,GO10,GO:0000795,synaptonemal complex
+84690,SPATA22,SPATA22,GO10,GO:0000711,meiotic DNA repair synthesis
+84717,HDGFL2,HDGFL2,GO10,GO:0006281;GO:0006974;GO:0140861,DNA damage response;DNA repair;DNA repair-dependent chromatin remodeling
+8473,OGT,OGT,GO10,GO:0070822,Sin3-type complex
+84787,KMT5C,KMT5C,GO10,GO:0006281,DNA repair
+8480,RAE1,RAE1,GO10,GO:0005635;GO:0005643,nuclear envelope;nuclear pore
+84814,PLPP7,PLPP7,GO10,GO:0005635,nuclear envelope
+84823,LMNB2,LMNB2,GO10,GO:0005635;GO:0005652;GO:0031965,nuclear envelope;nuclear lamina;nuclear membrane
+84875,PARP10,PARP10,GO10,GO:0006281;GO:0006974;GO:0019985,DNA damage response;DNA repair;translesion synthesis
+84893,FBH1,FBH1,GO10,GO:0000724;GO:0006281;GO:0006974,DNA damage response;DNA repair;double-strand break repair via homologous recombination
+84928,TMEM209,TMEM209,GO10,GO:0005635,nuclear envelope
+8493,PPM1D,PPM1D,GO10,GO:0030330,"DNA damage response, signal transduction by p53 class mediator"
+84930,MASTL,MASTL,GO10,GO:0006974,DNA damage response
+84944,MAEL,MAEL,GO10,GO:0006974;GO:0008630,DNA damage response;intrinsic apoptotic signaling pathway in response to DNA damage
+84954,MPND,MPND,GO10,GO:0006302,double-strand break repair
+8498,RANBP3,RANBP3,GO10,GO:0005643,nuclear pore
+85015,USP45,USP45,GO10,GO:0006281;GO:0070911,DNA repair;global genome nucleotide-excision repair
+8505,PARG,PARG,GO10,GO:0006287;GO:0006974,"base-excision repair, gap-filling;DNA damage response"
+8517,IKBKG,IKBKG,GO10,GO:0006974,DNA damage response
+85450,ITPRIP,ITPRIP,GO10,GO:0005640,nuclear outer membrane
+85456,TNKS1BP1,TNKS1BP1,GO10,GO:0006302,double-strand break repair
+8554,PIAS1,PIAS1,GO10,GO:0006974,DNA damage response
+8555,CDC14B,CDC14B,GO10,GO:0006281;GO:0006974;GO:0007095,DNA damage response;DNA repair;mitotic G2 DNA damage checkpoint signaling
+8573,CASK,CASK,GO10,GO:0005652,nuclear lamina
+86,ACTL6A,ACTL6A,GO10,GO:0006281;GO:0006974;GO:0031011,DNA damage response;DNA repair;Ino80 complex
+8605,PLA2G4C,PLA2G4C,GO10,GO:0005635,nuclear envelope
+8607,RUVBL1,RUVBL1,GO10,GO:0000812;GO:0006281;GO:0006974;GO:0031011,DNA damage response;DNA repair;Ino80 complex;Swr1 complex
+8626,TP63,TP63,GO10,GO:0006974;GO:0042771,DNA damage response;intrinsic apoptotic signaling pathway in response to DNA damage by p53 class mediator
+8655,DYNLL1,DYNLL1,GO10,GO:0006974,DNA damage response
+8658,TNKS,TNKS,GO10,GO:0005635;GO:0005643;GO:0031965,nuclear envelope;nuclear membrane;nuclear pore
+867,CBL,CBL,GO10,GO:0006974,DNA damage response
+8717,TRADD,TRADD,GO10,GO:0008630,intrinsic apoptotic signaling pathway in response to DNA damage
+8720,MBTPS1,MBTPS1,GO10,GO:0007095,mitotic G2 DNA damage checkpoint signaling
+8725,URI1,URI1,GO10,GO:0042771,intrinsic apoptotic signaling pathway in response to DNA damage by p53 class mediator
+8737,RIPK1,RIPK1,GO10,GO:0008630,intrinsic apoptotic signaling pathway in response to DNA damage
+8738,CRADD,CRADD,GO10,GO:0006974;GO:0030330,"DNA damage response;DNA damage response, signal transduction by p53 class mediator"
+8805,TRIM24,TRIM24,GO10,GO:0005726,perichromatin fibrils
+8812,CCNK,CCNK,GO10,GO:0006974,DNA damage response
+8815,BANF1,BANF1,GO10,GO:0005635,nuclear envelope
+8819,SAP30,SAP30,GO10,GO:0070822,Sin3-type complex
+8841,HDAC3,HDAC3,GO10,GO:0046826;GO:0140861,DNA repair-dependent chromatin remodeling;negative regulation of protein export from nucleus
+8846,ALKBH1,ALKBH1,GO10,GO:0006281;GO:0006974,DNA damage response;DNA repair
+8859,WHR1,WHR1,GO10,GO:0006281;GO:0006974,DNA damage response;DNA repair
+8870,IER3,IER3,GO10,GO:0006974;GO:0007095;GO:0008630,DNA damage response;intrinsic apoptotic signaling pathway in response to DNA damage;mitotic G2 DNA damage checkpoint signaling
+8888,MCM3AP,MCM3AP,GO10,GO:0005635;GO:0005643;GO:0031965;GO:0044615,nuclear envelope;nuclear membrane;nuclear pore;nuclear pore nuclear basket
+8904,CPNE1,CPNE1,GO10,GO:0031965,nuclear membrane
+8914,TIMELESS,TIMELESS,GO10,GO:0006281;GO:0006974;GO:0031298;GO:0031573;GO:0043596,DNA damage response;DNA repair;mitotic intra-S DNA damage checkpoint signaling;nuclear replication fork;replication fork protection complex
+8924,HERC2,HERC2,GO10,GO:0006281;GO:0006974,DNA damage response;DNA repair
+8930,MBD4,MBD4,GO10,GO:0006281;GO:0006974;GO:0045008,depyrimidination;DNA damage response;DNA repair
+894,CCND2,CCND2,GO10,GO:0031965,nuclear membrane
+8940,TOP3B,TOP3B,GO10,GO:0006281,DNA repair
+89765,RSPH1,RSPH1,GO10,GO:0000794,condensed nuclear chromosome
+89795,NAV3,NAV3,GO10,GO:0005640,nuclear outer membrane
+902,CCNH,CCNH,GO10,GO:0006289,nucleotide-excision repair
+9025,RNF8,RNF8,GO10,GO:0006281;GO:0006302;GO:0006303;GO:0006974;GO:0036297;GO:0042770;GO:0140861,DNA damage response;DNA repair;DNA repair-dependent chromatin remodeling;double-strand break repair;double-strand break repair via nonhomologous end joining;interstrand cross-link repair;signal transduction in response to DNA damage
+9031,BAZ1B,BAZ1B,GO10,GO:0006974;GO:0043596,DNA damage response;nuclear replication fork
+90381,TICRR,TICRR,GO10,GO:0006281;GO:0006974;GO:0007095,DNA damage response;DNA repair;mitotic G2 DNA damage checkpoint signaling
+90523,MLIP,MLIP,GO10,GO:0005635,nuclear envelope
+9070,ASH2L,ASH2L,GO10,GO:0006974,DNA damage response
+9100,USP10,USP10,GO10,GO:0006281;GO:0006974;GO:0019985;GO:0030330,"DNA damage response;DNA damage response, signal transduction by p53 class mediator;DNA repair;translesion synthesis"
+9107,MTMR6,MTMR6,GO10,GO:0005635,nuclear envelope
+9112,MTA1,MTA1,GO10,GO:0005635;GO:0006302,double-strand break repair;nuclear envelope
+91181,NUP210L,NUP210L,GO10,GO:0005643;GO:0031965,nuclear membrane;nuclear pore
+9126,SMC3,SMC3,GO10,GO:0000800;GO:0006281;GO:0006974,DNA damage response;DNA repair;lateral element
+9127,P2RX6,P2RX6,GO10,GO:0005637,nuclear inner membrane
+91419,ATP23,ATP23,GO10,GO:0006303,double-strand break repair via nonhomologous end joining
+91442,FAAP24,FAAP24,GO10,GO:0006281;GO:0006974;GO:0036297,DNA damage response;DNA repair;interstrand cross-link repair
+9149,DYRK1B,DYRK1B,GO10,GO:0006281;GO:0006974,DNA damage response;DNA repair
+9156,EXO1,EXO1,GO10,GO:0006281;GO:0006298;GO:0006974,DNA damage response;DNA repair;mismatch repair
+91603,ZNF830,ZNF830,GO10,GO:0044773,mitotic DNA damage checkpoint signaling
+91607,SLFN11,SLFN11,GO10,GO:0006974,DNA damage response
+91782,CHMP7,CHMP7,GO10,GO:0005635;GO:0005643,nuclear envelope;nuclear pore
+91801,ALKBH8,ALKBH8,GO10,GO:0006974,DNA damage response
+91875,TTC5,TTC5,GO10,GO:0006281;GO:0006974,DNA damage response;DNA repair
+9189,ZBED1,ZBED1,GO10,GO:0031965,nuclear membrane
+92140,MTDH,MTDH,GO10,GO:0031965,nuclear membrane
+9218,VAPA,VAPA,GO10,GO:0031965,nuclear membrane
+9232,PTTG1,PTTG1,GO10,GO:0006281;GO:0006974,DNA damage response;DNA repair
+92421,CHMP4C,CHMP4C,GO10,GO:0005635;GO:0005643,nuclear envelope;nuclear pore
+9261,MAPKAPK2,MAPKAPK2,GO10,GO:0006974,DNA damage response
+92667,MGME1,MGME1,GO10,GO:0006281;GO:0006974;GO:0043504,DNA damage response;DNA repair;mitochondrial DNA repair
+92797,HELB,HELB,GO10,GO:0005662;GO:0006281;GO:0006974,DNA damage response;DNA repair;DNA replication factor A complex
+92815,H2AC25,H2AC25,GO10,GO:0070914,UV-damage excision repair
+9284,NPIPA1,NPIPA1,GO10,GO:0005643;GO:0031965,nuclear membrane;nuclear pore
+9319,TRIP13,TRIP13,GO10,GO:0006302,double-strand break repair
+9320,TRIP12,TRIP12,GO10,GO:0006281;GO:0006974;GO:0140861,DNA damage response;DNA repair;DNA repair-dependent chromatin remodeling
+9330,GTF3C3,GTF3C3,GO10,GO:0031965,nuclear membrane
+93426,SYCE1,SYCE1,GO10,GO:0000794;GO:0000795;GO:0000801,central element;condensed nuclear chromosome;synaptonemal complex
+9344,TAOK2,TAOK2,GO10,GO:0006974;GO:0007095,DNA damage response;mitotic G2 DNA damage checkpoint signaling
+9378,NRXN1,NRXN1,GO10,GO:0031965,nuclear membrane
+93953,GCNA,GCNA,GO10,GO:0006974;GO:0106300,DNA damage response;protein-DNA covalent cross-linking repair
+93973,ACTR8,ACTR8,GO10,GO:0006281;GO:0006302;GO:0006974;GO:0031011,DNA damage response;DNA repair;double-strand break repair;Ino80 complex
+9400,RECQL5,RECQL5,GO10,GO:0000724;GO:0006281;GO:0006974;GO:1990414,DNA damage response;DNA repair;double-strand break repair via homologous recombination;replication-born double-strand break repair via sister chromatid exchange
+9401,RECQL4,RECQL4,GO10,GO:0000724;GO:0006281,DNA repair;double-strand break repair via homologous recombination
+94026,POM121L2,POM121L2,GO10,GO:0005643;GO:0017056,nuclear pore;structural constituent of nuclear pore
+9447,AIM2,AIM2,GO10,GO:0006974,DNA damage response
+9472,AKAP6,AKAP6,GO10,GO:0005635;GO:0031965,nuclear envelope;nuclear membrane
+952,CD38,CD38,GO10,GO:0031965,nuclear membrane
+9525,VPS4B,VPS4B,GO10,GO:0005643,nuclear pore
+9536,PTGES,PTGES,GO10,GO:0005641,nuclear envelope lumen
+9538,EI24,EI24,GO10,GO:0008630;GO:0031965,intrinsic apoptotic signaling pathway in response to DNA damage;nuclear membrane
+9555,MACROH2A1,MACROH2A1,GO10,GO:0000228;GO:0001740;GO:0006281,Barr body;DNA repair;nuclear chromosome
+9557,CHD1L,CHD1L,GO10,GO:0006281;GO:0006974,DNA damage response;DNA repair
+9575,CLOCK,CLOCK,GO10,GO:0000077;GO:0006974,DNA damage checkpoint signaling;DNA damage response
+9577,BABAM2,BABAM2,GO10,GO:0006281;GO:0006302;GO:0006974;GO:0007095,DNA damage response;DNA repair;double-strand break repair;mitotic G2 DNA damage checkpoint signaling
+9587,MAD2L1BP,MAD2L1BP,GO10,GO:0031965,nuclear membrane
+9589,WTAP,WTAP,GO10,GO:0031965,nuclear membrane
+9631,NUP155,NUP155,GO10,GO:0005635;GO:0005643;GO:0017056;GO:0031965;GO:0044611,nuclear envelope;nuclear membrane;nuclear pore;nuclear pore inner ring;structural constituent of nuclear pore
+9641,IKBKE,IKBKE,GO10,GO:0006974;GO:0008630,DNA damage response;intrinsic apoptotic signaling pathway in response to DNA damage
+9643,MORF4L2,MORF4L2,GO10,GO:0006281;GO:0006974,DNA damage response;DNA repair
+9656,MDC1,MDC1,GO10,GO:0006281;GO:0006974;GO:0031573,DNA damage response;DNA repair;mitotic intra-S DNA damage checkpoint signaling
+9665,MARF1,MARF1,GO10,GO:0006302,double-strand break repair
+9668,ZNF432,ZNF432,GO10,GO:0006974,DNA damage response
+9688,NUP93,NUP93,GO10,GO:0005635;GO:0005643;GO:0017056;GO:0031965,nuclear envelope;nuclear membrane;nuclear pore;structural constituent of nuclear pore
+9722,NOS1AP,NOS1AP,GO10,GO:0031965,nuclear membrane
+9739,SETD1A,SETD1A,GO10,GO:0006974,DNA damage response
+9766,SUSD6,SUSD6,GO10,GO:0006974,DNA damage response
+9768,PCLAF,PCLAF,GO10,GO:0006281;GO:0006974;GO:0019985,DNA damage response;DNA repair;translesion synthesis
+9774,BCLAF1,BCLAF1,GO10,GO:0006974,DNA damage response
+9782,MATR3,MATR3,GO10,GO:0005637,nuclear inner membrane
+9798,IST1,IST1,GO10,GO:0005635,nuclear envelope
+9805,SCRN1,SCRN1,GO10,GO:0031965,nuclear membrane
+9812,DELE1,DELE1,GO10,GO:0006974,DNA damage response
+9818,NUP58,NUP58,GO10,GO:0005635;GO:0005643;GO:0017056;GO:0031965,nuclear envelope;nuclear membrane;nuclear pore;structural constituent of nuclear pore
+983,CDK1,CDK1,GO10,GO:0006281;GO:0006974;GO:0007095,DNA damage response;DNA repair;mitotic G2 DNA damage checkpoint signaling
+9837,GINS1,GINS1,GO10,GO:0000811;GO:0071162,CMG complex;GINS complex
+9874,TLK1,TLK1,GO10,GO:0006974,DNA damage response
+988,CDC5L,CDC5L,GO10,GO:0000077;GO:0005662;GO:0006281;GO:0006974,DNA damage checkpoint signaling;DNA damage response;DNA repair;DNA replication factor A complex
+9883,POM121,POM121,GO10,GO:0005635;GO:0005643;GO:0017056;GO:0031965,nuclear envelope;nuclear membrane;nuclear pore;structural constituent of nuclear pore
+9891,NUAK1,NUAK1,GO10,GO:0006974,DNA damage response
+9907,AP5Z1,AP5Z1,GO10,GO:0000724;GO:0006281;GO:0006974,DNA damage response;DNA repair;double-strand break repair via homologous recombination
+9913,SUPT7L,SUPT7L,GO10,GO:0051457,maintenance of protein location in nucleus
+9918,NCAPD2,NCAPD2,GO10,GO:0000228;GO:0000794,condensed nuclear chromosome;nuclear chromosome
+9923,ZBTB40,ZBTB40,GO10,GO:0006974,DNA damage response
+9937,DCLRE1A,DCLRE1A,GO10,GO:0006281;GO:0006303;GO:0006974;GO:0036297,DNA damage response;DNA repair;double-strand break repair via nonhomologous end joining;interstrand cross-link repair
+9960,USP3,USP3,GO10,GO:0006281;GO:0006974;GO:0140861,DNA damage response;DNA repair;DNA repair-dependent chromatin remodeling
+9961,MVP,MVP,GO10,GO:0005643,nuclear pore
+9972,NUP153,NUP153,GO10,GO:0005635;GO:0005643;GO:0017056;GO:0031965;GO:0044615,nuclear envelope;nuclear membrane;nuclear pore;nuclear pore nuclear basket;structural constituent of nuclear pore
+9978,RBX1,RBX1,GO10,GO:0006281;GO:0006283;GO:0006289;GO:0006974;GO:0042770,DNA damage response;DNA repair;nucleotide-excision repair;signal transduction in response to DNA damage;transcription-coupled nucleotide-excision repair
+9985,REC8,REC8,GO10,GO:0000724;GO:0000794;GO:0000795;GO:0000800;GO:0006302,condensed nuclear chromosome;double-strand break repair;double-strand break repair via homologous recombination;lateral element;synaptonemal complex
+80324,PUS1,PUS1,GO9_unique,GO:0005654;GO:0005730,nucleolus;nucleoplasm
+161882,ZFPM1,ZFPM1,GO9_unique,GO:0005654,nucleoplasm
+51562,MBIP,MBIP,GO9_unique,GO:0005654;GO:0005730,nucleolus;nucleoplasm
+5089,PBX2,PBX2,GO9_unique,GO:0005654,nucleoplasm
+9270,ITGB1BP1,ITGB1BP1,GO9_unique,GO:0005654,nucleoplasm
+10272,FSTL3,FSTL3,GO9_unique,GO:0005654,nucleoplasm
+5433,POLR2D,POLR2D,GO9_unique,GO:0005654;GO:0005665;GO:0016607,"nuclear speck;nucleoplasm;RNA polymerase II, core complex"
+112950,MED8,MED8,GO9_unique,GO:0005654;GO:0016592;GO:0070847,core mediator complex;mediator complex;nucleoplasm
+5971,RELB,RELB,GO9_unique,GO:0005654;GO:0071159,NF-kappaB complex;nucleoplasm
+2872,MKNK2,MKNK2,GO9_unique,GO:0016604;GO:0016605,nuclear body;PML body
+4660,PPP1R12B,PPP1R12B,GO9_unique,GO:0005654,nucleoplasm
+54960,GEMIN8,GEMIN8,GO9_unique,GO:0005654;GO:0097504,Gemini of Cajal bodies;nucleoplasm
+1787,TRDMT1,TRDMT1,GO9_unique,GO:0005654,nucleoplasm
+51013,EXOSC1,EXOSC1,GO9_unique,GO:0000176;GO:0005654;GO:0005730;GO:0101019,nuclear exosome (RNase complex);nucleolar exosome (RNase complex);nucleolus;nucleoplasm
+79577,CDC73,CDC73,GO9_unique,GO:0005654;GO:0016593,Cdc73/Paf1 complex;nucleoplasm
+801,CALM1,CALM1,GO9_unique,GO:0005654,nucleoplasm
+7913,DEK,DEK,GO9_unique,GO:0005654;GO:0005730;GO:0110016,B-WICH complex;nucleolus;nucleoplasm
+8178,ELL,ELL,GO9_unique,GO:0005654;GO:0008023;GO:0015030;GO:0016604;GO:0016607;GO:0035363,Cajal body;histone locus body;nuclear body;nuclear speck;nucleoplasm;transcription elongation factor complex
+80095,ZNF606,ZNF606,GO9_unique,GO:0005654,nucleoplasm
+26017,FAM32A,FAM32A,GO9_unique,GO:0005654;GO:0005681;GO:0005730;GO:0071006;GO:0071007,nucleolus;nucleoplasm;spliceosomal complex;U2-type catalytic step 1 spliceosome;U2-type catalytic step 2 spliceosome
+57047,PLSCR2,PLSCR2,GO9_unique,GO:0005654,nucleoplasm
+55954,ZMAT5,ZMAT5,GO9_unique,GO:0005654;GO:0005681;GO:0005689;GO:0034693;GO:0071016,nucleoplasm;spliceosomal complex;U11/U12 snRNP;U12-type precatalytic spliceosome;U12-type spliceosomal complex
+817,CAMK2D,CAMK2D,GO9_unique,GO:0005654,nucleoplasm
+22888,UBOX5,UBOX5,GO9_unique,GO:0016604,nuclear body
+5719,PSMD13,PSMD13,GO9_unique,GO:0005654,nucleoplasm
+6197,RPS6KA3,RPS6KA3,GO9_unique,GO:0005654;GO:0005730,nucleolus;nucleoplasm
+23081,KDM4C,KDM4C,GO9_unique,GO:0005654,nucleoplasm
+6929,TCF3,TCF3,GO9_unique,GO:0005654;GO:0090575,nucleoplasm;RNA polymerase II transcription regulator complex
+9810,RNF40,RNF40,GO9_unique,GO:0005654,nucleoplasm
+79019,CENPM,CENPM,GO9_unique,GO:0005654,nucleoplasm
+3975,LHX1,LHX1,GO9_unique,GO:0005654,nucleoplasm
+55827,DCAF6,DCAF6,GO9_unique,GO:0005654,nucleoplasm
+10389,SCML2,SCML2,GO9_unique,GO:0031519,PcG protein complex
+57708,MIER1,MIER1,GO9_unique,GO:0000118;GO:0005654,histone deacetylase complex;nucleoplasm
+51586,MED15,MED15,GO9_unique,GO:0005654;GO:0070847,core mediator complex;nucleoplasm
+1054,CEBPG,CEBPG,GO9_unique,GO:0005654;GO:0090575,nucleoplasm;RNA polymerase II transcription regulator complex
+114112,TXNRD3,TXNRD3,GO9_unique,GO:0005654,nucleoplasm
+668,FOXL2,FOXL2,GO9_unique,GO:0005654,nucleoplasm
+4288,MKI67,MKI67,GO9_unique,GO:0005654;GO:0005730,nucleolus;nucleoplasm
+56252,YLPM1,YLPM1,GO9_unique,GO:0016607,nuclear speck
+22803,XRN2,XRN2,GO9_unique,GO:0005654;GO:0005730,nucleolus;nucleoplasm
+7101,NR2E1,NR2E1,GO9_unique,GO:0005654,nucleoplasm
+11262,SP140,SP140,GO9_unique,GO:0005730;GO:0016605,nucleolus;PML body
+55252,ASXL2,ASXL2,GO9_unique,GO:0005654;GO:0035517,nucleoplasm;PR-DUB complex
+10014,HDAC5,HDAC5,GO9_unique,GO:0000118;GO:0005654;GO:0016607,histone deacetylase complex;nuclear speck;nucleoplasm
+9015,TAF1A,TAF1A,GO9_unique,GO:0000120;GO:0005654;GO:0005668;GO:0005730,nucleolus;nucleoplasm;RNA polymerase I transcription regulator complex;RNA polymerase transcription factor SL1 complex
+1738,DLD,DLD,GO9_unique,GO:0005654,nucleoplasm
+9646,CTR9,CTR9,GO9_unique,GO:0005654;GO:0016593;GO:0016607,Cdc73/Paf1 complex;nuclear speck;nucleoplasm
+5530,PPP3CA,PPP3CA,GO9_unique,GO:0005654,nucleoplasm
+6626,SNRPA,SNRPA,GO9_unique,GO:0005654;GO:0005681;GO:0005685;GO:0071011;GO:0097525,nucleoplasm;precatalytic spliceosome;spliceosomal complex;spliceosomal snRNP complex;U1 snRNP
+4109,MAGEA10,MAGEA10,GO9_unique,GO:0005654,nucleoplasm
+9797,TATDN2,TATDN2,GO9_unique,GO:0005654,nucleoplasm
+2551,GABPA,GABPA,GO9_unique,GO:0005654,nucleoplasm
+246721,POLR2J2,POLR2J2,GO9_unique,GO:0005665,"RNA polymerase II, core complex"
+55666,NPLOC4,NPLOC4,GO9_unique,GO:0005654,nucleoplasm
+7994,KAT6A,KAT6A,GO9_unique,GO:0005654;GO:0005730;GO:0016605;GO:0016607,nuclear speck;nucleolus;nucleoplasm;PML body
+55011,PIH1D1,PIH1D1,GO9_unique,GO:0005730,nucleolus
+2645,GCK,GCK,GO9_unique,GO:0005654,nucleoplasm
+9802,DAZAP2,DAZAP2,GO9_unique,GO:0016604;GO:0016607,nuclear body;nuclear speck
+7324,UBE2E1,UBE2E1,GO9_unique,GO:0005654,nucleoplasm
+6100,RP9,RP9,GO9_unique,GO:0005654,nucleoplasm
+4851,NOTCH1,NOTCH1,GO9_unique,GO:0005654;GO:1990433,CSL-Notch-Mastermind transcription factor complex;nucleoplasm
+2650,GCNT1,GCNT1,GO9_unique,GO:0016607,nuclear speck
+4799,NFX1,NFX1,GO9_unique,GO:0005654;GO:0005730,nucleolus;nucleoplasm
+6495,SIX1,SIX1,GO9_unique,GO:0005654;GO:0005730,nucleolus;nucleoplasm
+84148,KAT8,KAT8,GO9_unique,GO:0005654;GO:0016363;GO:0031981;GO:0071339,MLL1 complex;nuclear lumen;nuclear matrix;nucleoplasm
+9969,MED13,MED13,GO9_unique,GO:0005654;GO:0016592;GO:1990508,CKM complex;mediator complex;nucleoplasm
+219771,CCNY,CCNY,GO9_unique,GO:0005654;GO:0005730,nucleolus;nucleoplasm
+3717,JAK2,JAK2,GO9_unique,GO:0005654,nucleoplasm
+254048,UBN2,UBN2,GO9_unique,GO:0005654,nucleoplasm
+55726,INTS13,INTS13,GO9_unique,GO:0005654;GO:0016604;GO:0032039;GO:0160232,INTAC complex;integrator complex;nuclear body;nucleoplasm
+84081,NSRP1,NSRP1,GO9_unique,GO:0005654;GO:0016607,nuclear speck;nucleoplasm
+9221,NOLC1,NOLC1,GO9_unique,GO:0001650;GO:0005654;GO:0005730;GO:0015030,Cajal body;fibrillar center;nucleolus;nucleoplasm
+80818,ZNF436,ZNF436,GO9_unique,GO:0005654,nucleoplasm
+84527,ZNF559,ZNF559,GO9_unique,GO:0005654,nucleoplasm
+54931,TRMT10C,TRMT10C,GO9_unique,GO:0005654,nucleoplasm
+6884,TAF13,TAF13,GO9_unique,GO:0005654;GO:0005669;GO:0005730,nucleolus;nucleoplasm;transcription factor TFIID complex
+83595,SOX7,SOX7,GO9_unique,GO:0005654,nucleoplasm
+55621,TRMT1,TRMT1,GO9_unique,GO:0005654,nucleoplasm
+8263,F8A1,F8A1,GO9_unique,GO:0016604,nuclear body
+54980,C2orf42,C2orf42,GO9_unique,GO:0005654,nucleoplasm
+3400,ID4,ID4,GO9_unique,GO:0005654,nucleoplasm
+4854,NOTCH3,NOTCH3,GO9_unique,GO:0005654,nucleoplasm
+60314,MYG1,MYG1,GO9_unique,GO:0005654;GO:0005730,nucleolus;nucleoplasm
+5896,RAG1,RAG1,GO9_unique,GO:0005654,nucleoplasm
+23082,PPRC1,PPRC1,GO9_unique,GO:0005654,nucleoplasm
+55748,CNDP2,CNDP2,GO9_unique,GO:0005654,nucleoplasm
+4591,TRIM37,TRIM37,GO9_unique,GO:0035098,ESC/E(Z) complex
+25913,POT1,POT1,GO9_unique,GO:0000783;GO:0005654;GO:0070187,nuclear telomere cap complex;nucleoplasm;shelterin complex
+64412,GZF1,GZF1,GO9_unique,GO:0005654;GO:0005730,nucleolus;nucleoplasm
+359948,IRF2BP2,IRF2BP2,GO9_unique,GO:0005654,nucleoplasm
+23077,MYCBP2,MYCBP2,GO9_unique,GO:0005654,nucleoplasm
+8342,H2BC14,H2BC14,GO9_unique,GO:0005654,nucleoplasm
+6881,TAF10,TAF10,GO9_unique,GO:0005654;GO:0005669;GO:0033276,nucleoplasm;transcription factor TFIID complex;transcription factor TFTC complex
+10921,RNPS1,RNPS1,GO9_unique,GO:0005654;GO:0016607;GO:0035145,exon-exon junction complex;nuclear speck;nucleoplasm
+10172,ZNF256,ZNF256,GO9_unique,GO:0005654,nucleoplasm
+89849,ATG16L2,ATG16L2,GO9_unique,GO:0005654,nucleoplasm
+4938,OAS1,OAS1,GO9_unique,GO:0005654,nucleoplasm
+10081,PDCD7,PDCD7,GO9_unique,GO:0005654;GO:0005681;GO:0005689;GO:0034693;GO:0071016,nucleoplasm;spliceosomal complex;U11/U12 snRNP;U12-type precatalytic spliceosome;U12-type spliceosomal complex
+57496,MRTFB,MRTFB,GO9_unique,GO:0016607,nuclear speck
+90480,GADD45GIP1,GADD45GIP1,GO9_unique,GO:0005654,nucleoplasm
+8220,ESS2,ESS2,GO9_unique,GO:0005681;GO:0071013,catalytic step 2 spliceosome;spliceosomal complex
+5629,PROX1,PROX1,GO9_unique,GO:0005654,nucleoplasm
+728642,CDK11A,CDK11A,GO9_unique,GO:0016607,nuclear speck
+6877,TAF5,TAF5,GO9_unique,GO:0005654;GO:0005669;GO:0005730;GO:0033276,nucleolus;nucleoplasm;transcription factor TFIID complex;transcription factor TFTC complex
+54478,PIMREG,PIMREG,GO9_unique,GO:0005654;GO:0005730,nucleolus;nucleoplasm
+163126,EID2,EID2,GO9_unique,GO:0005654,nucleoplasm
+63935,PCIF1,PCIF1,GO9_unique,GO:0005654,nucleoplasm
+25871,NEPRO,NEPRO,GO9_unique,GO:0005654;GO:0005730,nucleolus;nucleoplasm
+143570,XRRA1,XRRA1,GO9_unique,GO:0005654;GO:0016604,nuclear body;nucleoplasm
+152138,PYDC2,PYDC2,GO9_unique,GO:0005654;GO:0005730,nucleolus;nucleoplasm
+3005,H1-0,H1-0,GO9_unique,GO:0005654;GO:0016604,nuclear body;nucleoplasm
+2122,MECOM,MECOM,GO9_unique,GO:0000118;GO:0005654;GO:0016607,histone deacetylase complex;nuclear speck;nucleoplasm
+51193,ZNF639,ZNF639,GO9_unique,GO:0005654,nucleoplasm
+221477,C6orf89,C6orf89,GO9_unique,GO:0005730,nucleolus
+7041,TGFB1I1,TGFB1I1,GO9_unique,GO:0016363,nuclear matrix
+144108,SPTY2D1,SPTY2D1,GO9_unique,GO:0005654;GO:0005730,nucleolus;nucleoplasm
+90865,IL33,IL33,GO9_unique,GO:0005654,nucleoplasm
+57674,RNF213,RNF213,GO9_unique,GO:0005730,nucleolus
+5601,MAPK9,MAPK9,GO9_unique,GO:0005654;GO:0016607,nuclear speck;nucleoplasm
+55197,RPRD1A,RPRD1A,GO9_unique,GO:0005654,nucleoplasm
+1030,CDKN2B,CDKN2B,GO9_unique,GO:0005654,nucleoplasm
+4097,MAFG,MAFG,GO9_unique,GO:0005654;GO:0090575,nucleoplasm;RNA polymerase II transcription regulator complex
+5620,PRM2,PRM2,GO9_unique,GO:0005654,nucleoplasm
+1665,DHX15,DHX15,GO9_unique,GO:0005654;GO:0005681;GO:0005689;GO:0005730;GO:0016607;GO:0071008;GO:0071014,nuclear speck;nucleolus;nucleoplasm;post-mRNA release spliceosomal complex;spliceosomal complex;U12-type spliceosomal complex;U2-type post-mRNA release spliceosomal complex
+727800,RNF208,RNF208,GO9_unique,GO:0005654,nucleoplasm
+55553,SOX6,SOX6,GO9_unique,GO:0005654,nucleoplasm
+8969,H2AC11,H2AC11,GO9_unique,GO:0005654,nucleoplasm
+863,CBFA2T3,CBFA2T3,GO9_unique,GO:0005654;GO:0005730,nucleolus;nucleoplasm
+10513,APPBP2,APPBP2,GO9_unique,GO:0005654,nucleoplasm
+7159,TP53BP2,TP53BP2,GO9_unique,GO:0005654,nucleoplasm
+7711,ZNF155,ZNF155,GO9_unique,GO:0005654,nucleoplasm
+51564,HDAC7,HDAC7,GO9_unique,GO:0000118;GO:0005654,histone deacetylase complex;nucleoplasm
+3190,HNRNPK,HNRNPK,GO9_unique,GO:0005654;GO:0005681;GO:0071013,catalytic step 2 spliceosome;nucleoplasm;spliceosomal complex
+7345,UCHL1,UCHL1,GO9_unique,GO:0005654,nucleoplasm
+23383,MAU2,MAU2,GO9_unique,GO:0005654;GO:0016604;GO:0032116;GO:0090694,nuclear body;nucleoplasm;Scc2-Scc4 cohesin loading complex;SMC loading complex
+7465,WEE1,WEE1,GO9_unique,GO:0005654,nucleoplasm
+3018,H2BC3,H2BC3,GO9_unique,GO:0005654,nucleoplasm
+2962,GTF2F1,GTF2F1,GO9_unique,GO:0005654;GO:0005669;GO:0005674,nucleoplasm;transcription factor TFIID complex;transcription factor TFIIF complex
+23254,KAZN,KAZN,GO9_unique,GO:0005654;GO:0016607,nuclear speck;nucleoplasm
+84661,DPY30,DPY30,GO9_unique,GO:0005654;GO:0035097;GO:0044665;GO:0044666;GO:0048188;GO:0071339,histone methyltransferase complex;MLL1 complex;MLL1/2 complex;MLL3/4 complex;nucleoplasm;Set1C/COMPASS complex
+9667,SAFB2,SAFB2,GO9_unique,GO:0005654;GO:0016604,nuclear body;nucleoplasm
+91464,ISX,ISX,GO9_unique,GO:0005654;GO:0016604,nuclear body;nucleoplasm
+898,CCNE1,CCNE1,GO9_unique,GO:0005654,nucleoplasm
+790,CAD,CAD,GO9_unique,GO:0016363,nuclear matrix
+25926,NOL11,NOL11,GO9_unique,GO:0005654;GO:0005730;GO:0032040;GO:0034455,nucleolus;nucleoplasm;small-subunit processome;t-UTP complex
+11339,OIP5,OIP5,GO9_unique,GO:0005654;GO:0015030;GO:0016607;GO:0098654,Cajal body;CENP-A recruiting complex;nuclear speck;nucleoplasm
+4804,NGFR,NGFR,GO9_unique,GO:0005654,nucleoplasm
+7728,ZNF175,ZNF175,GO9_unique,GO:0005730,nucleolus
+1633,DCK,DCK,GO9_unique,GO:0005654,nucleoplasm
+64651,CSRNP1,CSRNP1,GO9_unique,GO:0005654,nucleoplasm
+27327,TNRC6A,TNRC6A,GO9_unique,GO:0005654,nucleoplasm
+4150,MAZ,MAZ,GO9_unique,GO:0005654,nucleoplasm
+25776,CBY1,CBY1,GO9_unique,GO:0005654;GO:0016607,nuclear speck;nucleoplasm
+79707,NOL9,NOL9,GO9_unique,GO:0005654;GO:0005730,nucleolus;nucleoplasm
+29903,CCDC106,CCDC106,GO9_unique,GO:0005654,nucleoplasm
+11103,KRR1,KRR1,GO9_unique,GO:0005654;GO:0005730;GO:0032040,nucleolus;nucleoplasm;small-subunit processome
+56853,CELF4,CELF4,GO9_unique,GO:0005654,nucleoplasm
+57703,CWC22,CWC22,GO9_unique,GO:0005654;GO:0005681;GO:0016607;GO:0071005;GO:0071006;GO:0071007;GO:0071013;GO:0071018;GO:0071020,catalytic step 2 spliceosome;nuclear speck;nucleoplasm;post-spliceosomal complex;spliceosomal complex;U12-type catalytic step 2 spliceosome;U2-type catalytic step 1 spliceosome;U2-type catalytic step 2 spliceosome;U2-type precatalytic spliceosome
+29127,RACGAP1,RACGAP1,GO9_unique,GO:0005654,nucleoplasm
+2959,GTF2B,GTF2B,GO9_unique,GO:0005654;GO:0005669;GO:0016604;GO:0090575,nuclear body;nucleoplasm;RNA polymerase II transcription regulator complex;transcription factor TFIID complex
+6426,SRSF1,SRSF1,GO9_unique,GO:0005654;GO:0005681;GO:0016607;GO:0035145;GO:0071013,catalytic step 2 spliceosome;exon-exon junction complex;nuclear speck;nucleoplasm;spliceosomal complex
+9645,MICAL2,MICAL2,GO9_unique,GO:0005654,nucleoplasm
+7709,ZBTB17,ZBTB17,GO9_unique,GO:0005654,nucleoplasm
+2982,GUCY1A1,GUCY1A1,GO9_unique,GO:0005654,nucleoplasm
+23741,EID1,EID1,GO9_unique,GO:0005654,nucleoplasm
+388523,ZNF728,ZNF728,GO9_unique,GO:0031981,nuclear lumen
+10586,MAB21L2,MAB21L2,GO9_unique,GO:0005654,nucleoplasm
+9772,TMEM94,TMEM94,GO9_unique,GO:0005654,nucleoplasm
+51406,NOL7,NOL7,GO9_unique,GO:0005730;GO:0032040,nucleolus;small-subunit processome
+54856,GON4L,GON4L,GO9_unique,GO:0005654;GO:0016604,nuclear body;nucleoplasm
+55174,INTS10,INTS10,GO9_unique,GO:0005654;GO:0032039;GO:0160232,INTAC complex;integrator complex;nucleoplasm
+166979,CDC20B,CDC20B,GO9_unique,GO:0005680,anaphase-promoting complex
+10399,RACK1,RACK1,GO9_unique,GO:0005654,nucleoplasm
+84295,PHF6,PHF6,GO9_unique,GO:0005654;GO:0005730,nucleolus;nucleoplasm
+80228,ORAI2,ORAI2,GO9_unique,GO:0005654,nucleoplasm
+7080,NKX2-1,NKX2-1,GO9_unique,GO:0005654,nucleoplasm
+8899,PRP4K,PRP4K,GO9_unique,GO:0005654;GO:0005681;GO:0016607;GO:0071013;GO:0071016,catalytic step 2 spliceosome;nuclear speck;nucleoplasm;spliceosomal complex;U12-type precatalytic spliceosome
+3662,IRF4,IRF4,GO9_unique,GO:0005654,nucleoplasm
+203245,NAIF1,NAIF1,GO9_unique,GO:0005654,nucleoplasm
+8939,FUBP3,FUBP3,GO9_unique,GO:0005654,nucleoplasm
+6909,TBX2,TBX2,GO9_unique,GO:0005654,nucleoplasm
+10236,HNRNPR,HNRNPR,GO9_unique,GO:0005654;GO:0005681;GO:0005730;GO:0071013,catalytic step 2 spliceosome;nucleolus;nucleoplasm;spliceosomal complex
+22873,DZIP1,DZIP1,GO9_unique,GO:0005654;GO:0016607,nuclear speck;nucleoplasm
+148398,SAMD11,SAMD11,GO9_unique,GO:0035102,PRC1 complex
+57563,KLHL8,KLHL8,GO9_unique,GO:0005654,nucleoplasm
+10109,ARPC2,ARPC2,GO9_unique,GO:0005654,nucleoplasm
+5481,PPID,PPID,GO9_unique,GO:0005654;GO:0005730,nucleolus;nucleoplasm
+3226,HOXC10,HOXC10,GO9_unique,GO:0005654;GO:0016604,nuclear body;nucleoplasm
+25983,NGDN,NGDN,GO9_unique,GO:0005730;GO:0032040,nucleolus;small-subunit processome
+54187,NANS,NANS,GO9_unique,GO:0005654,nucleoplasm
+25930,PTPN23,PTPN23,GO9_unique,GO:0005654;GO:0016604,nuclear body;nucleoplasm
+28989,NTMT1,NTMT1,GO9_unique,GO:0005654,nucleoplasm
+818,CAMK2G,CAMK2G,GO9_unique,GO:0005654,nucleoplasm
+6635,SNRPE,SNRPE,GO9_unique,GO:0005654;GO:0005681;GO:0005682;GO:0005683;GO:0005684;GO:0005685;GO:0005686;GO:0005687;GO:0005689;GO:0005690;GO:0005697;GO:0030532;GO:0034693;GO:0046540;GO:0071001;GO:0071002;GO:0071005;GO:0071006;GO:0071007;GO:0071009;GO:0071011;GO:0071013;GO:0071014;GO:0071016;GO:0071018;GO:0071020,catalytic step 2 spliceosome;nucleoplasm;post-mRNA release spliceosomal complex;post-spliceosomal complex;precatalytic spliceosome;small nuclear ribonucleoprotein complex;spliceosomal complex;telomerase holoenzyme complex;U1 snRNP;U11/U12 snRNP;U12-type catalytic step 2 spliceosome;U12-type precatalytic spliceosome;U12-type spliceosomal complex;U2 snRNP;U2-type catalytic step 1 spliceosome;U2-type catalytic step 2 spliceosome;U2-type precatalytic spliceosome;U2-type spliceosomal complex;U4 snRNP;U4/U6 snRNP;U4/U6 x U5 tri-snRNP complex;U4atac snRNP;U4atac/U6atac snRNP;U4atac/U6atac x U5 tri-snRNP complex;U5 snRNP;U7 snRNP
+7593,MZF1,MZF1,GO9_unique,GO:0005654,nucleoplasm
+5450,POU2AF1,POU2AF1,GO9_unique,GO:0090575,RNA polymerase II transcription regulator complex
+376940,ZC3H6,ZC3H6,GO9_unique,GO:0005654,nucleoplasm
+1478,CSTF2,CSTF2,GO9_unique,GO:0005654;GO:0005847;GO:0005848;GO:0005849;GO:0016604;GO:0071920,cleavage body;mRNA cleavage and polyadenylation specificity factor complex;mRNA cleavage factor complex;mRNA cleavage stimulating factor complex;nuclear body;nucleoplasm
+64506,CPEB1,CPEB1,GO9_unique,GO:0005654,nucleoplasm
+4750,NEK1,NEK1,GO9_unique,GO:0005654,nucleoplasm
+84991,RBM17,RBM17,GO9_unique,GO:0005654;GO:0005681,nucleoplasm;spliceosomal complex
+9603,NFE2L3,NFE2L3,GO9_unique,GO:0090575,RNA polymerase II transcription regulator complex
+573,BAG1,BAG1,GO9_unique,GO:0005654,nucleoplasm
+55644,OSGEP,OSGEP,GO9_unique,GO:0005654,nucleoplasm
+2288,FKBP4,FKBP4,GO9_unique,GO:0005654,nucleoplasm
+53632,PRKAG3,PRKAG3,GO9_unique,GO:0005654,nucleoplasm
+7750,ZMYM2,ZMYM2,GO9_unique,GO:0016605,PML body
+8817,FGF18,FGF18,GO9_unique,GO:0005730,nucleolus
+57798,GATAD1,GATAD1,GO9_unique,GO:0005654,nucleoplasm
+91748,MIDEAS,MIDEAS,GO9_unique,GO:0000118;GO:0005654,histone deacetylase complex;nucleoplasm
+647219,ASCL5,ASCL5,GO9_unique,GO:0090575,RNA polymerase II transcription regulator complex
+171568,POLR3H,POLR3H,GO9_unique,GO:0005654;GO:0005666,nucleoplasm;RNA polymerase III complex
+10589,DRAP1,DRAP1,GO9_unique,GO:0017054;GO:0090575,negative cofactor 2 complex;RNA polymerase II transcription regulator complex
+825,CAPN3,CAPN3,GO9_unique,GO:0005730,nucleolus
+50809,HP1BP3,HP1BP3,GO9_unique,GO:0016607,nuclear speck
+6606,SMN1,SMN1,GO9_unique,GO:0005654;GO:0015030;GO:0016604;GO:0097504,Cajal body;Gemini of Cajal bodies;nuclear body;nucleoplasm
+221613,H2AC1,H2AC1,GO9_unique,GO:0005654,nucleoplasm
+9734,HDAC9,HDAC9,GO9_unique,GO:0000118;GO:0005654;GO:0035097,histone deacetylase complex;histone methyltransferase complex;nucleoplasm
+5064,PALM,PALM,GO9_unique,GO:0005654,nucleoplasm
+54606,DDX56,DDX56,GO9_unique,GO:0005730,nucleolus
+5966,REL,REL,GO9_unique,GO:0005654;GO:0071159,NF-kappaB complex;nucleoplasm
+8013,NR4A3,NR4A3,GO9_unique,GO:0005654,nucleoplasm
+4782,NFIC,NFIC,GO9_unique,GO:0001650;GO:0005654,fibrillar center;nucleoplasm
+9139,CBFA2T2,CBFA2T2,GO9_unique,GO:0005654,nucleoplasm
+7024,TFCP2,TFCP2,GO9_unique,GO:0005654,nucleoplasm
+10615,SPAG5,SPAG5,GO9_unique,GO:0016604,nuclear body
+4843,NOS2,NOS2,GO9_unique,GO:0005654,nucleoplasm
+83938,LRMDA,LRMDA,GO9_unique,GO:0005654,nucleoplasm
+60625,DHX35,DHX35,GO9_unique,GO:0005654;GO:0005681;GO:0071013,catalytic step 2 spliceosome;nucleoplasm;spliceosomal complex
+10302,SNAPC5,SNAPC5,GO9_unique,GO:0005654,nucleoplasm
+26022,TMEM98,TMEM98,GO9_unique,GO:0005654,nucleoplasm
+64332,NFKBIZ,NFKBIZ,GO9_unique,GO:0016607,nuclear speck
+51077,FCF1,FCF1,GO9_unique,GO:0005654;GO:0005730;GO:0032040,nucleolus;nucleoplasm;small-subunit processome
+3235,HOXD9,HOXD9,GO9_unique,GO:0005654;GO:0005730,nucleolus;nucleoplasm
+56271,BEX4,BEX4,GO9_unique,GO:0005654,nucleoplasm
+5315,PKM,PKM,GO9_unique,GO:0005654,nucleoplasm
+9328,GTF3C5,GTF3C5,GO9_unique,GO:0005654,nucleoplasm
+2029,ENSA,ENSA,GO9_unique,GO:0005654,nucleoplasm
+10969,EBNA1BP2,EBNA1BP2,GO9_unique,GO:0005730;GO:0034399,nuclear periphery;nucleolus
+23450,SF3B3,SF3B3,GO9_unique,GO:0005654;GO:0005681;GO:0005684;GO:0005686;GO:0005689;GO:0005730;GO:0034693;GO:0071005;GO:0071006;GO:0071011;GO:0071013;GO:0071016;GO:0071018,catalytic step 2 spliceosome;nucleolus;nucleoplasm;precatalytic spliceosome;spliceosomal complex;U11/U12 snRNP;U12-type catalytic step 2 spliceosome;U12-type precatalytic spliceosome;U12-type spliceosomal complex;U2 snRNP;U2-type catalytic step 1 spliceosome;U2-type precatalytic spliceosome;U2-type spliceosomal complex
+11168,PSIP1,PSIP1,GO9_unique,GO:0005654,nucleoplasm
+29104,HEMK2,HEMK2,GO9_unique,GO:0035097,histone methyltransferase complex
+9274,BCL7C,BCL7C,GO9_unique,GO:0005654;GO:0016514;GO:0140288,GBAF complex;nucleoplasm;SWI/SNF complex
+126626,GABPB2,GABPB2,GO9_unique,GO:0005654,nucleoplasm
+56891,LGALS14,LGALS14,GO9_unique,GO:0005654,nucleoplasm
+7982,ST7,ST7,GO9_unique,GO:0005654,nucleoplasm
+64800,EFCAB6,EFCAB6,GO9_unique,GO:0005654,nucleoplasm
+57822,GRHL3,GRHL3,GO9_unique,GO:0005654,nucleoplasm
+641339,ZNF674,ZNF674,GO9_unique,GO:0005654,nucleoplasm
+10248,POP7,POP7,GO9_unique,GO:0005654;GO:0005655;GO:0005730,nucleolar ribonuclease P complex;nucleolus;nucleoplasm
+7494,XBP1,XBP1,GO9_unique,GO:0005654;GO:0090575,nucleoplasm;RNA polymerase II transcription regulator complex
+10393,ANAPC10,ANAPC10,GO9_unique,GO:0005654;GO:0005680,anaphase-promoting complex;nucleoplasm
+8028,MLLT10,MLLT10,GO9_unique,GO:0005654,nucleoplasm
+2971,GTF3A,GTF3A,GO9_unique,GO:0005654,nucleoplasm
+22987,SV2C,SV2C,GO9_unique,GO:0005654,nucleoplasm
+10346,TRIM22,TRIM22,GO9_unique,GO:0005654;GO:0015030;GO:0016604;GO:0016607,Cajal body;nuclear body;nuclear speck;nucleoplasm
+10002,NR2E3,NR2E3,GO9_unique,GO:0005654,nucleoplasm
+56849,TCEAL7,TCEAL7,GO9_unique,GO:0005654,nucleoplasm
+23582,CCNDBP1,CCNDBP1,GO9_unique,GO:0005654;GO:0016604,nuclear body;nucleoplasm
+5077,PAX3,PAX3,GO9_unique,GO:0005654,nucleoplasm
+92521,SPECC1,SPECC1,GO9_unique,GO:0005654,nucleoplasm
+4094,MAF,MAF,GO9_unique,GO:0090575,RNA polymerase II transcription regulator complex
+158234,TRMT10B,TRMT10B,GO9_unique,GO:0005654,nucleoplasm
+51491,NOP16,NOP16,GO9_unique,GO:0005730,nucleolus
+79760,GEMIN7,GEMIN7,GO9_unique,GO:0005654;GO:0016604;GO:0097504,Gemini of Cajal bodies;nuclear body;nucleoplasm
+83844,USP26,USP26,GO9_unique,GO:0005654,nucleoplasm
+6908,TBP,TBP,GO9_unique,GO:0005654;GO:0005668;GO:0005669;GO:0005672;GO:0090575,nucleoplasm;RNA polymerase II transcription regulator complex;RNA polymerase transcription factor SL1 complex;transcription factor TFIIA complex;transcription factor TFIID complex
+64946,CENPH,CENPH,GO9_unique,GO:0005654,nucleoplasm
+6924,ELOA,ELOA,GO9_unique,GO:0005654;GO:0016607;GO:0070449,elongin complex;nuclear speck;nucleoplasm
+5434,POLR2E,POLR2E,GO9_unique,GO:0005654;GO:0005665;GO:0005666;GO:0005730;GO:0005736,"nucleolus;nucleoplasm;RNA polymerase I complex;RNA polymerase II, core complex;RNA polymerase III complex"
+5681,PSKH1,PSKH1,GO9_unique,GO:0016607,nuclear speck
+27341,RRP7A,RRP7A,GO9_unique,GO:0005654;GO:0005730;GO:0032040;GO:0032545;GO:0034456,CURI complex;nucleolus;nucleoplasm;small-subunit processome;UTP-C complex
+10438,C1D,C1D,GO9_unique,GO:0000176;GO:0005654;GO:0005730,nuclear exosome (RNase complex);nucleolus;nucleoplasm
+25885,POLR1A,POLR1A,GO9_unique,GO:0001650;GO:0005654;GO:0005730;GO:0005736,fibrillar center;nucleolus;nucleoplasm;RNA polymerase I complex
+6228,RPS23,RPS23,GO9_unique,GO:0005654;GO:0005730;GO:0032040,nucleolus;nucleoplasm;small-subunit processome
+4739,NEDD9,NEDD9,GO9_unique,GO:0005654,nucleoplasm
+133522,PPARGC1B,PPARGC1B,GO9_unique,GO:0005654;GO:0016592,mediator complex;nucleoplasm
+9898,UBAP2L,UBAP2L,GO9_unique,GO:0031519,PcG protein complex
+51422,PRKAG2,PRKAG2,GO9_unique,GO:0005654,nucleoplasm
+401,PHOX2A,PHOX2A,GO9_unique,GO:0005654,nucleoplasm
+81542,TMX1,TMX1,GO9_unique,GO:0005730,nucleolus
+84276,NICN1,NICN1,GO9_unique,GO:0005654,nucleoplasm
+494551,WEE2,WEE2,GO9_unique,GO:0005654,nucleoplasm
+57727,NCOA5,NCOA5,GO9_unique,GO:0005654,nucleoplasm
+7741,ZSCAN26,ZSCAN26,GO9_unique,GO:0005654;GO:0005730,nucleolus;nucleoplasm
+50619,DEF6,DEF6,GO9_unique,GO:0005654,nucleoplasm
+6657,SOX2,SOX2,GO9_unique,GO:0005654;GO:0016607,nuclear speck;nucleoplasm
+203522,INTS6L,INTS6L,GO9_unique,GO:0032039,integrator complex
+51386,EIF3L,EIF3L,GO9_unique,GO:0001650;GO:0005654;GO:0005730,fibrillar center;nucleolus;nucleoplasm
+11056,DDX52,DDX52,GO9_unique,GO:0005654;GO:0005730,nucleolus;nucleoplasm
+4736,RPL10A,RPL10A,GO9_unique,GO:0005730,nucleolus
+134637,ADAT2,ADAT2,GO9_unique,GO:0005654,nucleoplasm
+4301,AFDN,AFDN,GO9_unique,GO:0005654,nucleoplasm
+55127,HEATR1,HEATR1,GO9_unique,GO:0001650;GO:0005654;GO:0005730;GO:0032040;GO:0034455,fibrillar center;nucleolus;nucleoplasm;small-subunit processome;t-UTP complex
+1060,CENPC,CENPC,GO9_unique,GO:0005654;GO:0016604,nuclear body;nucleoplasm
+55544,RBM38,RBM38,GO9_unique,GO:0005654,nucleoplasm
+55636,CHD7,CHD7,GO9_unique,GO:0005654;GO:0005730,nucleolus;nucleoplasm
+23528,ZNF281,ZNF281,GO9_unique,GO:0005654,nucleoplasm
+3203,HOXA6,HOXA6,GO9_unique,GO:0005654;GO:0016607,nuclear speck;nucleoplasm
+90780,PYGO2,PYGO2,GO9_unique,GO:0005654;GO:1990907,beta-catenin-TCF complex;nucleoplasm
+10808,HSPH1,HSPH1,GO9_unique,GO:0005654,nucleoplasm
+8559,PRPF18,PRPF18,GO9_unique,GO:0005654;GO:0005681;GO:0005682;GO:0016607;GO:0046540;GO:0071021,nuclear speck;nucleoplasm;spliceosomal complex;U2-type post-spliceosomal complex;U4/U6 x U5 tri-snRNP complex;U5 snRNP
+8975,USP13,USP13,GO9_unique,GO:0005654,nucleoplasm
+4110,MAGEA11,MAGEA11,GO9_unique,GO:0005654;GO:0016604,nuclear body;nucleoplasm
+367,AR,AR,GO9_unique,GO:0005654;GO:0016607,nuclear speck;nucleoplasm
+23243,ANKRD28,ANKRD28,GO9_unique,GO:0005654,nucleoplasm
+2091,FBL,FBL,GO9_unique,GO:0001650;GO:0001652;GO:0005654;GO:0005730;GO:0015030;GO:0032040,Cajal body;fibrillar center;granular component;nucleolus;nucleoplasm;small-subunit processome
+2937,GSS,GSS,GO9_unique,GO:0005654,nucleoplasm
+221302,ZUP1,ZUP1,GO9_unique,GO:0005654,nucleoplasm
+5925,RB1,RB1,GO9_unique,GO:0005654;GO:0008024;GO:0016514;GO:0016605;GO:0035189;GO:0061793;GO:0090575,chromatin lock complex;cyclin/CDK positive transcription elongation factor complex;nucleoplasm;PML body;Rb-E2F complex;RNA polymerase II transcription regulator complex;SWI/SNF complex
+11244,ZHX1,ZHX1,GO9_unique,GO:0005654,nucleoplasm
+2963,GTF2F2,GTF2F2,GO9_unique,GO:0005654;GO:0005674;GO:0016591;GO:0090575,"nucleoplasm;RNA polymerase II transcription regulator complex;RNA polymerase II, holoenzyme;transcription factor TFIIF complex"
+27238,GPKOW,GPKOW,GO9_unique,GO:0005654;GO:0005681;GO:0071018,nucleoplasm;spliceosomal complex;U12-type catalytic step 2 spliceosome
+10137,RBM12,RBM12,GO9_unique,GO:0005654,nucleoplasm
+84332,DYDC2,DYDC2,GO9_unique,GO:0048188,Set1C/COMPASS complex
+3184,HNRNPD,HNRNPD,GO9_unique,GO:0005654,nucleoplasm
+64708,COPS7B,COPS7B,GO9_unique,GO:0005654;GO:0008180,COP9 signalosome;nucleoplasm
+79980,DSN1,DSN1,GO9_unique,GO:0001650;GO:0005654;GO:0016604,fibrillar center;nuclear body;nucleoplasm
+54472,TOLLIP,TOLLIP,GO9_unique,GO:0016604,nuclear body
+196528,ARID2,ARID2,GO9_unique,GO:0005654;GO:0016363;GO:0016514;GO:0016586,nuclear matrix;nucleoplasm;RSC-type complex;SWI/SNF complex
+6604,SMARCD3,SMARCD3,GO9_unique,GO:0005654;GO:0016514;GO:0035060;GO:0071564;GO:0071565,brahma complex;nBAF complex;npBAF complex;nucleoplasm;SWI/SNF complex
+4863,NPAT,NPAT,GO9_unique,GO:0005654;GO:0015030;GO:0016604;GO:0097504,Cajal body;Gemini of Cajal bodies;nuclear body;nucleoplasm
+3399,ID3,ID3,GO9_unique,GO:0005654,nucleoplasm
+57178,ZMIZ1,ZMIZ1,GO9_unique,GO:0005654,nucleoplasm
+55536,CDCA7L,CDCA7L,GO9_unique,GO:0001650;GO:0005654;GO:0005730,fibrillar center;nucleolus;nucleoplasm
+10112,KIF20A,KIF20A,GO9_unique,GO:0005654,nucleoplasm
+55893,ZNF395,ZNF395,GO9_unique,GO:0005654,nucleoplasm
+117246,FTSJ3,FTSJ3,GO9_unique,GO:0005730,nucleolus
+253430,IPMK,IPMK,GO9_unique,GO:0005654,nucleoplasm
+3397,ID1,ID1,GO9_unique,GO:0005654,nucleoplasm
+10557,RPP38,RPP38,GO9_unique,GO:0001650;GO:0005654;GO:0005655;GO:0005730,fibrillar center;nucleolar ribonuclease P complex;nucleolus;nucleoplasm
+3431,SP110,SP110,GO9_unique,GO:0005654;GO:0031981,nuclear lumen;nucleoplasm
+29081,METTL5,METTL5,GO9_unique,GO:0001650;GO:0005730,fibrillar center;nucleolus
+5702,PSMC3,PSMC3,GO9_unique,GO:0005654,nucleoplasm
+6660,SOX5,SOX5,GO9_unique,GO:0005654,nucleoplasm
+5586,PKN2,PKN2,GO9_unique,GO:0005654,nucleoplasm
+3169,FOXA1,FOXA1,GO9_unique,GO:0001650;GO:0005654,fibrillar center;nucleoplasm
+8092,ALX1,ALX1,GO9_unique,GO:0005654;GO:0016604,nuclear body;nucleoplasm
+27097,TAF5L,TAF5L,GO9_unique,GO:0016607;GO:0033276,nuclear speck;transcription factor TFTC complex
+56001,NXF2,NXF2,GO9_unique,GO:0005654;GO:0042272,nuclear RNA export factor complex;nucleoplasm
+9700,ESPL1,ESPL1,GO9_unique,GO:0005654,nucleoplasm
+9130,FAM50A,FAM50A,GO9_unique,GO:0005654,nucleoplasm
+147657,ZNF480,ZNF480,GO9_unique,GO:0005654;GO:0031981,nuclear lumen;nucleoplasm
+64207,IRF2BPL,IRF2BPL,GO9_unique,GO:0005654,nucleoplasm
+5528,PPP2R5D,PPP2R5D,GO9_unique,GO:0005654,nucleoplasm
+1373,CPS1,CPS1,GO9_unique,GO:0005730,nucleolus
+92856,IMP4,IMP4,GO9_unique,GO:0005654;GO:0005730;GO:0032040;GO:0034457,Mpp10 complex;nucleolus;nucleoplasm;small-subunit processome
+8187,ZNF239,ZNF239,GO9_unique,GO:0005654;GO:0016604,nuclear body;nucleoplasm
+23598,PATZ1,PATZ1,GO9_unique,GO:0005654,nucleoplasm
+84124,ZNF394,ZNF394,GO9_unique,GO:0005654,nucleoplasm
+84656,GLYR1,GLYR1,GO9_unique,GO:0005654,nucleoplasm
+6258,RXRG,RXRG,GO9_unique,GO:0005654;GO:0090575,nucleoplasm;RNA polymerase II transcription regulator complex
+4659,PPP1R12A,PPP1R12A,GO9_unique,GO:0005654,nucleoplasm
+4205,MEF2A,MEF2A,GO9_unique,GO:0005654,nucleoplasm
+5307,PITX1,PITX1,GO9_unique,GO:0005730,nucleolus
+23246,BOP1,BOP1,GO9_unique,GO:0005654;GO:0005730;GO:0070545,nucleolus;nucleoplasm;PeBoW complex
+6939,TCF15,TCF15,GO9_unique,GO:0016607;GO:0090575,nuclear speck;RNA polymerase II transcription regulator complex
+11331,PHB2,PHB2,GO9_unique,GO:0016363,nuclear matrix
+3151,HMGN2,HMGN2,GO9_unique,GO:0005654;GO:0005730,nucleolus;nucleoplasm
+57222,ERGIC1,ERGIC1,GO9_unique,GO:0005654,nucleoplasm
+699,BUB1,BUB1,GO9_unique,GO:0005654,nucleoplasm
+115353,LRRC42,LRRC42,GO9_unique,GO:0005654,nucleoplasm
+3636,INPPL1,INPPL1,GO9_unique,GO:0016607,nuclear speck
+114034,TOE1,TOE1,GO9_unique,GO:0005654;GO:0005730;GO:0015030;GO:0016604;GO:0016607,Cajal body;nuclear body;nuclear speck;nucleolus;nucleoplasm
+23327,NEDD4L,NEDD4L,GO9_unique,GO:0005654,nucleoplasm
+7704,ZBTB16,ZBTB16,GO9_unique,GO:0016604;GO:0016605;GO:0016607,nuclear body;nuclear speck;PML body
+7727,ZNF174,ZNF174,GO9_unique,GO:0001650;GO:0016604,fibrillar center;nuclear body
+11128,POLR3A,POLR3A,GO9_unique,GO:0005654;GO:0005666,nucleoplasm;RNA polymerase III complex
+405,ARNT,ARNT,GO9_unique,GO:0005654;GO:0016604;GO:0034753;GO:0090575,nuclear aryl hydrocarbon receptor complex;nuclear body;nucleoplasm;RNA polymerase II transcription regulator complex
+220001,VWCE,VWCE,GO9_unique,GO:0005654,nucleoplasm
+9246,UBE2L6,UBE2L6,GO9_unique,GO:0005654,nucleoplasm
+378948,RBMY1B,RBMY1B,GO9_unique,GO:0005681,spliceosomal complex
+23462,HEY1,HEY1,GO9_unique,GO:0005654,nucleoplasm
+5459,POU4F3,POU4F3,GO9_unique,GO:0005654,nucleoplasm
+6223,RPS19,RPS19,GO9_unique,GO:0005654;GO:0005730;GO:0032040,nucleolus;nucleoplasm;small-subunit processome
+80196,RNF34,RNF34,GO9_unique,GO:0005654;GO:0016604;GO:0016607,nuclear body;nuclear speck;nucleoplasm
+91833,WDR20,WDR20,GO9_unique,GO:0005654,nucleoplasm
+8110,DPF3,DPF3,GO9_unique,GO:0005654;GO:0016514;GO:0035060;GO:0071565,brahma complex;nBAF complex;nucleoplasm;SWI/SNF complex
+22809,ATF5,ATF5,GO9_unique,GO:0005654;GO:0090575,nucleoplasm;RNA polymerase II transcription regulator complex
+24137,KIF4A,KIF4A,GO9_unique,GO:0016363,nuclear matrix
+51340,CRNKL1,CRNKL1,GO9_unique,GO:0005654;GO:0005681;GO:0016607;GO:0071006;GO:0071007;GO:0071013;GO:0071014;GO:0071018;GO:0071020,catalytic step 2 spliceosome;nuclear speck;nucleoplasm;post-mRNA release spliceosomal complex;post-spliceosomal complex;spliceosomal complex;U12-type catalytic step 2 spliceosome;U2-type catalytic step 1 spliceosome;U2-type catalytic step 2 spliceosome
+6227,RPS21,RPS21,GO9_unique,GO:0005654,nucleoplasm
+4090,SMAD5,SMAD5,GO9_unique,GO:0005654;GO:0071144,heteromeric SMAD protein complex;nucleoplasm
+57480,PLEKHG1,PLEKHG1,GO9_unique,GO:0005654,nucleoplasm
+134218,DNAJC21,DNAJC21,GO9_unique,GO:0005730,nucleolus
+29922,NME7,NME7,GO9_unique,GO:0005654,nucleoplasm
+29841,GRHL1,GRHL1,GO9_unique,GO:0005654,nucleoplasm
+4306,NR3C2,NR3C2,GO9_unique,GO:0005654,nucleoplasm
+83640,RAMAC,RAMAC,GO9_unique,GO:0005654;GO:0031533,mRNA capping enzyme complex;nucleoplasm
+79961,DENND2D,DENND2D,GO9_unique,GO:0005654,nucleoplasm
+57591,MRTFA,MRTFA,GO9_unique,GO:0005654,nucleoplasm
+285489,DOK7,DOK7,GO9_unique,GO:0005654,nucleoplasm
+124790,HEXIM2,HEXIM2,GO9_unique,GO:0005654;GO:0016607,nuclear speck;nucleoplasm
+55809,TRERF1,TRERF1,GO9_unique,GO:0000118;GO:0005654,histone deacetylase complex;nucleoplasm
+2101,ESRRA,ESRRA,GO9_unique,GO:0001650;GO:0005654,fibrillar center;nucleoplasm
+246744,STH,STH,GO9_unique,GO:0005654,nucleoplasm
+55703,POLR3B,POLR3B,GO9_unique,GO:0005654;GO:0005666,nucleoplasm;RNA polymerase III complex
+389125,MUSTN1,MUSTN1,GO9_unique,GO:0005654,nucleoplasm
+5224,PGAM2,PGAM2,GO9_unique,GO:0005654,nucleoplasm
+55228,PNMA8A,PNMA8A,GO9_unique,GO:0005654;GO:0016604,nuclear body;nucleoplasm
+80778,ZNF34,ZNF34,GO9_unique,GO:0005654,nucleoplasm
+54971,BANP,BANP,GO9_unique,GO:0005654;GO:0016604;GO:0016607,nuclear body;nuclear speck;nucleoplasm
+222194,RSBN1L,RSBN1L,GO9_unique,GO:0016607,nuclear speck
+92345,NAF1,NAF1,GO9_unique,GO:0005654,nucleoplasm
+55122,AKIRIN2,AKIRIN2,GO9_unique,GO:0005654,nucleoplasm
+4482,MSRA,MSRA,GO9_unique,GO:0005654,nucleoplasm
+57862,ZNF410,ZNF410,GO9_unique,GO:0005654,nucleoplasm
+116113,FOXP4,FOXP4,GO9_unique,GO:0005654,nucleoplasm
+6095,RORA,RORA,GO9_unique,GO:0005654;GO:0005730,nucleolus;nucleoplasm
+5696,PSMB8,PSMB8,GO9_unique,GO:0005654,nucleoplasm
+8864,PER2,PER2,GO9_unique,GO:0005654;GO:0005730;GO:1990512,Cry-Per complex;nucleolus;nucleoplasm
+54623,PAF1,PAF1,GO9_unique,GO:0001650;GO:0005654;GO:0016593,Cdc73/Paf1 complex;fibrillar center;nucleoplasm
+79031,PDCL3,PDCL3,GO9_unique,GO:0005654;GO:0097356,nucleoplasm;perinucleolar compartment
+79077,DCTPP1,DCTPP1,GO9_unique,GO:0005654,nucleoplasm
+83481,EPPK1,EPPK1,GO9_unique,GO:0097356,perinucleolar compartment
+6428,SRSF3,SRSF3,GO9_unique,GO:0005654;GO:0016607,nuclear speck;nucleoplasm
+51535,PPHLN1,PPHLN1,GO9_unique,GO:0005654;GO:0140283;GO:0140286,HUSH complex;HUSH2 complex;nucleoplasm
+2626,GATA4,GATA4,GO9_unique,GO:0005654;GO:0016604;GO:0090575,nuclear body;nucleoplasm;RNA polymerase II transcription regulator complex
+30827,CXXC1,CXXC1,GO9_unique,GO:0005654;GO:0016363;GO:0016607;GO:0031981;GO:0035097;GO:0048188,histone methyltransferase complex;nuclear lumen;nuclear matrix;nuclear speck;nucleoplasm;Set1C/COMPASS complex
+8148,TAF15,TAF15,GO9_unique,GO:0005654;GO:0005730,nucleolus;nucleoplasm
+51203,NUSAP1,NUSAP1,GO9_unique,GO:0005730,nucleolus
+4435,CITED1,CITED1,GO9_unique,GO:0005654,nucleoplasm
+9757,KMT2B,KMT2B,GO9_unique,GO:0005654;GO:0035097;GO:0044665,histone methyltransferase complex;MLL1/2 complex;nucleoplasm
+3357,HTR2B,HTR2B,GO9_unique,GO:0005654,nucleoplasm
+7690,ZNF131,ZNF131,GO9_unique,GO:0005654,nucleoplasm
+89797,NAV2,NAV2,GO9_unique,GO:0005654,nucleoplasm
+84307,ZNF397,ZNF397,GO9_unique,GO:0005730,nucleolus
+694,BTG1,BTG1,GO9_unique,GO:0005654,nucleoplasm
+27125,AFF4,AFF4,GO9_unique,GO:0001650;GO:0005654;GO:0008023;GO:0016604;GO:0032783,fibrillar center;nuclear body;nucleoplasm;super elongation complex;transcription elongation factor complex
+284252,KCTD1,KCTD1,GO9_unique,GO:0005654,nucleoplasm
+7957,EPM2A,EPM2A,GO9_unique,GO:0005654,nucleoplasm
+6636,SNRPF,SNRPF,GO9_unique,GO:0005654;GO:0005681;GO:0005682;GO:0005683;GO:0005684;GO:0005685;GO:0005686;GO:0005687;GO:0005689;GO:0005690;GO:0030532;GO:0034693;GO:0046540;GO:0071001;GO:0071002;GO:0071005;GO:0071006;GO:0071007;GO:0071009;GO:0071011;GO:0071013;GO:0071014;GO:0071016;GO:0071018;GO:0071020,catalytic step 2 spliceosome;nucleoplasm;post-mRNA release spliceosomal complex;post-spliceosomal complex;precatalytic spliceosome;small nuclear ribonucleoprotein complex;spliceosomal complex;U1 snRNP;U11/U12 snRNP;U12-type catalytic step 2 spliceosome;U12-type precatalytic spliceosome;U12-type spliceosomal complex;U2 snRNP;U2-type catalytic step 1 spliceosome;U2-type catalytic step 2 spliceosome;U2-type precatalytic spliceosome;U2-type spliceosomal complex;U4 snRNP;U4/U6 snRNP;U4/U6 x U5 tri-snRNP complex;U4atac snRNP;U4atac/U6atac snRNP;U4atac/U6atac x U5 tri-snRNP complex;U5 snRNP;U7 snRNP
+10178,TENM1,TENM1,GO9_unique,GO:0016363;GO:0016607,nuclear matrix;nuclear speck
+56342,PPAN,PPAN,GO9_unique,GO:0005730,nucleolus
+29123,ANKRD11,ANKRD11,GO9_unique,GO:0005654,nucleoplasm
+9975,NR1D2,NR1D2,GO9_unique,GO:0005654,nucleoplasm
+6730,SRP68,SRP68,GO9_unique,GO:0005730,nucleolus
+23184,MESD,MESD,GO9_unique,GO:0016604,nuclear body
+1399,CRKL,CRKL,GO9_unique,GO:0005654,nucleoplasm
+25962,VIRMA,VIRMA,GO9_unique,GO:0005654;GO:0016604;GO:0016607,nuclear body;nuclear speck;nucleoplasm
+8638,OASL,OASL,GO9_unique,GO:0005654;GO:0005730,nucleolus;nucleoplasm
+166863,RBM46,RBM46,GO9_unique,GO:0030895,apolipoprotein B mRNA editing enzyme complex
+10626,TRIM16,TRIM16,GO9_unique,GO:0016605,PML body
+58986,PGAP6,PGAP6,GO9_unique,GO:0005654,nucleoplasm
+389677,RBM12B,RBM12B,GO9_unique,GO:0005654,nucleoplasm
+9904,RBM19,RBM19,GO9_unique,GO:0005654;GO:0005730;GO:0016607,nuclear speck;nucleolus;nucleoplasm
+64750,SMURF2,SMURF2,GO9_unique,GO:0005654;GO:0016607,nuclear speck;nucleoplasm
+143241,DYDC1,DYDC1,GO9_unique,GO:0048188,Set1C/COMPASS complex
+10138,YAF2,YAF2,GO9_unique,GO:0005654;GO:0035102,nucleoplasm;PRC1 complex
+9049,AIP,AIP,GO9_unique,GO:0005654,nucleoplasm
+9889,ZBED4,ZBED4,GO9_unique,GO:0005654,nucleoplasm
+5447,POR,POR,GO9_unique,GO:0005654,nucleoplasm
+51503,CWC15,CWC15,GO9_unique,GO:0005654;GO:0005681;GO:0016607;GO:0071006;GO:0071007;GO:0071013;GO:0071014;GO:0071018;GO:0071020,catalytic step 2 spliceosome;nuclear speck;nucleoplasm;post-mRNA release spliceosomal complex;post-spliceosomal complex;spliceosomal complex;U12-type catalytic step 2 spliceosome;U2-type catalytic step 1 spliceosome;U2-type catalytic step 2 spliceosome
+3206,HOXA10,HOXA10,GO9_unique,GO:0005654;GO:0016604,nuclear body;nucleoplasm
+64855,NIBAN2,NIBAN2,GO9_unique,GO:0005654,nucleoplasm
+7015,TERT,TERT,GO9_unique,GO:0000333;GO:0000783;GO:0005654;GO:0005697;GO:0005730;GO:0016605;GO:0016607,nuclear speck;nuclear telomere cap complex;nucleolus;nucleoplasm;PML body;telomerase catalytic core complex;telomerase holoenzyme complex
+342371,ATXN1L,ATXN1L,GO9_unique,GO:0005654;GO:0005730,nucleolus;nucleoplasm
+11340,EXOSC8,EXOSC8,GO9_unique,GO:0000176;GO:0001650;GO:0005654;GO:0005730;GO:0101019,fibrillar center;nuclear exosome (RNase complex);nucleolar exosome (RNase complex);nucleolus;nucleoplasm
+1875,E2F5,E2F5,GO9_unique,GO:0005654;GO:0070176;GO:0090575,DRM complex;nucleoplasm;RNA polymerase II transcription regulator complex
+27291,R3HCC1L,R3HCC1L,GO9_unique,GO:0035145,exon-exon junction complex
+2491,CENPI,CENPI,GO9_unique,GO:0005654;GO:0016604,nuclear body;nucleoplasm
+54014,BRWD1,BRWD1,GO9_unique,GO:0005654;GO:0005730,nucleolus;nucleoplasm
+7268,TTC4,TTC4,GO9_unique,GO:0005654,nucleoplasm
+204219,CERS3,CERS3,GO9_unique,GO:0005654,nucleoplasm
+5782,PTPN12,PTPN12,GO9_unique,GO:0005654,nucleoplasm
+6732,SRPK1,SRPK1,GO9_unique,GO:0005654;GO:0016363;GO:0016607,nuclear matrix;nuclear speck;nucleoplasm
+54904,NSD3,NSD3,GO9_unique,GO:0005654,nucleoplasm
+83931,STK40,STK40,GO9_unique,GO:0005654,nucleoplasm
+285643,KIF4B,KIF4B,GO9_unique,GO:0016363,nuclear matrix
+132612,ADAD1,ADAD1,GO9_unique,GO:0005730,nucleolus
+1736,DKC1,DKC1,GO9_unique,GO:0001650;GO:0005654;GO:0005697;GO:0005730;GO:0015030;GO:0031429;GO:0072589;GO:0090661,box H/ACA scaRNP complex;box H/ACA snoRNP complex;box H/ACA telomerase RNP complex;Cajal body;fibrillar center;nucleolus;nucleoplasm;telomerase holoenzyme complex
+6045,RNF2,RNF2,GO9_unique,GO:0005654;GO:0016604;GO:0031519;GO:0035102;GO:0071339,MLL1 complex;nuclear body;nucleoplasm;PcG protein complex;PRC1 complex
+9817,KEAP1,KEAP1,GO9_unique,GO:0005654,nucleoplasm
+2005,ELK4,ELK4,GO9_unique,GO:0005654,nucleoplasm
+22984,PDCD11,PDCD11,GO9_unique,GO:0005654;GO:0005730;GO:0032040,nucleolus;nucleoplasm;small-subunit processome
+56929,FEM1C,FEM1C,GO9_unique,GO:0005654,nucleoplasm
+10813,UTP14A,UTP14A,GO9_unique,GO:0005654;GO:0005730;GO:0032040,nucleolus;nucleoplasm;small-subunit processome
+6659,SOX4,SOX4,GO9_unique,GO:0005654,nucleoplasm
+23210,JMJD6,JMJD6,GO9_unique,GO:0005654;GO:0005730,nucleolus;nucleoplasm
+10987,COPS5,COPS5,GO9_unique,GO:0005654;GO:0008180,COP9 signalosome;nucleoplasm
+283248,RCOR2,RCOR2,GO9_unique,GO:0000118,histone deacetylase complex
+79622,SNRNP25,SNRNP25,GO9_unique,GO:0005654;GO:0005681;GO:0005689;GO:0034693;GO:0071016,nucleoplasm;spliceosomal complex;U11/U12 snRNP;U12-type precatalytic spliceosome;U12-type spliceosomal complex
+7026,NR2F2,NR2F2,GO9_unique,GO:0005654,nucleoplasm
+8877,SPHK1,SPHK1,GO9_unique,GO:0005654,nucleoplasm
+10891,PPARGC1A,PPARGC1A,GO9_unique,GO:0005654;GO:0016605,nucleoplasm;PML body
+6430,SRSF5,SRSF5,GO9_unique,GO:0005654;GO:0016607,nuclear speck;nucleoplasm
+64839,FBXL17,FBXL17,GO9_unique,GO:0005654,nucleoplasm
+55635,DEPDC1,DEPDC1,GO9_unique,GO:0001650;GO:0005654,fibrillar center;nucleoplasm
+8270,LAGE3,LAGE3,GO9_unique,GO:0005654;GO:0016604,nuclear body;nucleoplasm
+92105,INTS4,INTS4,GO9_unique,GO:0005654;GO:0005730;GO:0032039;GO:0160232,INTAC complex;integrator complex;nucleolus;nucleoplasm
+11221,DUSP10,DUSP10,GO9_unique,GO:0005654,nucleoplasm
+6282,S100A11,S100A11,GO9_unique,GO:0005654;GO:0016607,nuclear speck;nucleoplasm
+862,RUNX1T1,RUNX1T1,GO9_unique,GO:0005654;GO:0016363,nuclear matrix;nucleoplasm
+402569,KPNA7,KPNA7,GO9_unique,GO:0005654,nucleoplasm
+6189,RPS3A,RPS3A,GO9_unique,GO:0005654;GO:0005730;GO:0032040,nucleolus;nucleoplasm;small-subunit processome
+7294,TXK,TXK,GO9_unique,GO:0005654;GO:0005730,nucleolus;nucleoplasm
+27005,USP21,USP21,GO9_unique,GO:0005654,nucleoplasm
+10425,ARIH2,ARIH2,GO9_unique,GO:0005654,nucleoplasm
+5454,POU3F2,POU3F2,GO9_unique,GO:0005654,nucleoplasm
+345643,MCIDAS,MCIDAS,GO9_unique,GO:0005654;GO:0005730;GO:0016604,nuclear body;nucleolus;nucleoplasm
+8099,CDK2AP1,CDK2AP1,GO9_unique,GO:0005654;GO:0016581,nucleoplasm;NuRD complex
+6429,SRSF4,SRSF4,GO9_unique,GO:0005654;GO:0016607,nuclear speck;nucleoplasm
+285268,ZNF621,ZNF621,GO9_unique,GO:0016607,nuclear speck
+79042,TSEN34,TSEN34,GO9_unique,GO:0000214;GO:0005654;GO:0005730,nucleolus;nucleoplasm;tRNA-intron endonuclease complex
+55840,EAF2,EAF2,GO9_unique,GO:0005654;GO:0008023;GO:0016607;GO:0032783,nuclear speck;nucleoplasm;super elongation complex;transcription elongation factor complex
+10262,SF3B4,SF3B4,GO9_unique,GO:0005654;GO:0005681;GO:0005684;GO:0005686;GO:0005689;GO:0034693;GO:0071005;GO:0071006;GO:0071011;GO:0071016;GO:0071018,nucleoplasm;precatalytic spliceosome;spliceosomal complex;U11/U12 snRNP;U12-type catalytic step 2 spliceosome;U12-type precatalytic spliceosome;U12-type spliceosomal complex;U2 snRNP;U2-type catalytic step 1 spliceosome;U2-type precatalytic spliceosome;U2-type spliceosomal complex
+3309,HSPA5,HSPA5,GO9_unique,GO:0008180,COP9 signalosome
+9770,RASSF2,RASSF2,GO9_unique,GO:0005654,nucleoplasm
+5653,KLK6,KLK6,GO9_unique,GO:0005654;GO:0005730,nucleolus;nucleoplasm
+56919,DHX33,DHX33,GO9_unique,GO:0005654;GO:0005730,nucleolus;nucleoplasm
+55192,DNAJC17,DNAJC17,GO9_unique,GO:0005681,spliceosomal complex
+53938,PPIL3,PPIL3,GO9_unique,GO:0005654;GO:0005681;GO:0071013,catalytic step 2 spliceosome;nucleoplasm;spliceosomal complex
+8621,CDK13,CDK13,GO9_unique,GO:0005654;GO:0008024;GO:0016607;GO:0019908,cyclin/CDK positive transcription elongation factor complex;nuclear cyclin-dependent protein kinase holoenzyme complex;nuclear speck;nucleoplasm
+58517,RBM25,RBM25,GO9_unique,GO:0005654;GO:0016607,nuclear speck;nucleoplasm
+22861,NLRP1,NLRP1,GO9_unique,GO:0005654;GO:0005730,nucleolus;nucleoplasm
+768,CA9,CA9,GO9_unique,GO:0005730,nucleolus
+4802,NFYC,NFYC,GO9_unique,GO:0005654;GO:0016602;GO:0090575,CCAAT-binding factor complex;nucleoplasm;RNA polymerase II transcription regulator complex
+9939,RBM8A,RBM8A,GO9_unique,GO:0005654;GO:0005681;GO:0016607;GO:0035145;GO:0071006;GO:0071007;GO:0071013;GO:0071020;GO:1990501,catalytic step 2 spliceosome;exon-exon junction complex;exon-exon junction subcomplex mago-y14;nuclear speck;nucleoplasm;post-spliceosomal complex;spliceosomal complex;U2-type catalytic step 1 spliceosome;U2-type catalytic step 2 spliceosome
+4627,MYH9,MYH9,GO9_unique,GO:0008180,COP9 signalosome
+1050,CEBPA,CEBPA,GO9_unique,GO:0005654;GO:0005730;GO:0036488;GO:0090575;GO:1990647,C/EBP complex;CHOP-C/EBP complex;nucleolus;nucleoplasm;RNA polymerase II transcription regulator complex
+51637,RTRAF,RTRAF,GO9_unique,GO:0005654,nucleoplasm
+51773,RSF1,RSF1,GO9_unique,GO:0005654;GO:0031213,nucleoplasm;RSF complex
+55784,MCTP2,MCTP2,GO9_unique,GO:0005654,nucleoplasm
+51701,NLK,NLK,GO9_unique,GO:0005654,nucleoplasm
+1058,CENPA,CENPA,GO9_unique,GO:0005654,nucleoplasm
+7756,ZNF207,ZNF207,GO9_unique,GO:0005654,nucleoplasm
+29883,CNOT7,CNOT7,GO9_unique,GO:0016604;GO:0016607,nuclear body;nuclear speck
+57492,ARID1B,ARID1B,GO9_unique,GO:0005654;GO:0016514;GO:0035060;GO:0071564;GO:0071565;GO:0140092,bBAF complex;brahma complex;nBAF complex;npBAF complex;nucleoplasm;SWI/SNF complex
+339230,CCDC137,CCDC137,GO9_unique,GO:0005654;GO:0005730,nucleolus;nucleoplasm
+64105,CENPK,CENPK,GO9_unique,GO:0005654,nucleoplasm
+3218,HOXB8,HOXB8,GO9_unique,GO:0005654,nucleoplasm
+5093,PCBP1,PCBP1,GO9_unique,GO:0005654;GO:0016607,nuclear speck;nucleoplasm
+54959,ODAM,ODAM,GO9_unique,GO:0005654,nucleoplasm
+51132,RLIM,RLIM,GO9_unique,GO:0005654,nucleoplasm
+4013,VWA5A,VWA5A,GO9_unique,GO:0005654,nucleoplasm
+10568,SLC34A2,SLC34A2,GO9_unique,GO:0005654,nucleoplasm
+283149,BCL9L,BCL9L,GO9_unique,GO:0001650;GO:0005654;GO:1990907,beta-catenin-TCF complex;fibrillar center;nucleoplasm
+4091,SMAD6,SMAD6,GO9_unique,GO:0071144,heteromeric SMAD protein complex
+6193,RPS5,RPS5,GO9_unique,GO:0005654;GO:0005730;GO:0032040,nucleolus;nucleoplasm;small-subunit processome
+84321,THOC3,THOC3,GO9_unique,GO:0000346;GO:0000445;GO:0005654;GO:0016607,nuclear speck;nucleoplasm;THO complex part of transcription export complex;transcription export complex
+1659,DHX8,DHX8,GO9_unique,GO:0005654;GO:0005681;GO:0071006;GO:0071007;GO:0071013;GO:0071020,catalytic step 2 spliceosome;nucleoplasm;post-spliceosomal complex;spliceosomal complex;U2-type catalytic step 1 spliceosome;U2-type catalytic step 2 spliceosome
+2117,ETV3,ETV3,GO9_unique,GO:0090571,RNA polymerase II transcription repressor complex
+11016,ATF7,ATF7,GO9_unique,GO:0005654;GO:0090575,nucleoplasm;RNA polymerase II transcription regulator complex
+55793,MINDY1,MINDY1,GO9_unique,GO:0005654,nucleoplasm
+3054,HCFC1,HCFC1,GO9_unique,GO:0005654;GO:0035097;GO:0044665;GO:0048188;GO:0071339,histone methyltransferase complex;MLL1 complex;MLL1/2 complex;nucleoplasm;Set1C/COMPASS complex
+116986,AGAP2,AGAP2,GO9_unique,GO:0005654,nucleoplasm
+23091,ZC3H13,ZC3H13,GO9_unique,GO:0005654;GO:0016607,nuclear speck;nucleoplasm
+51755,CDK12,CDK12,GO9_unique,GO:0005654;GO:0008024;GO:0016607;GO:0019908,cyclin/CDK positive transcription elongation factor complex;nuclear cyclin-dependent protein kinase holoenzyme complex;nuclear speck;nucleoplasm
+6195,RPS6KA1,RPS6KA1,GO9_unique,GO:0005654,nucleoplasm
+3316,HSPB2,HSPB2,GO9_unique,GO:0005654,nucleoplasm
+3209,HOXA13,HOXA13,GO9_unique,GO:0005654,nucleoplasm
+84868,HAVCR2,HAVCR2,GO9_unique,GO:0016592,mediator complex
+90806,ANGEL2,ANGEL2,GO9_unique,GO:0015030,Cajal body
+54715,RBFOX1,RBFOX1,GO9_unique,GO:0005654;GO:0097165,nuclear stress granule;nucleoplasm
+124944,BACC1,BACC1,GO9_unique,GO:0016589;GO:0071339,MLL1 complex;NURF complex
+51575,ESF1,ESF1,GO9_unique,GO:0005654;GO:0005730,nucleolus;nucleoplasm
+197320,ZNF778,ZNF778,GO9_unique,GO:0005654;GO:0016604,nuclear body;nucleoplasm
+79977,GRHL2,GRHL2,GO9_unique,GO:0005654,nucleoplasm
+9136,RRP9,RRP9,GO9_unique,GO:0005654;GO:0005730;GO:0032040,nucleolus;nucleoplasm;small-subunit processome
+55565,ZNF821,ZNF821,GO9_unique,GO:0016607,nuclear speck
+27129,HSPB7,HSPB7,GO9_unique,GO:0015030,Cajal body
+548644,POLR2J3,POLR2J3,GO9_unique,GO:0005665,"RNA polymerase II, core complex"
+83439,TCF7L1,TCF7L1,GO9_unique,GO:0005654;GO:1990907,beta-catenin-TCF complex;nucleoplasm
+10659,CELF2,CELF2,GO9_unique,GO:0005654,nucleoplasm
+84916,UTP4,UTP4,GO9_unique,GO:0001650;GO:0005654;GO:0005730;GO:0032040;GO:0034455,fibrillar center;nucleolus;nucleoplasm;small-subunit processome;t-UTP complex
+6160,RPL31,RPL31,GO9_unique,GO:0005654,nucleoplasm
+705,BYSL,BYSL,GO9_unique,GO:0005654;GO:0005730,nucleolus;nucleoplasm
+6478,SIAH2,SIAH2,GO9_unique,GO:0005654,nucleoplasm
+6733,SRPK2,SRPK2,GO9_unique,GO:0005654;GO:0005730;GO:0016607,nuclear speck;nucleolus;nucleoplasm
+81608,FIP1L1,FIP1L1,GO9_unique,GO:0005654;GO:0005847,mRNA cleavage and polyadenylation specificity factor complex;nucleoplasm
+51071,DERA,DERA,GO9_unique,GO:0005654,nucleoplasm
+5814,PURB,PURB,GO9_unique,GO:0005654,nucleoplasm
+6775,STAT4,STAT4,GO9_unique,GO:0005654;GO:0016604;GO:0090575,nuclear body;nucleoplasm;RNA polymerase II transcription regulator complex
+28960,DCPS,DCPS,GO9_unique,GO:0005654,nucleoplasm
+440093,H3-5,H3-5,GO9_unique,GO:0005654,nucleoplasm
+23352,UBR4,UBR4,GO9_unique,GO:0005654,nucleoplasm
+1153,CIRBP,CIRBP,GO9_unique,GO:0005654;GO:0005681,nucleoplasm;spliceosomal complex
+55274,PHF10,PHF10,GO9_unique,GO:0005654;GO:0016363;GO:0016514;GO:0016586;GO:0071564,npBAF complex;nuclear matrix;nucleoplasm;RSC-type complex;SWI/SNF complex
+6663,SOX10,SOX10,GO9_unique,GO:0005654,nucleoplasm
+57509,MTUS1,MTUS1,GO9_unique,GO:0005730,nucleolus
+6827,SUPT4H1,SUPT4H1,GO9_unique,GO:0005654;GO:0032044,DSIF complex;nucleoplasm
+92609,TIMM50,TIMM50,GO9_unique,GO:0005654;GO:0016607,nuclear speck;nucleoplasm
+8651,SOCS1,SOCS1,GO9_unique,GO:0005654,nucleoplasm
+9682,KDM4A,KDM4A,GO9_unique,GO:0001650;GO:0005654,fibrillar center;nucleoplasm
+1847,DUSP5,DUSP5,GO9_unique,GO:0005654,nucleoplasm
+23512,SUZ12,SUZ12,GO9_unique,GO:0005654;GO:0005677;GO:0005730;GO:0016586;GO:0016604;GO:0031519;GO:0035098,chromatin silencing complex;ESC/E(Z) complex;nuclear body;nucleolus;nucleoplasm;PcG protein complex;RSC-type complex
+64092,SAMSN1,SAMSN1,GO9_unique,GO:0005654,nucleoplasm
+51082,POLR1D,POLR1D,GO9_unique,GO:0005654;GO:0005666;GO:0005730;GO:0005736,nucleolus;nucleoplasm;RNA polymerase I complex;RNA polymerase III complex
+121536,AEBP2,AEBP2,GO9_unique,GO:0005654;GO:0035098,ESC/E(Z) complex;nucleoplasm
+25957,PNISR,PNISR,GO9_unique,GO:0016607,nuclear speck
+1029,CDKN2A,CDKN2A,GO9_unique,GO:0005654;GO:0005730,nucleolus;nucleoplasm
+27107,ZBTB11,ZBTB11,GO9_unique,GO:0005654;GO:0005730,nucleolus;nucleoplasm
+22864,R3HDM2,R3HDM2,GO9_unique,GO:0005654,nucleoplasm
+80829,ZFP91,ZFP91,GO9_unique,GO:0005654;GO:0005730,nucleolus;nucleoplasm
+79697,RIOX1,RIOX1,GO9_unique,GO:0005654;GO:0005730,nucleolus;nucleoplasm
+8539,API5,API5,GO9_unique,GO:0005681;GO:0016607,nuclear speck;spliceosomal complex
+23560,GTPBP4,GTPBP4,GO9_unique,GO:0005730,nucleolus
+84301,DDI2,DDI2,GO9_unique,GO:0005654,nucleoplasm
+7025,NR2F1,NR2F1,GO9_unique,GO:0005654,nucleoplasm
+64794,DDX31,DDX31,GO9_unique,GO:0005730,nucleolus
+10450,PPIE,PPIE,GO9_unique,GO:0005654;GO:0005681;GO:0016607;GO:0071006;GO:0071007;GO:0071013;GO:0071014;GO:0071020,catalytic step 2 spliceosome;nuclear speck;nucleoplasm;post-mRNA release spliceosomal complex;post-spliceosomal complex;spliceosomal complex;U2-type catalytic step 1 spliceosome;U2-type catalytic step 2 spliceosome
+9687,GREB1,GREB1,GO9_unique,GO:0005654,nucleoplasm
+23118,TAB2,TAB2,GO9_unique,GO:0005654,nucleoplasm
+153769,SH3RF2,SH3RF2,GO9_unique,GO:0005654,nucleoplasm
+7266,DNAJC7,DNAJC7,GO9_unique,GO:0005654,nucleoplasm
+9815,GIT2,GIT2,GO9_unique,GO:0005654,nucleoplasm
+51538,ZCCHC17,ZCCHC17,GO9_unique,GO:0005730,nucleolus
+23133,PHF8,PHF8,GO9_unique,GO:0005654;GO:0005730,nucleolus;nucleoplasm
+9295,SRSF11,SRSF11,GO9_unique,GO:0005654;GO:0016607,nuclear speck;nucleoplasm
+7403,KDM6A,KDM6A,GO9_unique,GO:0005654;GO:0035097;GO:0044666,histone methyltransferase complex;MLL3/4 complex;nucleoplasm
+7919,DDX39B,DDX39B,GO9_unique,GO:0000346;GO:0005654;GO:0005681;GO:0005687;GO:0005688;GO:0016607,nuclear speck;nucleoplasm;spliceosomal complex;transcription export complex;U4 snRNP;U6 snRNP
+8692,HYAL2,HYAL2,GO9_unique,GO:0090575,RNA polymerase II transcription regulator complex
+3091,HIF1A,HIF1A,GO9_unique,GO:0005654;GO:0016604;GO:0016607;GO:0090575,nuclear body;nuclear speck;nucleoplasm;RNA polymerase II transcription regulator complex
+1948,EFNB2,EFNB2,GO9_unique,GO:0005654,nucleoplasm
+54876,DCAF16,DCAF16,GO9_unique,GO:0005654,nucleoplasm

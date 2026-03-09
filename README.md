@@ -1,73 +1,65 @@
-# lib1 - 核相关基因sgRNA文库构建
+# Library 1
+# CRISPR sgRNA 文库构建流程
 
 ## 项目简介
-本项目针对核相关组分基因构建sgRNA文库（lib1），核心目标是合成总计6000条sgRNA（含目标基因sgRNA + 100条负对照sgRNA），最终需满足目标基因的unique gene数约1950~2000个（与对照合计凑够1500/2000个基因维度），支撑后续功能实验。
+本 R 脚本用于构建针对特定基因本体（GO）术语的 CRISPR sgRNA 文库。流程包括基因 Symbol 与 Entrez ID 的映射、GO 数据处理、sgRNA 序列筛选与质控、最终文库的组装与标准化。
 
-## 核心数据处理流程
-### 1. GO术语筛选与基因初筛
-#### 筛选原则
-- 聚焦**核相关组分类GO术语**，排除process类术语（如maintenance of protein location in nucleus）、原生生物相关术语（macronucleus）、含亚基的复合物术语（nuclear protein-containing complex）；
-- 初期限定evidence为`ECO:0000352`（manual assertion），因基因数量不足取消该限制；
-- 补充GO:0006974术语扩充基因池，初筛去重后得到1680个unique gene。
+## 依赖环境
+### R 包
+- `readr`：读取 TSV/CSV 文件
+- `dplyr`：数据清洗与操作
+- `stringr`：字符串处理
+- `readxl`：读取 Excel 文件
+- `org.Hs.eg.db`：人类基因 ID 映射数据库
+- `AnnotationDbi`：基因注释工具
 
-#### 候选术语集（两组核心方案）
-| 组别 | 包含术语 | 问题说明 |
-|------|----------|----------|
-| 组1 | nuclear chromosome、nuclear envelop、protein-containing complex、condensed nuclear chromosome、nuclear membrane、nuclear microtubule | complex术语可能影响后续分析 |
-| 组2 | nuclear chromosome、nuclear envelop、nuclear lumen、condensed nuclear chromosome、nuclear membrane、nuclear microtubule | lumen导致基因数从2000暴涨至37000，数量过多 |
+### 安装依赖
+```r
+if (!requireNamespace("BiocManager", quietly = TRUE))
+    install.packages("BiocManager")
 
-### 2. sgRNA筛选与序列设计
-- **来源与规则**：从Sabatini参考文件获取sgRNA，每个基因筛选**最多4条**（或按总数调整为3条）；
-- **序列规则**：前缀固定为 `GC + PacI(TTAATTAA) + U6 恒定片段`，剔除内部含PacI位点的序列；
-- **筛选策略**：先映射10条sgRNA → 过滤低质量序列 → 截断为3条最终保留。
-
-### 3. 对照设置
-- **正对照**：Lig4、ERCC6L2等基因需包含在最终基因列表中；
-- **负对照**：100条sgRNA（非基因维度），用于补齐6000条合成总数（如目标基因sgRNA为5910条时，随机选90条负对照补足）。
-
-### 4. 基因ID映射（关键修正）
-- 初期Symbol映射存在缺失（如PAXX、Shld1/2/3），改用**EntrezID/Ensembl ID**（物种内唯一标识）；
-- 借助`org.Hs.eg.db`包实现ID转换，解决包兼容报错问题；
-- 手动处理未映射Symbol：A8MVJ9、HERVK_113、HERV-K104、L1RE1无匹配结果，仅6个Symbol未完成映射（不影响最终结果）。
-
-### 5. 最终数据校准
-- 确保目标基因unique gene数接近2000个，按“基因数×3/4条sgRNA”计算基础条数，结合100条负对照补足至6000条；
-- 验证所有基因在Sabatini文件中的sgRNA映射情况，未匹配基因通过ID手动校准。
-
-## 代码使用说明
-### 环境依赖
-```R
-# 核心依赖包
-install.packages(c("org.Hs.eg.db", "dplyr", "tidyr"))
+BiocManager::install(c("org.Hs.eg.db", "AnnotationDbi"))
+install.packages(c("readr", "dplyr", "stringr", "readxl"))
 ```
 
-### 运行步骤
-1. 修改代码开头的文件路径/文件名（指向目标GO表、Sabatini参考文件）；
-2. 运行代码，查看控制台输出的过程量（如未映射Symbol、sgRNA筛选数）；
-3. 手动校准未映射的Symbol（如需）；
-4. 合并负对照sgRNA，输出最终6000条sgRNA列表。
+## 输入文件
+请确保以下文件路径在脚本中正确配置：
+1. **GO10.tsv**：包含目标 GO 术语（如 `GO:0051457`、`GO:0006974` 等）的基因列表
+2. **GO9.tsv**：包含另一组 GO 术语（如 `GO:0031981`、`GO:0005880` 等）的基因列表
+3. **control_raw.xlsx**：对照组 sgRNA 序列文件
+4. **human_gene-KO_sabatini.xlsx**：Sabatini 人类 sgRNA 文库（需包含 `Human sgRNA library` 工作表）
 
-### 代码特性
-- 整合GO筛选、ID映射、sgRNA筛选、对照合并全流程；
-- 内置注释与运行时过程量检验；
-- 支持修改输入路径/文件，复用流程处理不同数据集。
+## 输出文件
+脚本运行后将生成以下文件（路径可在脚本中修改）：
+1. **constructs10_raw.csv**：GO10 组原始 sgRNA 构建体
+2. **constructs9_raw.csv**：GO9 组原始 sgRNA 构建体
+3. **control_constructs_raw.csv**：对照组原始 sgRNA 构建体
+4. **constructs10_clean.csv**：GO10 组质控后 sgRNA 构建体
+5. **constructs9_clean.csv**：GO9 组质控后 sgRNA 构建体
+6. **control_constructs_clean.csv**：对照组质控后 sgRNA 构建体
+7. **Final_final.csv**：最终组装的标准化 sgRNA 文库
+8. **final_geneid_list.csv**：最终选择的基因 ID 及其 GO 注释信息
 
-## 关键注意事项
-1. **ID唯一性**：优先用EntrezID/Ensembl ID映射，避免Symbol命名变更导致匹配失败；
-2. **序列规则**：严格剔除内部含PacI位点的序列，确保前缀符合设计要求；
-3. **数量校准**：最终需凑够6000条sgRNA，其中100条为负对照（非基因维度）；
-4. **对照基因**：正对照（Lig4、ERCC6L2）必须包含在最终基因列表中。
+## 使用说明
+1. **修改文件路径**：打开脚本，将 `path_go10`、`path_go9`、`path_control`、`path_sabatini` 等输入/输出路径修改为本地实际路径。
+2. **运行脚本**：在 R 或 RStudio 中运行完整脚本。
 
-## 已解决问题
-1. 部分基因（Shld3等）Symbol无法映射，改用EntrezID后解决；
-2. `org.Hs.eg.db`包兼容报错问题处理；
-3. 手动映射无检索结果的Symbol，不影响最终结果；
-4. 代码整合与注释补充，提升流程可复用性与健壮性。
+## 主要流程
+1. **Sabatini 文库处理**：读取并清洗 Sabatini sgRNA 文库，将基因 Symbol 映射为 Entrez ID。
+2. **GO 数据处理**：读取 GO10/GO9 文件，映射基因 ID，去重并合并 GO 注释。
+3. **构建体生成**：为每个基因选取最多 10 条 sgRNA，添加前缀、后缀和酶切位点，生成 `final-construct` 序列。
+4. **质控过滤**：
+   - 检查酶切位点（XbaI、BstXI、BlpI）是否唯一
+   - 去除含 `TTTT` 终止信号的序列
+   - 每个基因保留 3 条合格 sgRNA
+5. **文库组装**：
+   - 从 GO10/GO9 中随机抽取目标数量的基因（共 5910 条实验 sgRNA）
+   - 从对照组中抽取 90 条 sgRNA
+   - 合并并标准化基因 Symbol
+6. **结果输出**：保存最终文库和基因注释列表。
 
-## 后续优化方向
-1. 分析两组GO术语集（含complex/含lumen）的差异，确定最优术语组合；
-2. 进一步验证sgRNA序列的特异性，降低脱靶风险；
-3. 自动化处理未映射Symbol，减少手动校准成本。
-
-## 最终状态
-文库构建订单已发出，全流程数据处理无核心问题，可支撑后续实验开展。
+## 注意事项
+1. **随机种子**：脚本设置 `set.seed(25)` 以保证结果可复现，如需调整可修改此参数。
+2. **手动映射表**：`get_manual_mappings()` 函数包含部分无法通过数据库映射的基因，可根据实际情况补充。
+3. **质控标准**：酶切位点和序列过滤规则可在 `qc_filter_and_trim()` 函数中调整。
+4. **文件格式**：输入文件需严格遵循脚本预期格式（如 GO 文件需包含 `SYMBOL`、`GO TERM`、`GO NAME` 列）。

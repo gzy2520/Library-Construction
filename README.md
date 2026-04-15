@@ -1,115 +1,117 @@
 # Library-Construction
 
-> A nucleus-focused CRISPR library construction workflow that connects GO-term curation, public-library comparison, guide design, and oligo ordering into one reproducible project.
+> 一个聚焦细胞核相关基因的 CRISPR 文库构建项目，串联了 GO 基因集整理、公共文库交叉比对、sgRNA 设计与寡核苷酸下单准备。
 
-## Overview
+## 项目简介
 
-This repository records a complete workflow for building a custom CRISPR knockout library centered on nuclear genes. The pipeline starts from GO-derived candidate genes, maps symbols to stable gene identifiers, compares the resulting set with published libraries, designs candidate sgRNAs, and finally exports cloning-ready oligo sequences.
+本仓库记录了一套完整的 CRISPR 敲除文库构建流程。项目从 GO 术语筛选得到候选基因开始，完成基因符号到稳定 ID 的映射，与公开文库进行交叉比较，再进一步设计候选 sgRNA，最终导出适用于克隆和订购的寡核苷酸序列。
 
-The current project materials include:
+当前仓库中的核心结果包括：
 
-- a curated final library table with **6000 constructs**
-- **5910 experimental constructs + 90 control constructs**
-- R scripts for gene-set integration and library assembly
-- Python scripts for sgRNA discovery, sequence conversion, and Venn-preparation utilities
-- overlap figures against **Sabatini** and **Bassik** reference resources
+- 一个包含 **6000 条 constructs** 的最终文库表
+- **5910 条实验 constructs + 90 条对照 constructs**
+- 用于基因集整合和文库组装的 R 脚本
+- 用于 sgRNA 发现、FASTA 处理和序列转换的 Python 脚本
+- 与 **Sabatini** 和 **Bassik** 文库的重叠分析图
 
-## Workflow
+## 流程概览
 
 ```mermaid
 flowchart LR
-    A[GO nucleus-related gene sets] --> B[Symbol cleanup and Entrez ID mapping]
-    B --> C[Merge with controls and build final library table]
-    B --> D[Compare with published libraries<br/>Sabatini / Bassik]
-    C --> E[Candidate gene list]
-    E --> F[sgRNA design from Ensembl cDNA or FASTA]
-    F --> G[Guide ranking and per-gene selection]
-    G --> H[Oligo conversion for cloning / ordering]
+    A["GO 核相关基因集"] --> B["Symbol 清洗与 Entrez ID 映射"]
+    B --> C["合并对照并构建最终文库"]
+    B --> D["与公开文库比较<br/>Sabatini / Bassik"]
+    C --> E["候选基因列表"]
+    E --> F["基于 Ensembl cDNA 或 FASTA 设计 sgRNA"]
+    F --> G["按规则排序并筛选每基因候选 guide"]
+    G --> H["转换为下单 / 克隆所需寡核苷酸"]
 ```
 
-## What Each Part Does
+## 模块说明
 
-### 1. Candidate collection and library assembly
+### 1. 候选基因整理与文库组装
 
-The main R workflow in [`R_code.R`](R_code.R) reads GO-derived TSV files, merges experimental and control components, maps symbols to Entrez IDs with `org.Hs.eg.db`, supplements unresolved entries with a manual mapping table, and exports the final library tables used downstream.
+主流程位于 [`R_code.R`](R_code.R)。该脚本负责读取 GO 结果表、整合实验组与对照组数据、通过 `org.Hs.eg.db` 将 gene symbol 映射为 Entrez ID、对未命中的条目进行手工补充，并输出后续使用的文库表格。
 
-Representative outputs:
+代表性输出文件：
 
 - `Intermediate_library1/constructs10_raw.csv`
 - `Intermediate_library1/constructs9_raw.csv`
 - `Intermediate_library1/control_constructs_raw.csv`
 - `Intermediate_library1/Final_final.csv`
 
-### 2. sgRNA design
+### 2. sgRNA 设计
 
-Two complementary guide-design routes are provided:
+仓库提供了两条互补的 guide 设计路径：
 
-- [`Python_code/guide.py`](Python_code/guide.py): queries Ensembl, retrieves canonical cDNA sequences, scans the first 500 bp, and keeps top NGG-compatible guides after GC and poly-T filtering.
-- [`Python_code/guide_fasta.py`](Python_code/guide_fasta.py): parses local FASTA sequences, converts RefSeq IDs to gene symbols with `mygene`, then applies the same design logic.
+- [`Python_code/guide.py`](Python_code/guide.py)
+  基于 Ensembl REST API 获取 canonical transcript 的 cDNA 序列，在前 500 bp 范围内搜索适合的 sgRNA。
+- [`Python_code/guide_fasta.py`](Python_code/guide_fasta.py)
+  直接解析本地 FASTA 文件，使用 `mygene` 将 RefSeq ID 映射为 gene symbol 后再执行同样的筛选逻辑。
 
-Design heuristics used in the scripts:
+脚本中使用的主要筛选规则：
 
-- scan the first **500 bp**
-- retain **20 nt** spacer candidates with **NGG PAM**
-- discard guides containing `TTTT`
-- keep GC content between **40% and 80%**
-- rank candidates by proximity to **55% GC**
+- 仅扫描前 **500 bp**
+- 保留带 **NGG PAM** 的 **20 nt spacer**
+- 剔除包含 `TTTT` 的序列
+- GC 含量控制在 **40% 到 80%**
+- 按与 **55% GC** 的接近程度排序
 
-### 3. Oligo ordering
+### 3. 寡核苷酸下单准备
 
-[`Python_code/trans.py`](Python_code/trans.py) converts selected guide sequences into cloning-ready oligos by appending forward and reverse adapters compatible with typical CRISPR cloning workflows.
+[`Python_code/trans.py`](Python_code/trans.py) 会将选中的 guide 序列转换为适合 CRISPR 克隆流程的正反向寡核苷酸序列，并补齐相应接头。
 
-Main output:
+主要输出：
 
 - `Python_code/Oligo_Order_Form.csv`
 
-### 4. Public-library overlap analysis
+### 4. 公共文库重叠分析
 
-The script `Python_code/#101926&#101928.py` extracts Ensembl IDs from Addgene/Bassik-style guide names and prepares Venn inputs for overlap analysis against external libraries.
+脚本 `Python_code/#101926&#101928.py` 用于从 Addgene / Bassik 风格的 guide 命名中提取 Ensembl ID，并生成 Venn 分析所需的输入文件，方便与外部文库进行交叉验证。
 
-## Repository Layout
+## 仓库结构
 
 ```text
 .
 ├── R_code.R
 ├── Library1.csv
-├── Intermediate_library1/       # curated tables and intermediate library outputs
-├── Library2/                    # public-library comparison inputs + Venn figures
-├── Python_code/                 # guide design, FASTA processing, oligo export
-└── R_intermediate_code/         # stepwise R scripts used during library assembly
+├── Intermediate_library1/       # 中间表格、筛选结果和最终文库输出
+├── Library2/                    # 公共文库比对输入与 Venn 图
+├── Python_code/                 # sgRNA 设计、FASTA 处理、寡核苷酸导出
+└── R_intermediate_code/         # 分步执行的 R 中间脚本
 ```
 
-## Key Files
+## 关键文件
 
-| File | Role |
+| 文件 | 作用 |
 | --- | --- |
-| `R_code.R` | Main library-construction script from GO terms to final construct table |
-| `Python_code/guide.py` | Canonical-transcript-based sgRNA design via Ensembl REST API |
-| `Python_code/guide_fasta.py` | FASTA-based sgRNA design using RefSeq-to-symbol conversion |
-| `Python_code/trans.py` | Convert guides into forward/reverse oligos for ordering |
-| `Library2/sabatini.svg` | GO nucleus vs Sabatini nucleus overlap |
-| `Library2/bassik.svg` | GO nucleus vs Bassik GEEX / ACOC overlap |
+| `R_code.R` | 从 GO 基因集到最终 constructs 表的主文库构建脚本 |
+| `Python_code/guide.py` | 基于 Ensembl transcript 的 sgRNA 设计流程 |
+| `Python_code/guide_fasta.py` | 基于本地 FASTA 的 sgRNA 设计流程 |
+| `Python_code/trans.py` | 将 guide 转成可订购的正反向寡核苷酸 |
+| `Library2/sabatini.svg` | GO nucleus 与 Sabatini nucleus 的重叠图 |
+| `Library2/bassik.svg` | GO nucleus 与 Bassik GEEX / ACOC 的重叠图 |
 
-## Figures
+## 图示
 
 <table>
   <tr>
     <td align="center">
       <img src="Library2/sabatini.svg" alt="Sabatini overlap" width="420" />
       <br />
-      <sub>Overlap between the GO nucleus gene set and the Sabatini nucleus collection.</sub>
+      <sub>GO nucleus 基因集与 Sabatini nucleus 集合的重叠关系。</sub>
     </td>
     <td align="center">
       <img src="Library2/bassik.svg" alt="Bassik overlap" width="420" />
       <br />
-      <sub>Overlap between the GO nucleus gene set and Bassik GEEX / ACOC sublibraries.</sub>
+      <sub>GO nucleus 基因集与 Bassik GEEX / ACOC 子库的重叠关系。</sub>
     </td>
   </tr>
 </table>
 
-## Reproducibility Notes
+## 复现说明
 
-### R dependencies
+### R 依赖
 
 - `readr`
 - `dplyr`
@@ -118,7 +120,7 @@ The script `Python_code/#101926&#101928.py` extracts Ensembl IDs from Addgene/Ba
 - `org.Hs.eg.db`
 - `AnnotationDbi`
 
-### Python dependencies
+### Python 依赖
 
 - `pandas`
 - `requests`
@@ -126,12 +128,12 @@ The script `Python_code/#101926&#101928.py` extracts Ensembl IDs from Addgene/Ba
 - `mygene`
 - `biopython`
 
-### Important note before rerunning
+### 重新运行前需要注意
 
-Several scripts contain **hard-coded absolute paths** pointing to the original local workspace. If you want to rerun the workflow on another machine, update those paths first.
+仓库中的部分脚本保留了原始开发环境下的**绝对路径**。如果要在新的机器或新目录中复现，请先统一修改输入输出路径。
 
-## Suggested Entry Points
+## 建议阅读顺序
 
-- Start with [`R_code.R`](R_code.R) if you want to understand how the final 6000-construct library was assembled.
-- Start with [`Python_code/guide.py`](Python_code/guide.py) or [`Python_code/guide_fasta.py`](Python_code/guide_fasta.py) if your focus is guide design.
-- Start with [`Python_code/trans.py`](Python_code/trans.py) if you only need the oligo-export step.
+1. 先看 [`R_code.R`](R_code.R)，理解 6000 条文库是如何组装出来的。
+2. 如果重点关注 guide 设计，再看 [`Python_code/guide.py`](Python_code/guide.py) 和 [`Python_code/guide_fasta.py`](Python_code/guide_fasta.py)。
+3. 如果只需要下单序列，则直接看 [`Python_code/trans.py`](Python_code/trans.py)。

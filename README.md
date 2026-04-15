@@ -1,65 +1,137 @@
-# Library 1
-# CRISPR sgRNA 文库构建流程
+# Library-Construction
 
-## 项目简介
-本 R 脚本用于构建针对特定基因本体（GO）术语的 CRISPR sgRNA 文库。流程包括基因 Symbol 与 Entrez ID 的映射、GO 数据处理、sgRNA 序列筛选与质控、最终文库的组装与标准化。
+> A nucleus-focused CRISPR library construction workflow that connects GO-term curation, public-library comparison, guide design, and oligo ordering into one reproducible project.
 
-## 依赖环境
-### R 包
-- `readr`：读取 TSV/CSV 文件
-- `dplyr`：数据清洗与操作
-- `stringr`：字符串处理
-- `readxl`：读取 Excel 文件
-- `org.Hs.eg.db`：人类基因 ID 映射数据库
-- `AnnotationDbi`：基因注释工具
+## Overview
 
-### 安装依赖
-```r
-if (!requireNamespace("BiocManager", quietly = TRUE))
-    install.packages("BiocManager")
+This repository records a complete workflow for building a custom CRISPR knockout library centered on nuclear genes. The pipeline starts from GO-derived candidate genes, maps symbols to stable gene identifiers, compares the resulting set with published libraries, designs candidate sgRNAs, and finally exports cloning-ready oligo sequences.
 
-BiocManager::install(c("org.Hs.eg.db", "AnnotationDbi"))
-install.packages(c("readr", "dplyr", "stringr", "readxl"))
+The current project materials include:
+
+- a curated final library table with **6000 constructs**
+- **5910 experimental constructs + 90 control constructs**
+- R scripts for gene-set integration and library assembly
+- Python scripts for sgRNA discovery, sequence conversion, and Venn-preparation utilities
+- overlap figures against **Sabatini** and **Bassik** reference resources
+
+## Workflow
+
+```mermaid
+flowchart LR
+    A[GO nucleus-related gene sets] --> B[Symbol cleanup and Entrez ID mapping]
+    B --> C[Merge with controls and build final library table]
+    B --> D[Compare with published libraries<br/>Sabatini / Bassik]
+    C --> E[Candidate gene list]
+    E --> F[sgRNA design from Ensembl cDNA or FASTA]
+    F --> G[Guide ranking and per-gene selection]
+    G --> H[Oligo conversion for cloning / ordering]
 ```
 
-## 输入文件
-请确保以下文件路径在脚本中正确配置：
-1. **GO10.tsv**：包含目标 GO 术语（如 `GO:0051457`、`GO:0006974` 等）的基因列表
-2. **GO9.tsv**：包含另一组 GO 术语（如 `GO:0031981`、`GO:0005880` 等）的基因列表
-3. **control_raw.xlsx**：对照组 sgRNA 序列文件
-4. **human_gene-KO_sabatini.xlsx**：Sabatini 人类 sgRNA 文库（需包含 `Human sgRNA library` 工作表）
+## What Each Part Does
 
-## 输出文件
-脚本运行后将生成以下文件（路径可在脚本中修改）：
-1. **constructs10_raw.csv**：GO10 组原始 sgRNA 构建体
-2. **constructs9_raw.csv**：GO9 组原始 sgRNA 构建体
-3. **control_constructs_raw.csv**：对照组原始 sgRNA 构建体
-4. **constructs10_clean.csv**：GO10 组质控后 sgRNA 构建体
-5. **constructs9_clean.csv**：GO9 组质控后 sgRNA 构建体
-6. **control_constructs_clean.csv**：对照组质控后 sgRNA 构建体
-7. **Final_final.csv**：最终组装的标准化 sgRNA 文库
-8. **final_geneid_list.csv**：最终选择的基因 ID 及其 GO 注释信息
+### 1. Candidate collection and library assembly
 
-## 使用说明
-1. **修改文件路径**：打开脚本，将 `path_go10`、`path_go9`、`path_control`、`path_sabatini` 等输入/输出路径修改为本地实际路径。
-2. **运行脚本**：在 R 或 RStudio 中运行完整脚本。
+The main R workflow in [`R_code.R`](R_code.R) reads GO-derived TSV files, merges experimental and control components, maps symbols to Entrez IDs with `org.Hs.eg.db`, supplements unresolved entries with a manual mapping table, and exports the final library tables used downstream.
 
-## 主要流程
-1. **Sabatini 文库处理**：读取并清洗 Sabatini sgRNA 文库，将基因 Symbol 映射为 Entrez ID。
-2. **GO 数据处理**：读取 GO10/GO9 文件，映射基因 ID，去重并合并 GO 注释。
-3. **构建体生成**：为每个基因选取最多 10 条 sgRNA，添加前缀、后缀和酶切位点，生成 `final-construct` 序列。
-4. **质控过滤**：
-   - 检查酶切位点（XbaI、BstXI、BlpI）是否唯一
-   - 去除含 `TTTT` 终止信号的序列
-   - 每个基因保留 3 条合格 sgRNA
-5. **文库组装**：
-   - 从 GO10/GO9 中随机抽取目标数量的基因（共 5910 条实验 sgRNA）
-   - 从对照组中抽取 90 条 sgRNA
-   - 合并并标准化基因 Symbol
-6. **结果输出**：保存最终文库和基因注释列表。
+Representative outputs:
 
-## 注意事项
-1. **随机种子**：脚本设置 `set.seed(25)` 以保证结果可复现，如需调整可修改此参数。
-2. **手动映射表**：`get_manual_mappings()` 函数包含部分无法通过数据库映射的基因，可根据实际情况补充。
-3. **质控标准**：酶切位点和序列过滤规则可在 `qc_filter_and_trim()` 函数中调整。
-4. **文件格式**：输入文件需严格遵循脚本预期格式（如 GO 文件需包含 `SYMBOL`、`GO TERM`、`GO NAME` 列）。
+- `Intermediate_library1/constructs10_raw.csv`
+- `Intermediate_library1/constructs9_raw.csv`
+- `Intermediate_library1/control_constructs_raw.csv`
+- `Intermediate_library1/Final_final.csv`
+
+### 2. sgRNA design
+
+Two complementary guide-design routes are provided:
+
+- [`Python_code/guide.py`](Python_code/guide.py): queries Ensembl, retrieves canonical cDNA sequences, scans the first 500 bp, and keeps top NGG-compatible guides after GC and poly-T filtering.
+- [`Python_code/guide_fasta.py`](Python_code/guide_fasta.py): parses local FASTA sequences, converts RefSeq IDs to gene symbols with `mygene`, then applies the same design logic.
+
+Design heuristics used in the scripts:
+
+- scan the first **500 bp**
+- retain **20 nt** spacer candidates with **NGG PAM**
+- discard guides containing `TTTT`
+- keep GC content between **40% and 80%**
+- rank candidates by proximity to **55% GC**
+
+### 3. Oligo ordering
+
+[`Python_code/trans.py`](Python_code/trans.py) converts selected guide sequences into cloning-ready oligos by appending forward and reverse adapters compatible with typical CRISPR cloning workflows.
+
+Main output:
+
+- `Python_code/Oligo_Order_Form.csv`
+
+### 4. Public-library overlap analysis
+
+The script `Python_code/#101926&#101928.py` extracts Ensembl IDs from Addgene/Bassik-style guide names and prepares Venn inputs for overlap analysis against external libraries.
+
+## Repository Layout
+
+```text
+.
+├── R_code.R
+├── Library1.csv
+├── Intermediate_library1/       # curated tables and intermediate library outputs
+├── Library2/                    # public-library comparison inputs + Venn figures
+├── Python_code/                 # guide design, FASTA processing, oligo export
+└── R_intermediate_code/         # stepwise R scripts used during library assembly
+```
+
+## Key Files
+
+| File | Role |
+| --- | --- |
+| `R_code.R` | Main library-construction script from GO terms to final construct table |
+| `Python_code/guide.py` | Canonical-transcript-based sgRNA design via Ensembl REST API |
+| `Python_code/guide_fasta.py` | FASTA-based sgRNA design using RefSeq-to-symbol conversion |
+| `Python_code/trans.py` | Convert guides into forward/reverse oligos for ordering |
+| `Library2/sabatini.svg` | GO nucleus vs Sabatini nucleus overlap |
+| `Library2/bassik.svg` | GO nucleus vs Bassik GEEX / ACOC overlap |
+
+## Figures
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="Library2/sabatini.svg" alt="Sabatini overlap" width="420" />
+      <br />
+      <sub>Overlap between the GO nucleus gene set and the Sabatini nucleus collection.</sub>
+    </td>
+    <td align="center">
+      <img src="Library2/bassik.svg" alt="Bassik overlap" width="420" />
+      <br />
+      <sub>Overlap between the GO nucleus gene set and Bassik GEEX / ACOC sublibraries.</sub>
+    </td>
+  </tr>
+</table>
+
+## Reproducibility Notes
+
+### R dependencies
+
+- `readr`
+- `dplyr`
+- `stringr`
+- `readxl`
+- `org.Hs.eg.db`
+- `AnnotationDbi`
+
+### Python dependencies
+
+- `pandas`
+- `requests`
+- `urllib3`
+- `mygene`
+- `biopython`
+
+### Important note before rerunning
+
+Several scripts contain **hard-coded absolute paths** pointing to the original local workspace. If you want to rerun the workflow on another machine, update those paths first.
+
+## Suggested Entry Points
+
+- Start with [`R_code.R`](R_code.R) if you want to understand how the final 6000-construct library was assembled.
+- Start with [`Python_code/guide.py`](Python_code/guide.py) or [`Python_code/guide_fasta.py`](Python_code/guide_fasta.py) if your focus is guide design.
+- Start with [`Python_code/trans.py`](Python_code/trans.py) if you only need the oligo-export step.
